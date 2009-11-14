@@ -1,0 +1,5177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-11-14 13:52+0100\n"
+"PO-Revision-Date: 2009-11-14 13:52+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: The_Silver_Lands/_main.cfg:67
+msgid "The Silver Lands"
+msgstr ""
+
+#: The_Silver_Lands/_main.cfg:71
+msgid "(Intermediate level, 2 scenarios done.)"
+msgstr ""
+
+#: The_Silver_Lands/_main.cfg:73
+msgid "Version:"
+msgstr ""
+
+#: The_Silver_Lands/_main.cfg:73
+msgid "(requires Battle for Wesnoth 1.7.6 or later)"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:79
+msgid "Episode I:"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:80
+msgid "Gathering the Grand Power"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:82
+msgid ""
+"Even after the fall of the great Chaos Empire there are still those loyal to "
+"the great evil; those people are very eager to reform that monstrosity, and "
+"they are willing to do anything to unleash the horrible evils into this "
+"world.\n"
+"\n"
+"Our 'little' story takes us to the region east of the commonly known, to an "
+"elementalist who will accomplish the seemingly impossible."
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:85
+msgid "TSL-1"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "(Sadistically Difficult)"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "difficulty_menu^Sage"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "difficulty_menu^Initiate"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "difficulty_menu^Sorcerer"
+msgstr ""
+
+#. [campaign]
+#: The_Silver_Lands/_main.cfg:88
+msgid "(Trivial)"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:13
+msgid "Creator and Lead Designer"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:22
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:32
+msgid "Maintenance and release toolkit"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:39
+msgid "Graphics"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:154
+msgid "Sound effects"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:165
+msgid "SVN services and hosting"
+msgstr ""
+
+#. [entry]
+#: The_Silver_Lands/about.cfg:167
+msgid "Coordinated Wesnoth UMC Development Project"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:179
+msgid "IRC Bots"
+msgstr ""
+
+#. [about]
+#: The_Silver_Lands/about.cfg:189
+msgid "Additional thanks to"
+msgstr ""
+
+#. [entry]
+#: The_Silver_Lands/about.cfg:204
+msgid "All those who gave me valuable feedback"
+msgstr ""
+
+#. [entry]
+#: The_Silver_Lands/about.cfg:207
+msgid "All those who reported and/or fixed bugs in this campaign"
+msgstr ""
+
+#. [entry]
+#: The_Silver_Lands/about.cfg:210
+msgid "You, for playing this campaign"
+msgstr ""
+
+#. [entry]
+#: The_Silver_Lands/about.cfg:213
+msgid "Anyone else I could forget to mention"
+msgstr ""
+
+#: The_Silver_Lands/base-rc.cfg:35
+msgid "Cyan"
+msgstr ""
+
+#: The_Silver_Lands/base-rc.cfg:36
+msgid "Yellow"
+msgstr ""
+
+#: The_Silver_Lands/base-rc.cfg:37
+msgid "Pink"
+msgstr ""
+
+#. [editor_group]: id=wesnoth-UMC-The_Silver_Lands
+#: The_Silver_Lands/editor-loader.cfg:26
+msgid "The Silver Lands (custom terrain)"
+msgstr ""
+
+#. [scenario]: id=01_The_Aftermath
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:5
+msgid "The Aftermath"
+msgstr ""
+
+#. [side]: type=Orcish Initiate, id=Sorum'tar
+#. [side]
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:34
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:73
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:41
+msgid "team_name^Heroes"
+msgstr ""
+
+#. [side]: type=Orcish Initiate, id=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:37
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:45
+msgid "Sorum'tar"
+msgstr ""
+
+#. [side]: type=Young Dark Sorcerer, id=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:53
+msgid "Shiri'ima"
+msgstr ""
+
+#. [side]: type=Young Dark Sorcerer, id=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:56
+msgid "team_name^Loyalists"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:193
+msgid "Defeat Shiri'ima"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:197
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:597
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1878
+msgid "Death of Sorum'tar"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:201
+msgid "Turns run out"
+msgstr ""
+
+#. [objectives]
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:206
+msgid "60% of finishing gold carried over to the next scenario."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:215
+msgid ""
+"You, dark sorcerer, shall tell me what happened and why you are here… or I "
+"shall be forced to swiftly smite you…"
+msgstr ""
+
+#. [message]: speaker=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:220
+msgid ""
+"Heh heh heh, you fool! It is I who'll be doing the smiting around here… just "
+"like my overlords smote your friends and destroyed this place! Heh heh heh, "
+"you'll see your 'kin…' when they are killing you! Heh heh heh!"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:225
+msgid "Not if I can help it… you bastard!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:248
+msgid ""
+"Heh heh… although you defeated me, you will die at the hands of my "
+"overlords! Heh heh heh!"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:253
+msgid ""
+"Before you die, you shall answer one question… Who orchestrated all of this?"
+msgstr ""
+
+#. [message]: speaker=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:258
+msgid ""
+"Heh heh heh… Fine, I guess I'll tell you; it's not like such knowledge would "
+"help you anway…"
+msgstr ""
+
+#. [message]: speaker=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:263
+msgid "It was— *ARRRRGGH* NO, LORD… Zeal… ugh…"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:268
+msgid "Narrator"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:270
+msgid ""
+"'And so Shiri'ima died due to the power of the one known as Zeal.' Why? That "
+"shall be discovered soon…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:275
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1123
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1169
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1692
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2191
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2280
+msgid "…"
+msgstr ""
+
+#. [unit]: type=Lich, id=Mal Urtumikro
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:294
+msgid "Mal Urtumikro"
+msgstr ""
+
+#. [message]: speaker=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:300
+msgid ""
+"Heh heh heh… Help has arrived, prepare to be smitten, you failures! Heh heh "
+"heh…"
+msgstr ""
+
+#. [message]: speaker=Mal Urtumikro
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:305
+msgid "Prepare to die… forever, you pathetic losers! Muahahahahahahah!"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:310
+msgid "Damn it, that lich is too powerful. We are doomed!"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:326
+msgid "Zeal?"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:331
+msgid ""
+"Hmmmmm… that name sounds a bit familiar. Nonetheless, we must leave this "
+"place… We must embark on a quest in order to deal with those vile fanatics, "
+"otherwise, something terrible will happen."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:336
+msgid "Well what would—"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:341
+msgid "There is no time to talk about that! We must leave now!"
+msgstr ""
+
+#. [unit]: type=Ghost, id=Tyramos
+#. [unit]: id=Tyramos, type=$tyramos_probe.type
+#: The_Silver_Lands/utils/fallback-utils.cfg:9
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:361
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:416
+msgid "Tyramos"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:428
+msgid "Sorum'tar… I have returned…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:433
+msgid "Master Tyramos, is that you?"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:438
+msgid "Yes, it is I."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:443
+msgid "Master, what happened; why are you—"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:448
+msgid ""
+"There's no time to discuss that! I have come back from the afterlife in "
+"order to prevent a catastrophe from occurring! I shall explain all of this, "
+"after we get rid of that dark sorcerer."
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:515
+msgid "Now, enough talking, it is time for you to die, foul necromancer!"
+msgstr ""
+
+#. [message]: speaker=Shiri'ima
+#: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:520
+msgid "Heh heh heh… Yeah, whatever…"
+msgstr ""
+
+#. [scenario]: id=02_The_Northern_Forest
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:5
+msgid "The Northern Forest"
+msgstr ""
+
+#. [unit_type]: id=Tears of the Forest, race=elemental
+#. [unit]: id=TotF, type=Tears of the Forest
+#: The_Silver_Lands/units/elementals/Tears_of_the_Forest.cfg:8
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:429
+msgid "Tears of the Forest"
+msgstr ""
+
+#. [scenario]: id=02_The_Northern_Forest
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:555
+msgid ""
+"North: Sérqitum\n"
+"Northeast: The Tomb of Tyurnio\n"
+"East: The Swamp of Eternal Misery (Keep Out)\n"
+"West: Blessed Spring; Creek of Joy"
+msgstr ""
+
+#. [scenario]: id=02_The_Northern_Forest
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:562
+msgid ""
+"WARNING! Do not enter the swamp, or you shall be devoured by its horrific "
+"denizens…\n"
+"\n"
+"You have been warned.\n"
+"\n"
+"Many people with the desire to end their lives have entered this swamp. "
+"Stop; do not enter; do not lose hope; life is worth living."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:571
+msgid ""
+"Huh? Shouldn't Naia be greeting us by now? Also, what's up with this fog? "
+"This darkness and this fog is highly unnatural…"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:576
+msgid "It would seem that this place has been cursed by a highly potent force."
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:581
+msgid ""
+"Regardless, we need to reach Sérqitum. However, we are not in a hurry, so, "
+"we have time to explore the forest…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:586
+msgid "All right then."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:593
+msgid "Explore the forest"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:601
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1882
+msgid "Death of Tyramos"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:620
+msgid "Wow, this water feels magnificent! It even feels like it is healing me!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:626
+msgid ""
+"This a very rare and special type of spring. Its blessèd waters will heal "
+"your units by eight hitpoints per turn and cure poisoning."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:644
+msgid ""
+"Hmmm… a skeleton… Oh, there's a bottle with a piece of paper inside right "
+"next to it! *pop*"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:650
+msgid "Journal Entry — Date: ?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:653
+msgid ""
+"Har har har… although I am beat up pretty badly, I have escaped from the "
+"wretched king's soldiers. They'll never find me precious treasure, as I have "
+"buried it nearby, at the points of seven, thirty-seven. As long as that "
+"greedy bastard, the King of Wesnoth never finds it, I'll be able to rest in "
+"peace in this forest forevermore…\n"
+"\n"
+"— Captian Nuram"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:658
+msgid "Oooh, treasure! Maybe it hasn't been discovered yet!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:671
+msgid "I think the treasure's here… OK, let's dig!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:687
+msgid "Ah, a chest! Let's open it!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:712
+msgid "You retrieve 300 pieces of gold."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:722
+msgid ""
+"Wow! three hundred pieces of gold! Sorry for taking your precious treasure "
+"Captain Nuram, but it shall be put to good use. May you continue to rest in "
+"peace."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:755
+msgid "Kahtchhhhhhh!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:769
+msgid "WHAT THE HELL IS THAT THING!"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:774
+msgid ""
+"Those horrific creatures are known as Shaxthals. We should leave the swamp "
+"due to their dreadful power."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:781
+msgid "Oh no, there are Shaxthals in this swamp! We must leave at once!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:793
+msgid "Damn it, it's an ambush!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:808
+msgid "Tchhhhhhhhhhhh… Chrrrrrr… *gurgle*"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:813
+msgid "*vomits*"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:818
+msgid "Ugh, disgusting… Eh? What's that shiny stuff?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:828
+msgid "You retrieve 200 pieces of gold."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:838
+msgid "Wow, two hundred pieces of gold! And… a key?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:892
+msgid "What is that glowing thingy?"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:897
+msgid ""
+"That is the phenomenon known as the 'Tears of the Forest.' It is essentially "
+"one of many manifestations of the forest's sadness. The manifestations "
+"generally appear whenever there is a restless, miserable, or hate-filled "
+"spirit present or if something devastating happened to the forest."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:904
+msgid "Ah, it would appear that the forest is sad…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:909
+msgid "Uh, what?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:914
+msgid ""
+"This glowing orb is known as the 'Tears of the Forest.' The reason that it "
+"bears such a name is due to the fact that it is essentially a manifestation "
+"of the forest's sadness. These generally appear whenever there is a "
+"restless, miserable, or hate-filled spirit present or if something "
+"devastating happened to the forest."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:919
+msgid "Uh huh… I see…"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:924
+msgid "I see that your lack of interest in these things still lingers… "
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:934
+msgid ""
+"Hmmm… It went down that road… I think that it wants us to follow it; I could "
+"hear it muttering 'to the tomb… to the tomb…'"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:995
+msgid ""
+"Concern yourself not with entering this tomb, but with profaning it. "
+"Nonetheless, choose your own path; make your own decisions."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1006
+msgid ""
+"That glowing yellow circle is beckoning us… Something must be waiting for us "
+"inside of the tomb…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1058
+msgid "Nothing happened… Why don't you try opening it, Sorum'tar?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1117
+msgid "Gate Keeper"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1118
+msgid "Thou art not worthy enough to open this gate!"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1159
+msgid "What the hell was that!"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1164
+msgid ""
+"Those… things were used in the attack against us… Their appearence and "
+"function are similar to that of the thundersticks used by the Dwarves, but "
+"these are far deadlier."
+msgstr ""
+
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1196
+msgid "Ugh, those scumbags have defeated me!"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1201
+msgid "How could we have allowed this to happen?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1228
+msgid ""
+"I am terribly sorry Master Liminos, Lord Shirit, orc, ghostly one… I have "
+"failed… Good… luck…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1235
+msgid ""
+"I am terribly sorry Lord Shirit, orc, ghostly one… I have failed… If any of "
+"you ever find Master Liminos, tell him that I am grateful for all that he "
+"has done… Good… luck…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1262
+msgid ""
+"Ugh… I… am… terribly sorry… milady… Please smite… them… for the three of us…"
+msgstr ""
+
+#. [message]: speaker=Mal Ameriälis
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1267
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1285
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1643
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1804
+msgid "*sigh*"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1280
+msgid ""
+"Milady, I'm sorry… Please make sure that the operation suceeds… for the "
+"three of us…"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1295
+msgid "You hear the constant clanking of armor and see smoke in the distance."
+msgstr ""
+
+#. [message]: speaker=Mal Ameriälis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1300
+msgid ""
+"Muahahahahahah! Reinforcements are very close! All of you might as well give "
+"up!"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1305
+msgid "Oh no, we are surely doomed!"
+msgstr ""
+
+#. [unit]: id=Moranku-Shirit, type=Ancient Wose
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1341
+msgid "Moranku-Shirit"
+msgstr ""
+
+#. [unit]: id=Shinseidesuki-Liminos, type=Wose Magister
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1350
+msgid "Shinseidesuki-Liminos"
+msgstr ""
+
+#. [unit]: id=Qunet, type=Dark Knight
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1360
+msgid "Qunet"
+msgstr ""
+
+#. [unit]: id=Miqush, type=Chaos Longbowman
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1373
+msgid "Miqush"
+msgstr ""
+
+#. [unit]: id=Mal Ameriälis, type=Lich
+#. [unit]: id=MAAP, type=Lich Astral Projection
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1387
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1740
+msgid "Mal Ameriälis"
+msgstr ""
+
+#. [unit]: id=Gruntís-Sorum, type=Wose Shaman
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1409
+msgid "Gruntís-Sorum"
+msgstr ""
+
+#. [unit]: id=Quintus, type=Chaos Cavalier
+#. [unit]: id=Quintus, type=Soulless
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1421
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1950
+msgid "Quintus"
+msgstr ""
+
+#. [unit]: id=Dotakufi, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1435
+msgid "Dotakufi"
+msgstr ""
+
+#. [unit]: id=Dotakufo, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1447
+msgid "Dotakufo"
+msgstr ""
+
+#. [unit]: id=Dotakuko, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1460
+msgid "Dotakuko"
+msgstr ""
+
+#. [unit]: id=Dotakuki, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1472
+msgid "Dotakuki"
+msgstr ""
+
+#. [unit]: id=Dotakudo, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1485
+msgid "Dotakudo"
+msgstr ""
+
+#. [unit]: id=Dotakudi, type=Rock Golem
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1497
+msgid "Dotakudi"
+msgstr ""
+
+#. [unit]: id=Suitō, type=Undine
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1510
+msgid "Suitō"
+msgstr ""
+
+#. [unit]: id=Suitsu, type=Undine
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1522
+msgid "Suitsu"
+msgstr ""
+
+#. [unit]: id=Suijō, type=Undine
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1534
+msgid "Suijō"
+msgstr ""
+
+#. [unit]: id=Suina, type=Undine
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1546
+msgid "Suina"
+msgstr ""
+
+#. [message]: speaker=Gruntís-Sorum
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1590
+msgid ""
+"Welcome to Sérqitum. Master Liminos and Lord Shirit have been expecting you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1597
+msgid "?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1599
+msgid ""
+"You, get out of here and never come back again! We shall never join your "
+"demonic organization!"
+msgstr ""
+
+#. [message]: speaker=Gruntís-Sorum
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1604
+msgid "Ugh… not again…"
+msgstr ""
+
+#. [message]: speaker=Gruntís-Sorum
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1609
+msgid "Please follow me…"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1614
+msgid "Very well."
+msgstr ""
+
+#. [message]: speaker=Quintus
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1638
+msgid ""
+"Fine, don't join our supreme organization, but, keep in mind that those who "
+"don't join us shall die by our sublime hand! Hahahahahahahahaha!"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1649
+msgid "Leave now… or thou shalt be fried! Thou sawest my grand capabilities!"
+msgstr ""
+
+#. [message]: speaker=Quintus
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1654
+msgid "Eeeek!"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1668
+msgid "HA!"
+msgstr ""
+
+#. [message]: speaker=Gruntís-Sorum
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1673
+msgid "Uh, Master Liminos; Lord Shirit, our guests have arrived…"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1678
+msgid "Eh?"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1687
+msgid "Oh, hello there, Tyramos; Sorum'tar…"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1697
+msgid "Hello Shinsei. What was all of that?"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1702
+msgid ""
+"That was one of the Loyalists' messengers… They have this crazy idea that "
+"anyone would join their pathetic shell of a former empire. They even think "
+"that burning portions of the forest will make us join or surrender."
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1707
+msgid ""
+"Little do they know, the very forest itself would rather perish than to "
+"tolerate the mere presence of those vulgar fanat—"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1713
+msgid ""
+"Oh, so we're merely a shell of a former empire? A mere cleanup crew could "
+"deal with the likes of you!"
+msgstr ""
+
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1728
+msgid "Who is there? Showest thy presence!"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1749
+msgid "Well, the witch has finally decided to reveal herself!"
+msgstr ""
+
+#. [message]: speaker=MAAP
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1754
+msgid ""
+"… Enough with this! All of you are either going to surrender or we shall "
+"smite all of you!"
+msgstr ""
+
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1759
+msgid ""
+"For the last damn time, we are never going to join or surrender to the likes "
+"of thee!"
+msgstr ""
+
+#. [message]: speaker=MAAP
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1764
+msgid "Very well… You have just entered a war that you can never win!"
+msgstr ""
+
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1783
+msgid "Well, we ought to prepare for a long battle…"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1788
+msgid "I shall go up the road and disrupt the advancement of their forces…"
+msgstr ""
+
+#. [message]: speaker=Moranku-Shirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1799
+msgid "There is a keep in the northwestern section of the city… Good luck…"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1809
+msgid "All right then, good luck…"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1874
+msgid "Defeat Mal Ameriälis"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1886
+msgid "Death of Moranku-Shirit"
+msgstr ""
+
+#. [message]: speaker=Quintus
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1921
+msgid "Damn it… if only I had another chance…"
+msgstr ""
+
+#. [message]: speaker=Mal Ameriälis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1926
+msgid "*smiles creepily* Heh…"
+msgstr ""
+
+#. [message]: speaker=Shinseidesuki-Liminos
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1983
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2354
+msgid "Ugh…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1997
+msgid "No, Magister Liminos!"
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2002
+msgid "Do not worry about him; he merely teleported to a safe location…"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2007
+msgid "I see…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2023
+msgid "Huh? What was that sound?"
+msgstr ""
+
+#. [unit]: type=Shaxthal Sentry Drone, id=Runitukis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2031
+msgid "Runitukis"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2123
+msgid "There it is!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2134
+msgid "I think that it wants us to read the monolith."
+msgstr ""
+
+#. [message]: speaker=Tyramos
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2196
+msgid "And so they have opened…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2247
+msgid "Huh?"
+msgstr ""
+
+#. [unit]: id=Tyurnio, type=Elvish Forefather
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2256
+msgid "Tyurnio"
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2270
+msgid "An elf?"
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2275
+msgid "Who dares to disturb my rest?"
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2285
+msgid ""
+"I, Tyrunio, one of the past rulers of Sérqitum, and by extension, one of the "
+"past rulers of this forest should not have to deal with this ever again! "
+"Vile orc, your ancestors have disturbed and slaughtered my people for "
+"centuries… I shall not accept your presence in my tomb."
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2290
+msgid "Due to the sins that you bear, you shall perish! GUARDS!"
+msgstr ""
+
+#. [unit]: id=Galés, type={DIFF (Elvish Warrior Spirit) (Elvish Warrior Spirit) (Elvish Ancestor)}
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2300
+msgid "Galés"
+msgstr ""
+
+#. [unit]: id=Landor, type={DIFF (Elvish Warrior Spirit) (Elvish Warrior Spirit) (Elvish Ancestor)}
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2320
+msgid "Landor"
+msgstr ""
+
+#. [unit]: id=Górenas, type=Elvish Warrior Spirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2341
+msgid "Górenas"
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2387
+msgid ""
+"Ugh… You are indeed a worthy opponent… In addition, you don't seem like the "
+"other orcs… Please take this as a token of my apologies…"
+msgstr ""
+
+#. [event]
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2392
+msgid ""
+"Eh? The necklace has a little scroll attached to the chain. Let's read it... "
+"'Anyone who wears this artifact will have an immense amount of arcane energy "
+"flow through them, thus empowering any attacks that involve arcane energy. "
+"In addition, the wearer's resistance to arcane attacks will be heightened.'"
+msgstr ""
+
+#. [object]: id=arcane_pendant
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2396
+msgid "Sublime Pendant of Arcanity"
+msgstr ""
+
+#. [object]: id=arcane_pendant
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2399
+msgid ""
+"The highly potent gem set in the pendant is a practically endless source of "
+"arcane energy, thus giving a 20% increase to the bearer's arcane attacks and "
+"providing a 20% increase to the bearer's arcane resistance."
+msgstr ""
+
+#. [object]: id=arcane_pendant
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2400
+msgid "This item is dangerous towards creatures composed of pure energy."
+msgstr ""
+
+#. [message]: speaker=Sorum'tar
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2430
+msgid "Uh, thanks…"
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2435
+msgid "Use it well."
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2453
+msgid "Guards, all is well now; let us return to our eternal rest!"
+msgstr ""
+
+#. [message]: speaker=Tyurnio
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2478
+msgid "And now, I bid all of you adieu."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2514
+msgid "Die, you cruel witch!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2520
+msgid "Aghhhhhhhhhhhhhhhheeeeeeeeeeeeaaaaaaaa!"
+msgstr ""
+
+#. [unit]: id=Ameriälis, type=Elvish Sylph Spirit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2534
+msgid "Ameriälis"
+msgstr ""
+
+#. [message]: speaker=Ameriälis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2548
+msgid "… … … Thank you… for freeing me… from that spell…"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2553
+msgid "… Who are you?"
+msgstr ""
+
+#. [message]: speaker=Ameriälis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2558
+msgid "You will be told very soon, my savior…"
+msgstr ""
+
+#. [message]: speaker=Ameriälis
+#: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2563
+msgid ""
+"Now… creatures of the afterlife being held here by my will, return to the "
+"afterlife!"
+msgstr ""
+
+#. [terrain_type]: id=blessed-spring
+#: The_Silver_Lands/terrain-virtual.cfg:15
+msgid "Blessed Spring"
+msgstr ""
+
+#. [terrain_type]: id=overlay-campfire
+#: The_Silver_Lands/terrain-virtual.cfg:54
+msgid "Campfire"
+msgstr ""
+
+#. [terrain_type]: id=overlay-brazier
+#. [terrain_type]: id=overlay-brazier-unlit
+#: The_Silver_Lands/terrain-virtual.cfg:67
+#: The_Silver_Lands/terrain-virtual.cfg:77
+msgid "Brazier"
+msgstr ""
+
+#. [terrain_type]: id=overlay-pit
+#. [time]: id=indoors_hive
+#. [illuminated_time]: id=indoors_hive_illum
+#. [terrain_type]: id=dark-hive-floor
+#. [terrain_type]: id=dark-hive-surface
+#. [terrain_type]: id=lair-floor
+#: The_Silver_Lands/terrain-virtual.cfg:89
+#: The_Silver_Lands/utils/schedules.cfg:74
+#: The_Silver_Lands/utils/schedules.cfg:84 The_Silver_Lands/terrain.cfg:27
+#: The_Silver_Lands/terrain.cfg:35 The_Silver_Lands/terrain.cfg:43
+msgid "Dark Hive"
+msgstr ""
+
+#. [terrain_type]: id=overlay-summoning-circle
+#. [terrain_type]: id=overlay-summoning-circle-turquoise
+#. [terrain_type]: id=overlay-rune-ansuz
+#. [terrain_type]: id=overlay-rune-jeran
+#. [terrain_type]: id=overlay-rune-jeran-second
+#. [terrain_type]: id=overlay-rune-gar
+#. [terrain_type]: id=overlay-rune-stan
+#. [terrain_type]: id=overlay-rune-othila
+#. [terrain_type]: id=overlay-rune-ansuz-turquoise
+#. [terrain_type]: id=overlay-rune-jeran-turquoise
+#. [terrain_type]: id=overlay-rune-jeran-second-turquoise
+#. [terrain_type]: id=overlay-rune-gar-turquoise
+#. [terrain_type]: id=overlay-rune-stan-turquoise
+#. [terrain_type]: id=overlay-rune-othila-turquoise
+#: The_Silver_Lands/terrain-virtual.cfg:102
+#: The_Silver_Lands/terrain-virtual.cfg:114
+#: The_Silver_Lands/terrain-virtual.cfg:126
+#: The_Silver_Lands/terrain-virtual.cfg:137
+#: The_Silver_Lands/terrain-virtual.cfg:148
+#: The_Silver_Lands/terrain-virtual.cfg:159
+#: The_Silver_Lands/terrain-virtual.cfg:170
+#: The_Silver_Lands/terrain-virtual.cfg:181
+#: The_Silver_Lands/terrain-virtual.cfg:192
+#: The_Silver_Lands/terrain-virtual.cfg:203
+#: The_Silver_Lands/terrain-virtual.cfg:214
+#: The_Silver_Lands/terrain-virtual.cfg:225
+#: The_Silver_Lands/terrain-virtual.cfg:236
+#: The_Silver_Lands/terrain-virtual.cfg:247
+msgid "Summoning Circle"
+msgstr ""
+
+#. [terrain_type]: id=overlay-gate-se
+#. [terrain_type]: id=overlay-gate-sw
+#: The_Silver_Lands/terrain-virtual.cfg:267
+#: The_Silver_Lands/terrain-virtual.cfg:275
+msgid "Gate"
+msgstr ""
+
+#. [terrain_type]: id=wasteland
+#: The_Silver_Lands/terrain.cfg:15
+msgid "Wasteland"
+msgstr ""
+
+#: The_Silver_Lands/units/demons-and-imps.cfg:8
+msgid ""
+"Abalam,Abbadon,Abigor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
+"Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,Asael,Asag,"
+"Asb'el,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,"
+"Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,"
+"Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,Belzebuth,Beowulf,Berith,"
+"Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,"
+"Castor,Cerberus,Chamos,Chazaqiel,Corson,Daalberith,Dagon,Daniel,Dantalion,"
+"Decarabia,Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Eligos,Eurynomous,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hades,Humbaba,Iblis,Ipos,Jevan,"
+"Jevyan,Jutas,Juvart,Kabhanda,Kain,Kakko,Karo,Kasadya,Kasdaye,Kimaris,Kobal,"
+"Kokabiel,Kuno,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,"
+"Lucifer,Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nati,Nebiros,"
+"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
+"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
+"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pyhton,"
+"Rahab,Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,"
+"Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,"
+"Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,"
+"Sidragasum,Sin,Sith,Sitri,Sonnillon,Soufflet,Spar,Stolas,Surgat,Tabaet,"
+"Tamiel,Tannin,Taurus,Teeraal,Temeluchus,Thammuz,Theracar,Thorin,Thurin,Triel,"
+"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,"
+"Vine,Vual,Xandros,Xaphan,Yeqon,Yeter'el,Yomiel,Zagan,Zama,Zaqiel,Zepar,Zet,"
+"Zeth,Zuno"
+msgstr ""
+
+#: The_Silver_Lands/units/demons-and-imps.cfg:9
+msgid ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Ammit,Amy,Ania,Anna,Ariel,"
+"Ashtaroth,Astarte,Astoreth,Bellatrix,Bruxe,Charon,Charusse,Dana,Dara,Darma,"
+"Delepitore,Demona,Deth,Devila,Devira,Devyan,Dul,Duna,Eisheth Zenunil,Empusa,"
+"Euryale,Evila,Evira,Faira,Fania,Faria,Gaia,Gremory,Gresil,Hecate,Iril,Iruel,"
+"Issyl,Izara,Jarla,Jevyan,Juno,Kalah,Kaleh,Kana,Karma,Kindite,Kuna,Kyrah,"
+"Lamashtu,Lamia,Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Lyla,"
+"Magna,Mara,Medusa,Melchiresa,Melusine,Mir,Mir Kaleh,Musah,Naamah,Naia,Nebula,"
+"Neuralger,Nadia,Nidia,Nirvana,Nirvenia,Onoskelis,Prosperpine,Rangda,Rusalka,"
+"Sabata,Satana,Sela,Shar,Sheol,Selene,Sonnielion,Stheno,Sul,Summa,Sycorax,Syl,"
+"Sylin,Sylith,Symia,Talah,Talam,Taweret,Tundra,Turen,Tzitzimime,Unsere,Uzza,"
+"Verrier,Vepar,Vulpecula,Xandar,Xandria,Xeth,Xindra,Xindar,Yun,Yuna,Yuni,"
+"Zephyr,Zhul,Zuna"
+msgstr ""
+
+#. [race]: id=demon
+#: The_Silver_Lands/units/demons-and-imps.cfg:14
+msgid "race^Demon"
+msgstr ""
+
+#. [race]: id=demon
+#: The_Silver_Lands/units/demons-and-imps.cfg:15
+msgid "race+female^Demoness"
+msgstr ""
+
+#. [race]: id=demon
+#: The_Silver_Lands/units/demons-and-imps.cfg:16
+msgid "race^Demons"
+msgstr ""
+
+#. [race]: id=demon
+#: The_Silver_Lands/units/demons-and-imps.cfg:17
+msgid ""
+"Legend has it that, when the world and its inhabitants were born, there were "
+"powerful creatures, called 'demons', able to control all the inferior "
+"species. They quite resembled normal humans, except for being tougher and "
+"usually more beautiful. Supposedly, because of the danger they cause for the "
+"magic balance of the world, the Lords of Light and Darkness restricted them "
+"to a separate plane, were they would be trapped with no possibility to get "
+"out or in, unless a portal from the mortal plane was deliberately opened. "
+"Fortunately, nobody ever figured out how to open such a portal, until now."
+msgstr ""
+
+#. [race]: id=imps
+#: The_Silver_Lands/units/demons-and-imps.cfg:26
+msgid "race^Imp"
+msgstr ""
+
+#. [race]: id=imps
+#: The_Silver_Lands/units/demons-and-imps.cfg:27
+msgid "race+female^Imp"
+msgstr ""
+
+#. [race]: id=imps
+#: The_Silver_Lands/units/demons-and-imps.cfg:28
+msgid "race^Imps"
+msgstr ""
+
+#. [race]: id=imps
+#: The_Silver_Lands/units/demons-and-imps.cfg:29
+msgid ""
+"Frequently considered lesser parents of demons, the Imps are usually "
+"underestimated due to their usually small size and lack of intellect. It is "
+"to note, however, that a swarm of them is not a threat to ignore, even for "
+"an experienced soldier."
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: The_Silver_Lands/units/demons/Grunt.cfg:5
+msgid "Demon Grunt"
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: The_Silver_Lands/units/demons/Grunt.cfg:25
+msgid ""
+"The best of demons are noted by their greater strength and resilience, along "
+"with their lack of fear to sunlight. This turns them into living, if that "
+"can be said, weapons for their masters, weapons that listen and obey with no "
+"complaints to them. They are given armor and better weapons to help them "
+"endure in battle, as the Chaos lores are aware of how valuable such grunts "
+"are in the battlefield."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:48
+#: The_Silver_Lands/units/demons/Warrior.cfg:41
+#: The_Silver_Lands/units/demons/Grunt.cfg:39
+#: The_Silver_Lands/units/demons/Shadow_Courier.cfg:42
+msgid "infernal chill"
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/demons/Grunt.cfg:121
+msgid "female^Demoness Grunt"
+msgstr ""
+
+#. [unit_type]: id=Ixthala Demon, race=demon
+#: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:5
+msgid "Ixthala Demon"
+msgstr ""
+
+#. [unit_type]: id=Ixthala Demon, race=demon
+#: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:23
+msgid ""
+"Very few people who have every faced an Ixthala Demon have survived to tell "
+"the tale. Some believe that they come from some other plane of existence, "
+"others believe that they were some demented creation of a fire mage. But "
+"whatever they are they are, all agree that they are extremely dangerous. "
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:27
+msgid "flaming sword"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: The_Silver_Lands/units/demons/Regular.cfg:5
+msgid "Demon"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: The_Silver_Lands/units/demons/Regular.cfg:23
+msgid ""
+"Legend has it that, when the world and its inhabitants were born, there were "
+"powerful creatures, called 'demons', able to control all the inferior "
+"species. Supposedly, the Lords of Light and Darkness restricted them to a "
+"separate plane, were they would be trapped with no possibility to get out or "
+"in, unless a portal from the mortal plane was deliberately opened. "
+"Fortunately for people of former times, nobody ever figured out how to open "
+"that portal, until now.\n"
+"\n"
+"Demons are nimble and quite tough creatures, who don't need armor or "
+"clothing to protect themselves from physical damage. Nevertheless, their "
+"appearance resembles that of a human. Most of them carry some kind of "
+"weapon, although their claws and ability to throw fireballs at their enemies "
+"usually fit better their purpose of seeking suffering and blood in their "
+"opponents."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/demons/Regular.cfg:110
+msgid "female^Demoness"
+msgstr ""
+
+#. [unit_type]: id=Shadow Courier, race=demon
+#: The_Silver_Lands/units/demons/Shadow_Courier.cfg:5
+msgid "Shadow Courier"
+msgstr ""
+
+#. [unit_type]: id=Shadow Courier, race=demon
+#: The_Silver_Lands/units/demons/Shadow_Courier.cfg:25
+msgid ""
+"A few chosen ones from the ranks of the Chaos Lores are given knowledge and "
+"abilities that are forbidden to the common followers; they are the closest "
+"to the Emperor that anyone has ever been, and serve him as their right-"
+"hands. Although physically weak and slow after turning into demons, their "
+"magic skills more than compensate for such lack, making them opponents that "
+"should never be fought directly if possible."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/demons/Shadow_Courier.cfg:54
+msgid "noctum"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: The_Silver_Lands/units/demons/Warrior.cfg:5
+msgid "Demon Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: The_Silver_Lands/units/demons/Warrior.cfg:27
+msgid ""
+"The few men, elves or orcs that have dared underestimate the might of "
+"demonic warriors, have had a long and painful death, in exchange. The power "
+"of the Chaos lords relies in their wisdom to select the best of the best "
+"grunts to serve them with loyalty and unconditionality; thus, few are the "
+"bestowed demons which get in the last rank below the overlords, and those "
+"few, although rarely seen in battlefield, can only bring the definite defeat "
+"of an army, and obliteration, afterwards."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/demons/Warrior.cfg:127
+msgid "female^Demoness Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: The_Silver_Lands/units/demons/Zephyr.cfg:5
+msgid "Demon Zephyr"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: The_Silver_Lands/units/demons/Zephyr.cfg:24
+msgid ""
+"Some demons don't develop their destructive power further, but instead "
+"develop leathery wings, and the ability to fly large distances with them. "
+"Since weapons and armor prove to be heavy and inadequate for flying high, "
+"they drop them and rely in their natural toughness and sharp claws instead. "
+"In any case, while their brethren's ranged power relies on the ability to "
+"call upon the icy winds of inferno, these fearsome flying monsters attack "
+"using their improved skills on creating fireballs which they throw at their "
+"oponent."
+msgstr ""
+
+#. [race]: id=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs.cfg:5
+msgid "race^Elemental Monarch"
+msgstr ""
+
+#. [race]: id=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs.cfg:6
+msgid "race^Elemental Monarchs"
+msgstr ""
+
+#. [race]: id=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs.cfg:9
+msgid ""
+"The Elemental Monarchs are the masters of the elements, particularly masters "
+"of their respective element. In addition they are the guardians of nature "
+"and the guardians of the living of plane of mortality. They are virtually "
+"omnipotent in the boundaries of their respective element, and are "
+"practically omniscient about their respective element. Due to their immense "
+"power and wisdom they are not to be trifled with."
+msgstr ""
+
+#. [unit_type]: id=Earth Monarch, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Earth_Monarch.cfg:5
+msgid "Earth Monarch"
+msgstr ""
+
+#. [unit_type]: id=Earth Monarch, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Earth_Monarch.cfg:23
+msgid ""
+"The Earth Monarch (or known to some by his personal name, Kaarakitros) is "
+"one of the divine incarnations of the elements; more specifically the "
+"incarnation of earth itself. Just like the other monarchs many ponder how he "
+"obtained his powers. Many do believe that all the monarchs used to be human, "
+"but as theory is confirmed there are many possibilities.\n"
+"\n"
+"Since Kaarakitros is the embodiment of earth itself, he is omnipotent with "
+"earth and things involving nature, such as wood, plants, etc. Kaarakitros "
+"wields a heavy club composed of highly compressed earth and other strong "
+"minerals, thus making it a very deadly weapon. Ostensibly, if Kaarakitros "
+"stays in an area for an extended amount of time, it will start teeming of "
+"life, an example of an area affected by this sublime ability is the Swamp of "
+"Life. Many underestimate Kaarakitros' abilities with earth and nature, this "
+"is a very idiotic assumption as he is capable of doing many things with the "
+"energy of nature like creating fire (but he does not have great control over "
+"the fire produced by his abilities since his elemental jurisdiction does not "
+"extend to fire). \n"
+"\n"
+"Kaarakitros is a very gentle person; it takes an immense amount of effort to "
+"get him angry. There is one thing that will get him angry easily though, and "
+"that is when someone deliberately destroys nature for a malicious or "
+"wasteful purpose. As with the other monarchs, Kaarakitros is known by many "
+"names. Examples include: the Noble Guardian of Nature, the Golem of Life, "
+"the Avatar of Nature and the Second Lord of Life. To those who hate or "
+"despise him, he is often referred to as the Spiteful Guardian, this refers "
+"the fact Kaarakitros often holds grudges on those who take delight in "
+"nature's destruction. When someone is terminally ill or if there is a "
+"stillborn baby, that person is often taken to the courtyard of the Earth "
+"Palace where there is a shrine. The person is place in front of the shrine "
+"and an offering is placed in the shrine, if the offering is accepted it "
+"glows green and it disappears into thin air (then it becomes a part of "
+"nature again) and the person is brought to full health. There are only rare "
+"occasions when the offering is refused, like when the person trying to be "
+"healed is an evil person."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/elemental-monarchs/Earth_Monarch.cfg:31
+msgid "terra club"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/elemental-monarchs/Earth_Monarch.cfg:41
+msgid "terra orbis"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/elemental-monarchs/Earth_Monarch.cfg:53
+#: The_Silver_Lands/units/woses/Wose_Magister.cfg:92
+msgid "nature flare"
+msgstr ""
+
+#. [unit_type]: id=Ice Maiden, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:5
+msgid "female^Ice Maiden"
+msgstr ""
+
+#. [unit_type]: id=Ice Maiden, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:25
+msgid ""
+"It is unknown how the Ice Maiden (or known to some by her personal name, "
+"Kimichira) gained her grand power; some believe that she was born with her "
+"powers, others believe that at some point in her life the power was "
+"transmitted into her body through a physical, yet inanimate artifact, and "
+"some believe that the Ice Maiden herself was created when the universe and "
+"the elements were born. Believers of the second theory believe that she used "
+"to be human before she gained her potency.\n"
+"\n"
+"Nonetheless, she is the incarnation of ice itself, thus she is omnipotent "
+"with ice, snow and similar substances. In addition, she is a master of gelid "
+"magic, thus she can turn water (something she cannot control) into ice and "
+"similar substances of which she can make use. She is also capable of flight, "
+"how she does this is unknown.\n"
+"\n"
+"Since the Ice Maiden is practically a goddess only an idiot would think she "
+"is able to be subdued. Nonetheless, many have tried to defeat her, all "
+"attempts to do so have miserably failed. The Ice Maiden is known by many "
+"names, as different races refer to her by different names. Examples include: "
+"Beauty of the Ice, the Frost Queen, the Source of Frigidity, and the "
+"Sovereign of Gelidity. To those who oppose and/or despise her she is often "
+"referred to as the Snow Witch."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:65
+msgid "ice blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:74
+msgid "catastrophic blizzard"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:87
+msgid "icicle storm"
+msgstr ""
+
+#. [unit_type]: id=Water Monarch, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Water_Monarch.cfg:5
+msgid "Water Monarch"
+msgstr ""
+
+#. [unit_type]: id=Water Monarch, race=elemental-monarchs
+#: The_Silver_Lands/units/elemental-monarchs/Water_Monarch.cfg:23
+msgid ""
+"The Water Monarch (or known to some by his personal name, Shironsoato) is "
+"one of the divine incarnations of the elements; more specifically the "
+"incarnation of water itself. Just like the other monarchs many ponder how he "
+"obtained his powers. Many do believe that all the monarchs used to be human, "
+"but as theory is confirmed there are many possibilities.\n"
+"\n"
+"Since Shironsoato is the embodiment of water itself, he is omnipotent with "
+"water. In addition, he is a master of the naginata; therefore he prefers to "
+"use it in conjunction with his incredible power. Many think Shironsoato is "
+"powerless if there is not any water nearby; however, this is a foolish "
+"assumption since he can pull water out of many unexpected places such as the "
+"air, plants and other living creatures. Even though ice is a form of water, "
+"Shironsoato does not have direct power over ice as ultimate power over ice "
+"is held by the Ice Maiden; however, he is able to turn ice and similar "
+"substances into liquid form, but not vice-versa.\n"
+"\n"
+"Since Shironsoato lives in the Water Palace at the bottom of the Grand "
+"Mirror (called as such since its weather reflects Shironsoato's emotions), "
+"he is rarely involved in battle. Like the other monarchs he is known by many "
+"names, as different races refer to him differently. Examples include: the "
+"Noble Serpent, the Great Dragon of the Water, the Father of Water, and the "
+"First Lord of Life. To those who oppose and/or despise him he is often "
+"referred to as the Malevolent Dragon. Ostensibly, there is a shrine "
+"dedicated to the Water Monarch on the banks of the Grand Mirror; people put "
+"things in the shrine as an offering and will pray to the Water Monarch "
+"asking for rain in a certain area, etc. If the offering disappears that "
+"means the prayer will likely be answered; if the offering is blasted out of "
+"the shrine that means the prayer has been rejected."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/elemental-monarchs/Water_Monarch.cfg:31
+msgid "naginata"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/elemental-monarchs/Water_Monarch.cfg:40
+msgid "water blast"
+msgstr ""
+
+#. [race]: id=elemental
+#: The_Silver_Lands/units/elementals.cfg:5
+msgid "race^Elemental"
+msgstr ""
+
+#. [race]: id=elemental
+#: The_Silver_Lands/units/elementals.cfg:6
+msgid "race^Elementals"
+msgstr ""
+
+#. [race]: id=elemental
+#: The_Silver_Lands/units/elementals.cfg:10
+msgid ""
+"The word 'elemental' is a term used to describe a magical creature that is "
+"purely composed of elemental energy. Apparently, the creation of an "
+"elemental involves the presence of powerful, arcane magic. Therefore, they "
+"are often found in an area influenced by an extremely powerful force. Albeit "
+"a somewhat rare situation, they are also found under the control of very "
+"powerful mages, those who are adept with the manipulation of aura and "
+"elemental energy. Although their behavior and characteristics differ due to "
+"the different elements of which they are composed, they generally have no "
+"personality (except for some of the more powerful elementals or those that "
+"were created in a manner that would grant them personality), and are "
+"protective of the force that created them. In addition, an elemental "
+"obviously has the powers, abilities, etc. associated with the element of "
+"which it is composed."
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=elemental
+#: The_Silver_Lands/units/elementals/Animated_Rock.cfg:5
+msgid "Animated Rock"
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=elemental
+#: The_Silver_Lands/units/elementals/Animated_Rock.cfg:20
+msgid ""
+"Animated Rocks are creatures made out of solid, living rock. They have a "
+"weak attack, but are incredibly hard to destroy."
+msgstr ""
+
+#. [unit_type]: id=Brazier Creation, race=elemental
+#: The_Silver_Lands/units/elementals/Brazier_Creation.cfg:5
+msgid "Brazier Creation"
+msgstr ""
+
+#. [unit_type]: id=Brazier Creation, race=elemental
+#: The_Silver_Lands/units/elementals/Brazier_Creation.cfg:21
+msgid ""
+"Brazier Creations are fearsome golems made out of hardened lava. Due to "
+"being made out of hardened lava their bodies are extremely tough and the "
+"only thing that can be effective in damaging them would be weapons or spells "
+"imbued with a cold affinity. Despite being defensive they also have a decent "
+"attack with their fiery claws."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/elementals/Lava_Beast.cfg:27
+#: The_Silver_Lands/units/elementals/Brazier_Whelpling.cfg:28
+#: The_Silver_Lands/units/elementals/Brazier_Creation.cfg:28
+#: The_Silver_Lands/units/elementals/Living_Furnace.cfg:27
+#: The_Silver_Lands/units/elementals/Living_Volcano.cfg:28
+#: The_Silver_Lands/units/elementals/Fire_Ghost.cfg:29
+msgid "fire claws"
+msgstr ""
+
+#. [unit_type]: id=Brazier Whelpling, race=elemental
+#: The_Silver_Lands/units/elementals/Brazier_Whelpling.cfg:5
+msgid "Brazier Whelpling"
+msgstr ""
+
+#. [unit_type]: id=Brazier Whelpling, race=elemental
+#: The_Silver_Lands/units/elementals/Brazier_Whelpling.cfg:21
+msgid ""
+"Brazier Whelplings are Brazier Creations which have not completely hardened "
+"yet, thus they are weaker than their older siblings. Not an imposing threat, "
+"but once they harden they are much more of a threat."
+msgstr ""
+
+#. [unit_type]: id=Djinn, race=elemental
+#: The_Silver_Lands/units/elementals/Djinn.cfg:5
+msgid "Djinn"
+msgstr ""
+
+#. [unit_type]: id=Djinn, race=elemental
+#: The_Silver_Lands/units/elementals/Djinn.cfg:23
+msgid ""
+"Djinns are truly mighty windspirits who can decimate armies with their "
+"powerful winds, and strike down men with their glistening scimitar."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/elementals/Wind_Herder.cfg:34
+#: The_Silver_Lands/units/elementals/Zephyr.cfg:32
+#: The_Silver_Lands/units/elementals/Djinn.cfg:35
+msgid "northern wind"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/elementals/Zephyr.cfg:44
+#: The_Silver_Lands/units/elementals/Djinn.cfg:47
+msgid "tornado"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Dragon, race=elemental, description=
+#: The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:5
+msgid "Ethereal Dragon"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:64
+#: The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:65
+msgid "ethereal breath"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Orb, race=elemental, description=
+#: The_Silver_Lands/units/elementals/Ethereal_Orb.cfg:5
+msgid "Ethereal Orb"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/elementals/Ethereal_Orb.cfg:56
+msgid "ethereal wave"
+msgstr ""
+
+#. [unit_type]: id=Ethereal Serpent, race=elemental, description=
+#: The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:5
+msgid "Ethereal Serpent"
+msgstr ""
+
+#. [unit_type]: id=Fire Ghost, race=elemental
+#: The_Silver_Lands/units/elementals/Fire_Ghost.cfg:5
+msgid "Fire Ghost"
+msgstr ""
+
+#. [unit_type]: id=Lava Beast, race=elemental
+#. [unit_type]: id=Wind Herder, race=elemental
+#. [unit_type]: id=Razorbird, race=elemental
+#. [unit_type]: id=Zephyr, race=elemental
+#. [unit_type]: id=Stone Titan, race=elemental
+#. [unit_type]: id=Fire Ghost, race=elemental
+#. [unit_type]: id=Sangel, race=vampire
+#. [unit_type]: id=Blood Manipulator, race=vampire
+#: The_Silver_Lands/units/elementals/Lava_Beast.cfg:19
+#: The_Silver_Lands/units/elementals/Wind_Herder.cfg:20
+#: The_Silver_Lands/units/elementals/Razorbird.cfg:23
+#: The_Silver_Lands/units/elementals/Zephyr.cfg:19
+#: The_Silver_Lands/units/elementals/Stone_Titan.cfg:32
+#: The_Silver_Lands/units/elementals/Fire_Ghost.cfg:22
+#: The_Silver_Lands/units/vampires/Sangel.cfg:20
+#: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:19
+msgid "TODO..."
+msgstr ""
+
+#. [unit_type]: id=Fire Wisp, race=elemental
+#: The_Silver_Lands/units/elementals/Fire_Wisp.cfg:5
+msgid "Fire Wisp"
+msgstr ""
+
+#. [unit_type]: id=Fire Wisp, race=elemental
+#: The_Silver_Lands/units/elementals/Fire_Wisp.cfg:20
+msgid ""
+"Fire Wisps are spirits of smoke and flame. Summoned by powerful mages. When "
+"not being ordered around they like to frolic in pools of lava and take great "
+"delight in burning anything they can reach."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/elementals/Fire_Wisp.cfg:27
+msgid "fire bash"
+msgstr ""
+
+#. [unit_type]: id=Ice Crab, race=elemental
+#: The_Silver_Lands/units/elementals/Ice_Crab.cfg:5
+msgid "Ice Crab"
+msgstr ""
+
+#. [unit_type]: id=Ice Crab, race=elemental
+#: The_Silver_Lands/units/elementals/Ice_Crab.cfg:19
+msgid ""
+"Creatures made of solid ice. Their foreclaws end in spiky spear-like "
+"icicles. It ca generate an aura of coldness which cover with layer of "
+"slowing ice whatever is near."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/elementals/Ice_Crab.cfg:41
+#: The_Silver_Lands/units/elementals/Ice_Shell.cfg:45
+msgid "icicle"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/elementals/Ice_Crab.cfg:49
+#: The_Silver_Lands/units/elementals/Ice_Shell.cfg:53
+msgid "gelid aura"
+msgstr ""
+
+#. [unit_type]: id=Ice Shell, race=elemental
+#: The_Silver_Lands/units/elementals/Ice_Shell.cfg:5
+msgid "Ice Shell"
+msgstr ""
+
+#. [unit_type]: id=Ice Shell, race=elemental
+#: The_Silver_Lands/units/elementals/Ice_Shell.cfg:38
+msgid ""
+"Creatures made of solid ice. Their foreclaws end in spiky spear-like "
+"icicles. It can generate an aura of coldness which cover with layer of "
+"slowing ice whatever is near."
+msgstr ""
+
+#. [unit_type]: id=Lava Beast, race=elemental
+#: The_Silver_Lands/units/elementals/Lava_Beast.cfg:5
+msgid "Lava Beast"
+msgstr ""
+
+#. [unit_type]: id=Living Furnace, race=elemental
+#: The_Silver_Lands/units/elementals/Living_Furnace.cfg:5
+msgid "Living Furnace"
+msgstr ""
+
+#. [unit_type]: id=Living Furnace, race=elemental
+#: The_Silver_Lands/units/elementals/Living_Furnace.cfg:20
+msgid "TODO"
+msgstr ""
+
+#. [unit_type]: id=Living Volcano, race=elemental
+#: The_Silver_Lands/units/elementals/Living_Volcano.cfg:5
+msgid "Living Volcano"
+msgstr ""
+
+#. [unit_type]: id=Living Volcano, race=elemental
+#: The_Silver_Lands/units/elementals/Living_Volcano.cfg:20
+msgid ""
+"Enormous in size and twice as agressive as fifty raging bulls combined. "
+"These enormous beasts are believed to be the hearts of volcanoes themselves "
+"that escaped their mountainous homes. These beasts should be avoided due to "
+"said aggressiveness, their immense physical strength and their ability to "
+"spew lava at their victims."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/elementals/Living_Volcano.cfg:37
+msgid "erupt"
+msgstr ""
+
+#. [unit_type]: id=Magic Servant, race=elemental
+#: The_Silver_Lands/units/elementals/Magic_Servant.cfg:5
+msgid "Magic Servant"
+msgstr ""
+
+#. [unit_type]: id=Magic Servant, race=elemental
+#: The_Silver_Lands/units/elementals/Magic_Servant.cfg:31
+msgid ""
+"These mysterious beings are composed of pure, yet unstable arcane magic. "
+"Although they are weak they are easy to create and can bind to an element "
+"once they gather enough power to do so."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/elementals/Magic_Servant.cfg:53
+#: The_Silver_Lands/units/vampires/Sangel.cfg:49
+#: The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:49
+#: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:48
+msgid "aura wave"
+msgstr ""
+
+#. [unit_type]: id=Razorbird, race=elemental
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: The_Silver_Lands/units/elementals/Razorbird.cfg:5
+#: The_Silver_Lands/units/shaxthal/Razorbird.cfg:5
+msgid "Razorbird"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/elementals/Thunderbird.cfg:28
+#: The_Silver_Lands/units/elementals/Razorbird.cfg:28
+#: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:31
+#: The_Silver_Lands/units/shaxthal/Razorbird.cfg:31
+msgid "beak"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/elementals/Thunderbird.cfg:39
+#: The_Silver_Lands/units/elementals/Razorbird.cfg:36
+#: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:43
+#: The_Silver_Lands/units/shaxthal/Razorbird.cfg:40
+msgid "blade shower"
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=elemental
+#: The_Silver_Lands/units/elementals/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=elemental
+#: The_Silver_Lands/units/elementals/Rock_Golem.cfg:30
+msgid ""
+"Rock Golems are creatures made out of solid, living rock. They have a weak "
+"attack, but are incredibly hard to destroy."
+msgstr ""
+
+#. [unit_type]: id=Stone Titan, race=elemental
+#: The_Silver_Lands/units/elementals/Stone_Titan.cfg:5
+msgid "Stone Titan"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/elementals/Stone_Titan.cfg:48
+msgid "stone blade"
+msgstr ""
+
+#. [unit_type]: id=Tears of the Forest, race=elemental
+#: The_Silver_Lands/units/elementals/Tears_of_the_Forest.cfg:30
+msgid ""
+"Whenever a vengeful or disturbed spirit is present in a forest, the Tears of "
+"the Forest —which represents the forest's sorrow— will manifest and seek a "
+"powerful being who has happened to wander into the forest. Once it finds a "
+"powerful being, the Tears will try to get the being to follow it to the "
+"location of the troubled spirit that is causing the forest's sorrow, and get "
+"the being to quell the spirit. If the being is reluctant to quell the "
+"spirit, the Tears will badger the being until it quells the spirit."
+msgstr ""
+
+#. [unit_type]: id=Tempest Spirit, race=elemental
+#: The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:5
+msgid "Tempest Spirit"
+msgstr ""
+
+#. [unit_type]: id=Tempest Spirit, race=elemental
+#: The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:21
+msgid ""
+"Tempest Spirits are manifestations of water that is influenced by the likes "
+"of a deadly storm, due to this these spirits weild very dangerous power and "
+"are often subject to being angered easily. Due to this it is best to avoid "
+"these spirits, unless you are certain you either have a way of reasoning "
+"with them or can counter their awesome power."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/elementals/Undine.cfg:28
+#: The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:28
+#: The_Silver_Lands/units/elementals/Tidal.cfg:28
+msgid "water punch"
+msgstr ""
+
+#. [unit_type]: id=Thunderbird, race=elemental
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: The_Silver_Lands/units/elementals/Thunderbird.cfg:5
+#: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:5
+msgid "Thunderbird"
+msgstr ""
+
+#. [unit_type]: id=Thunderbird, race=elemental
+#: The_Silver_Lands/units/elementals/Thunderbird.cfg:23
+msgid ""
+"Using its metal feathers the Thunderbird is able to create powerfull sparks "
+"that can be thrown at long range."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/elementals/Thunderbird.cfg:48
+#: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:52
+msgid "thunderbolt"
+msgstr ""
+
+#. [unit_type]: id=Tidal, race=elemental
+#: The_Silver_Lands/units/elementals/Tidal.cfg:5
+msgid "Tidal"
+msgstr ""
+
+#. [unit_type]: id=Tidal, race=elemental
+#: The_Silver_Lands/units/elementals/Tidal.cfg:20
+msgid ""
+"These creatures are manifestations of water that seem to take on the shape "
+"of waves, hence their name of Tidal. These creatures are a bit hostile by "
+"nature due to the unstable nature of water."
+msgstr ""
+
+#. [unit_type]: id=Undine, race=elemental
+#: The_Silver_Lands/units/elementals/Undine.cfg:5
+msgid "Undine"
+msgstr ""
+
+#. [unit_type]: id=Undine, race=elemental
+#: The_Silver_Lands/units/elementals/Undine.cfg:20
+msgid ""
+"Undines are basically more powerful and violent versions of Tidals. Not only "
+"have the Undines gained more power but they seemed to have for some unknown "
+"reason taken on the shape of a woman."
+msgstr ""
+
+#. [unit_type]: id=Vine Beast, race=elemental
+#: The_Silver_Lands/units/elementals/Vine_Beast.cfg:5
+msgid "Vine Beast"
+msgstr ""
+
+#. [unit_type]: id=Vine Beast, race=elemental
+#: The_Silver_Lands/units/elementals/Vine_Beast.cfg:28
+msgid ""
+"Vine Beasts are clumps of vines, thorns and other plant parts manifested in "
+"the form of a tiger. They are somewhat good at hiding in the forest and are "
+"capable of drawing energy from a forest in order to replenish its health."
+msgstr ""
+
+#. [unit_type]: id=Vine Tiger, race=elemental
+#: The_Silver_Lands/units/elementals/Vine_Tiger.cfg:5
+msgid "Vine Tiger"
+msgstr ""
+
+#. [unit_type]: id=Vine Tiger, race=elemental
+#: The_Silver_Lands/units/elementals/Vine_Tiger.cfg:29
+msgid ""
+"Being swift and ferocious Vine Tigers are not to be trifiled with, due to "
+"the fact that they can hide well in forested areas and are very powerful. In "
+"addition, these beast can blast barrages of thorns at prey and can ensnare "
+"their victims with the vines which compose this beast's body. To make "
+"matters even worse these beasts seem to have the ability to heal themselves "
+"by sapping the energy from forested areas, thus healing themselves."
+msgstr ""
+
+#. [unit_type]: id=Wind Herder, race=elemental
+#: The_Silver_Lands/units/elementals/Wind_Herder.cfg:5
+msgid "Wind Herder"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/elementals/Wind_Herder.cfg:46
+msgid "galeforce"
+msgstr ""
+
+#. [unit_type]: id=Zephyr, race=elemental
+#: The_Silver_Lands/units/elementals/Zephyr.cfg:5
+msgid "Zephyr"
+msgstr ""
+
+#. [race]: id=gargoyle
+#: The_Silver_Lands/units/gargoyles.cfg:7
+msgid "race^Gargoyle"
+msgstr ""
+
+#. [race]: id=gargoyle
+#: The_Silver_Lands/units/gargoyles.cfg:8
+msgid "race^Gargoyles"
+msgstr ""
+
+#. [race]: id=gargoyle
+#: The_Silver_Lands/units/gargoyles.cfg:9
+msgid ""
+"Some of the darker, yet bizare magic casted upon stone results in the "
+"Gargoyles. Gargoyles often take on the form of flying statues, they really "
+"cannot do much besides slamming into their foes, thus their masters, the "
+"Vampires often use them as blockades to by time for an assault."
+msgstr ""
+
+#. [unit_type]: id=Gargoyle, race=gargoyle
+#: The_Silver_Lands/units/gargoyles/Gargoyle.cfg:5
+msgid "Gargoyle"
+msgstr ""
+
+#. [unit_type]: id=Gargoyle, race=gargoyle
+#: The_Silver_Lands/units/gargoyles/Gargoyle.cfg:20
+msgid ""
+"Vampires like to cast strange magic on stone statues, this results in a "
+"Gargoyle. Often the magic which is casted upon said statues results in the "
+"statue to float. Most gargoyles can only slam into their enemies to attack, "
+"so their masters, the Vampires often use them as blockades. Strangely the "
+"bizarre magic that grants a gargoyle its life reacts to blood in a way which "
+"causes the gargoyle to grow more powerful after absorbing enough blood."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/gargoyles/Gargoyle.cfg:52
+#: The_Silver_Lands/units/gargoyles/Gargoyle_Marlgoyle.cfg:53
+msgid "slam"
+msgstr ""
+
+#. [unit_type]: id=Marlgoyle, race=gargoyle
+#: The_Silver_Lands/units/gargoyles/Gargoyle_Marlgoyle.cfg:5
+msgid "Marlgoyle"
+msgstr ""
+
+#. [unit_type]: id=Marlgoyle, race=gargoyle
+#: The_Silver_Lands/units/gargoyles/Gargoyle_Marlgoyle.cfg:21
+msgid ""
+"Marlgoyles are simply Gargoyles whose magic has caused it to grow more "
+"poweful after absorbing enough blood. Marlgoyles appear to have a lusturous "
+"gold coating which makes it more durable and such, the magic will continue "
+"to strengthen the Marlgoyle as long as it gets more blood; however it will "
+"only increase its durability."
+msgstr ""
+
+#. [unit_type]: id=Steppe Flanker, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Flanker.cfg:5
+msgid "Steppe Flanker"
+msgstr ""
+
+#. [unit_type]: id=Steppe Flanker, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Flanker.cfg:19
+msgid ""
+"Some goblins have discovered that the skills gained on the hunt can be put "
+"to use on the battlefield. While goblins are not overly welcome among the "
+"raiding parties, they are undeniably useful and so their presence is "
+"tolerated, if grudgingly."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/goblins-steppe/Striker.cfg:39
+#: The_Silver_Lands/units/goblins-steppe/Hunter.cfg:33
+#: The_Silver_Lands/units/goblins-steppe/Flanker.cfg:33
+msgid "harpoon"
+msgstr ""
+
+#. [unit_type]: id=Steppe Hunter, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Hunter.cfg:5
+msgid "Steppe Hunter"
+msgstr ""
+
+#. [unit_type]: id=Steppe Hunter, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Hunter.cfg:19
+msgid ""
+"The cruel life on the steppes tends to weed out the weak early on and harden "
+"those that remain. For this reason goblins are nowhere near as common on the "
+"steppe as they are elsewhere. Those that do survive often make themselves "
+"useful as scouts or scavengers. In hunting parties they specialise in the "
+"use of barbed harpoons to lame prey, allowing an easier kill for their "
+"larger orcish bretheren."
+msgstr ""
+
+#. [unit_type]: id=Steppe Striker, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Striker.cfg:5
+msgid "Steppe Striker"
+msgstr ""
+
+#. [unit_type]: id=Steppe Striker, race=goblin
+#: The_Silver_Lands/units/goblins-steppe/Striker.cfg:22
+msgid ""
+"Rather then weaken foes for others to finish off, Strikers seek the killing "
+"blow themselves. However they do not possess the physique to survive long in "
+"a straight fight. Instead they dart around the main fracas, seeking to "
+"surprise distracted enemies."
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Bowman.cfg:5
+msgid "Chaos Bowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Bowman.cfg:25
+msgid ""
+"The backbones of most armies are soldiers capable of using ranged weapons of "
+"sorts. The bow is the cheapest, yet effective, weapon that a military can "
+"afford for beginners in their lines. Bowmen are usually given a short sword "
+"to defend themselves if that should ever be necessary; they are instructed "
+"not to engage enemies in close combat.\n"
+"\n"
+"Bowmen serving the forces of Chaos are trained for moving and attacking "
+"covered by the black shroud of night. This causes great difficulty to most "
+"adversaries, as they are often adapted to fight under the light of the two "
+"suns, over the sands; their lack of protection against the freezing cold of "
+"night is also an advantage for Chaos Bowmen."
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: The_Silver_Lands/units/humans/Chaos_Cataphract.cfg:5
+msgid "Cataphract"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: The_Silver_Lands/units/humans/Chaos_Cataphract.cfg:20
+msgid ""
+"At the zenith of their career, mounted soldiers of Chaos go through unknown "
+"rituals and are ascended to the top of the hierarchy. They seem to have "
+"become, as their mounts, living, blood-thirsty killer machines. Although "
+"just respectable soldiers on their own, a few groups of Cataphracts at night "
+"are certainly enough to take over a large town."
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: The_Silver_Lands/units/humans/Chaos_Cavalier.cfg:5
+msgid "Chaos Cavalier"
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: The_Silver_Lands/units/humans/Chaos_Cavalier.cfg:21
+msgid ""
+"With time, Chaos Raiders are ascended to higher ranks of the military, given "
+"better weapons, armor and mount. The mount plays an essential role in the "
+"effectiveness of these units. Horses are, by nature, prone to be scared in "
+"the battlefield; when this occurs, the soldier mounting it is usually "
+"injured or killed by the confused animal.\n"
+"\n"
+"The mounts used by Chaos Cavaliers, however, are not known to have ever "
+"reacted in such ways to the battle action. Their behavior suggests that they "
+"have been well trained for the horrors they face. Another possibility is "
+"that they are simply possessed by some demonic force, as are many other "
+"creatures under the control of these men."
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Crossbowman.cfg:5
+msgid "Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Crossbowman.cfg:27
+msgid ""
+"Unlike their comrades, the Chaos Longbowmen, who only seek greater power "
+"with their bows, these archers decide to seek power in a more balanced "
+"fashion. Due to this, they are trained to be adept with both their axes and "
+"their crossbows.\n"
+"\n"
+"Such training results in a warrior adept with fighting at both close and "
+"ranged combat, and are especially dangerous at night, due to the fact that "
+"they were trained to fight in the freezing night."
+msgstr ""
+
+#. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
+#: The_Silver_Lands/units/humans/Chaos_Crossbowman_Advanced.cfg:5
+msgid "Advanced Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: The_Silver_Lands/units/humans/Chaos_Dark_Knight.cfg:5
+msgid "Knight of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: The_Silver_Lands/units/humans/Chaos_Dark_Knight.cfg:24
+msgid ""
+"Tougher than the average Chaos follower, the Dark Knight attempts to confuse "
+"it's opponent by wielding a different weapon in each hand. He lets his style "
+"on combat alter depending on the situation, which makes him a tough warrior "
+"to fight."
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: The_Silver_Lands/units/humans/Chaos_Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr ""
+
+#. [unit_type]: id=Doom Guard, race=human
+#: The_Silver_Lands/units/humans/Chaos_Doom_Guard.cfg:21
+msgid ""
+"Demons know well that the only thing which can stop a tidal wave is a "
+"powerful wall. Doom Guards are such wall, wall of living flesh and steel. "
+"Devoid of bloodlust, their aggression is changed into fanatic loyalty. Doom "
+"Guards are not the ones to fight, they are the ones to stand against every "
+"possible enemy, until they are wounded enough to die instantly."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/humans/Chaos_Hell_Guardian.cfg:36
+#: The_Silver_Lands/units/humans/Chaos_Doom_Guard.cfg:35
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=Chaos Gunner, race=human, description=
+#: The_Silver_Lands/units/humans/Chaos_Gunner.cfg:5
+msgid "Chaos Gunner"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/humans/Chaos_Marksman.cfg:34
+#: The_Silver_Lands/units/humans/Chaos_Sharpshooter.cfg:34
+#: The_Silver_Lands/units/humans/Chaos_Gunner.cfg:34
+msgid "gun"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: The_Silver_Lands/units/humans/Chaos_Headhunter.cfg:5
+msgid "Headhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: The_Silver_Lands/units/humans/Chaos_Headhunter.cfg:27
+msgid ""
+"The Chaos Hordes rely heavily in their lores' charisma to attrack more "
+"practicioners and recruit new adepts. Some of those adepts do not have the "
+"magic skills to join the Invoker orders, but instead are used as messengers "
+"of doom, given a club, a small supply of javelines and ridding them from "
+"their souls, via the darkest arts known only by the demonic masters. They "
+"are then sent to spread fear and despair amongst their victims, decimating "
+"their defenses before the demons are unleashed and sent to finish the job. "
+"Their fanatism leads them to forget any forms of proper defense, and so, "
+"being rather weak and vulnerable, kill their oponents even if that would "
+"mean their own death."
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: The_Silver_Lands/units/humans/Chaos_Hell_Guardian.cfg:5
+msgid "Hell Guardian"
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: The_Silver_Lands/units/humans/Chaos_Hell_Guardian.cfg:22
+msgid ""
+"Only the toughest of armorers are worthy of the most effective armors and "
+"weapons, forged by the best demonic blacksmiths, and blessed by unlawful "
+"magic. It is said that they could stand against an avalanche with ease, if "
+"they were commanded to do so."
+msgstr ""
+
+#. [unit_type]: id=Hell Overlord, race=human
+#: The_Silver_Lands/units/humans/Chaos_Hell_Overlord.cfg:5
+msgid "Overlord"
+msgstr ""
+
+#. [unit_type]: id=Hell Overlord, race=human
+#: The_Silver_Lands/units/humans/Chaos_Hell_Overlord.cfg:23
+msgid ""
+"Gigantic warriors, completely armored and masked - to the point it is oft "
+"doubted whether there is a living being inside that armor - are the main "
+"commanders of Chaos, attack forces and defensive groups by equal. Their "
+"almost mechanical acts and thirst of blood suggests that their souls have "
+"been completely removed, turning their bodies into killing machines, fiercer "
+"and tougher than the infamous orcs, who are instead compared to puppies "
+"against these overlords."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invader.cfg:5
+msgid "Chaos Invader"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invader.cfg:28
+msgid ""
+"Chaos warriors share the common belief that any government and any god is "
+"corrupt by default, even before being recruited. This is exactly what their "
+"future masters seek for, and easily convince them to join their cause. By "
+"this thought they fulfill the bidding of the lords of Chaos, who do not "
+"sugar coat their reign and let their men face the harsh truth."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker.cfg:5
+msgid "Chaos Invoker"
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker.cfg:26
+msgid ""
+"These dark cultists whose mastery of chaos magic is impressive, are called "
+"'Chaos Invokers' by their oponents. Often spotted amongst the first line of "
+"an attack formation, and protected by small groups of warriors, these "
+"cultists command the vanguard hordes of chaos, seeking the best opportunity "
+"to advance in their ranks and become more powerful, willing to rid "
+"themselves of their mortal souls in the process."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/humans/Chaos_Invoker.cfg:47
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:47
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:60
+msgid "ethereal blast"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lore, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:5
+msgid "Chaos Lore"
+msgstr ""
+
+#. [unit_type]: id=Chaos Lore, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:27
+msgid ""
+"The mastery of demons lies in the changing into demon oneself. Chaos Lores "
+"are demonic minds entrapped in human body. What is left of human in these "
+"creatures are only bodies and memories of invokers and magi, who finally "
+"achieved the true power of their lords."
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:5
+msgid "Chaos Magus"
+msgstr ""
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:26
+msgid ""
+"It is they, who rally with the larger groups of chaos warriors, supporting "
+"them with magic. As demonic essence touches chaotic mages, they gain the "
+"sharpness of mind and way of thinking more resembling demons, than human "
+"beings. Trapped between humanity and demonity, they seek no turning back, "
+"but aspire to ultimately rid themselves of all mortal bounds, including "
+"their vulnerable souls. Yet, this mutation process has some important side "
+"effects on them, as they turn into demons; their resistance to arcane "
+"attacks is gradually reduced, to equal that of the true demons."
+msgstr ""
+
+#. [unit_type]: id=Chaos Longbowman, race=human, description=FIXME
+#: The_Silver_Lands/units/humans/Chaos_Longbowman.cfg:5
+msgid "Chaos Longbowman"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/humans/Chaos_Longbowman.cfg:36
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=FIXME
+#: The_Silver_Lands/units/humans/Chaos_Longbowman_Heavy.cfg:5
+msgid "Heavy Longbowman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: The_Silver_Lands/units/humans/Chaos_Marauder.cfg:5
+msgid "Marauder"
+msgstr ""
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: The_Silver_Lands/units/humans/Chaos_Marauder.cfg:26
+msgid ""
+"It is said that experience makes real warriors. Unfortunately, that is true "
+"even for the Chaos vanguard forces and their messengers, which usually are "
+"not warriors in the beginning. They don't even wield real weapons - except "
+"for a club and a few javelines to throw - in that stage of their training, "
+"in which many die or get converted into undead, or demons. But the bright "
+"ones who get to survive and gain experience become skilled enough to wield "
+"an axe. They are still far from mastering the use of battle axes, but that "
+"interim level is more than enough to cause trouble, death and destruction on "
+"the oponents of Chaos, which is why they are titled the 'Marauders' by "
+"survivors to their deadly assaults."
+msgstr ""
+
+#. [unit_type]: id=Chaos Marksman, race=human, description=
+#: The_Silver_Lands/units/humans/Chaos_Marksman.cfg:5
+msgid "Chaos Marksman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: The_Silver_Lands/units/humans/Chaos_Raider.cfg:5
+msgid "Chaos Raider"
+msgstr ""
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: The_Silver_Lands/units/humans/Chaos_Raider.cfg:20
+msgid ""
+"These are the most basic mounted soldiers of Chaos. Albeit they do not have "
+"great experience, their versatility is of importance; they can serve as "
+"scouts, messengers, or even deathly warriors at the vanguard of large hordes."
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Razerman.cfg:5
+msgid "Chaos Razerman"
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: The_Silver_Lands/units/humans/Chaos_Razerman.cfg:28
+msgid ""
+"Knights of the orders of Chaos seem to take great delight into tearing apart "
+"their victims, a demon-like delight. This suggests that they no longer have "
+"soul, or that they have been turned into demons already. Nevertheless, this "
+"delight and blood lust is the symbol of the philosophy of Chaos, their "
+"representative feature."
+msgstr ""
+
+#. [unit_type]: id=Chaos Sharpshooter, race=human, description=
+#: The_Silver_Lands/units/humans/Chaos_Sharpshooter.cfg:5
+msgid "Chaos Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: The_Silver_Lands/units/humans/Chaos_Soulhunter.cfg:5
+msgid "Soulhunter"
+msgstr ""
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: The_Silver_Lands/units/humans/Chaos_Soulhunter.cfg:29
+msgid ""
+"The most dreadful part of the training of the messengers of doom is being "
+"rid of their souls by their masters. However, the resultant warrior is a mix "
+"of endurance, agility, accuracy and skill. Warriors that don't need armor, "
+"for they don't fear death at all, and prefer to wear just the necessary "
+"clothes and wield a minimal set of weaponry. Although they can be killed "
+"with ease by experienced and lucky oponents, the great damage that they can "
+"deal before dying is enough to compensate the loss for the Chaos hordes.\n"
+"\n"
+"Since they have been rid of their souls, it is often rumored that they kill "
+"and destroy searching for their lost soul, or for a soul that can replace "
+"its place in that empty shell called 'body'. Rumor that gave them the title "
+"of 'Soulhunters'."
+msgstr ""
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: The_Silver_Lands/units/imps/Armageddon.cfg:5
+msgid "Armageddon Imp"
+msgstr ""
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: The_Silver_Lands/units/imps/Armageddon.cfg:20
+msgid ""
+"The rumors about Imps big as a tree have been, unfortunately, confirmed. "
+"Never seen before, the Imps of Armageddon are the masterminds of Chaos, and "
+"albeit usually hidden at safe distance from the battlefield, they sometimes "
+"decide to charge themselves against the unwary enemies, who are nothing but "
+"dirt compared to these gigantic beasts. That, and their unnatural strength "
+"and endurance, is why their are feared, not only by the opponents of the "
+"Chaos Empire, but also by lesser imps and most demons of the same band.\n"
+"\n"
+"If you ever get to face one of these colossal brutes, escape as soon as "
+"possible from the battefield or be known to you that death is certain to "
+"arrive."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/imps/Armageddon.cfg:30
+msgid "blade of doom"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/imps/Gutwrencher.cfg:42
+#: The_Silver_Lands/units/imps/Armageddon.cfg:42
+msgid "slime spit"
+msgstr ""
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: The_Silver_Lands/units/imps/Blood.cfg:5
+msgid "Blood Imp"
+msgstr ""
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: The_Silver_Lands/units/imps/Blood.cfg:17
+msgid ""
+"Some Imps grow stronger, bigger and more violent. That leads people to call "
+"them 'Blood' Imps. They are a truly menace to any lonely experienced fighter."
+msgstr ""
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: The_Silver_Lands/units/imps/Gutwrencher.cfg:5
+msgid "Gutwrencher Imp"
+msgstr ""
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: The_Silver_Lands/units/imps/Gutwrencher.cfg:21
+msgid ""
+"It is not usual for an Imp to grow much above the size they had when born, "
+"nor to acquire intellect, in any sense. However, the unusual happens, and "
+"then it is possible for some of them to grow stronger and smarter in their "
+"attacks, to the point that they, instead of being cannon-fodder or suicidal "
+"attack force of demons, get to lead small groups of them, not having any "
+"armor or weapons other than their natural toughness and brute strength. As "
+"they delight in tearing their prey to pieces, they have been titled the "
+"'Gutwrenchers' by those who have survived the horrendous event.\n"
+"\n"
+"With time, they have developed a new dreadful attack weapon: acid slime, "
+"which can melt a human, or even orc, in matter of seconds. They spit it "
+"towards they victim, wait until it has consumed most of its body, and then "
+"finish the job swallowing the remaining flesh and bones. Worse than worse, "
+"they can now drain vital energy from their victims at close contact.\n"
+"\n"
+"Fortunately, abominations such as these are rarely seen in greater numbers. "
+"It is also said that there are Imps bigger than a full-grown Troll, but the "
+"rumors have not been confirmed... yet."
+msgstr ""
+
+#. [unit_type]: id=Imp, race=imps
+#: The_Silver_Lands/units/imps/Imp.cfg:5
+msgid "Imp"
+msgstr ""
+
+#. [unit_type]: id=Imp, race=imps
+#: The_Silver_Lands/units/imps/Imp.cfg:18
+msgid ""
+"Frequently considered lesser parents of demons, the Imps are usually "
+"underestimated due to their usually small size and lack of intellect. It is "
+"to note, however, that a swarm of them is not a threat to ignore, even for "
+"an experienced soldier. They are mainly used by demonic attack forces as "
+"cannon-fodder to distract the enemy while the battle lords prepare the "
+"actual strike. However, it is rumored that some of these imps have grown "
+"bigger and stronger, enough to be a real strike force by themselves, which "
+"automatically promotes them to a higher level in the military ranks of Chaos."
+msgstr ""
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: The_Silver_Lands/units/imps/Minor.cfg:5
+msgid "Minor Imp"
+msgstr ""
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: The_Silver_Lands/units/imps/Minor.cfg:18
+msgid ""
+"The recently born hatchlings of imps are called 'minor' by their enemies. "
+"Although they are rarely little more than a lesser annoyance in most "
+"situations, with time and proper raising, they can turn into real enemies, "
+"the medium-sized Imps."
+msgstr ""
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: The_Silver_Lands/units/mechanical/Automaton.cfg:7
+msgid "Automaton"
+msgstr ""
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: The_Silver_Lands/units/mechanical/Automaton.cfg:36
+msgid ""
+"These small metallic beasts seem not to need food or suchlike to live, very "
+"similar to undead. However, they cannot be such, since their resistance to "
+"fire, cold and arcane attacks is surprisingly high. Heavily armored, "
+"wielding a perilous steel mace and a rectangular shield, these 'automatons' "
+"are the new grunt attack and defense force of the evil forces that have "
+"taken over the known world. They somehow move rather quickly for their "
+"weight, a mystery that no one has been able yet to decipher. Their only "
+"drawback is their apparent lack of practice at moving in rough terrains such "
+"as hills and mountains."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/mechanical/Automaton.cfg:53
+msgid "rectangular shield"
+msgstr ""
+
+#. [unit_type]: id=Door, race=mechanical
+#: The_Silver_Lands/units/mechanical/Door.cfg:5
+msgid "Door"
+msgstr ""
+
+#. [unit_type]: id=Door, race=mechanical
+#: The_Silver_Lands/units/mechanical/Door.cfg:21
+msgid ""
+"The door will open only to those who are allied with its owners, unless "
+"struck down by their enemies first."
+msgstr ""
+
+#. [unit_type]: id=Goliath, race=mechanical
+#: The_Silver_Lands/units/mechanical/Goliath.cfg:14
+msgid "Mechanical Goliath"
+msgstr ""
+
+#. [unit_type]: id=Goliath, race=mechanical
+#: The_Silver_Lands/units/mechanical/Goliath.cfg:45
+msgid ""
+"Giant metallic beasts under the command of the forces of Chaos, the "
+"Mechanical Goliaths can crush any man, skeleton, or even troll, in matter of "
+"seconds. They seem to be immune to poison, drain, or other hazards that "
+"would normally have some effect in a living being, which suggests them to be "
+"magically animated statues of iron and steel, or to be some sort of shell "
+"for a living, weak on its own, creature.\n"
+"\n"
+"To make things even worse, it is said that they can destroy entire armies "
+"from distance with a sudden flash of red light, having a low probability to "
+"miss their target."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/mechanical/Goliath.cfg:62
+msgid "plasma bomb"
+msgstr ""
+
+#. [unit_type]: id=Iron Golem, race=mechanical
+#: The_Silver_Lands/units/mechanical/Iron_Golem.cfg:5
+msgid "Iron Golem"
+msgstr ""
+
+#. [unit_type]: id=Iron Golem, race=mechanical
+#: The_Silver_Lands/units/mechanical/Iron_Golem.cfg:33
+msgid ""
+"Some automatons mysteriously increase in size from one day to another, "
+"gaining strength in a training process that is unknown to most people, "
+"except the darkest lores of the Chaos Empire. They drop their rectangular "
+"shield and mace, as their metallic skin is tighter and more resistant to "
+"damage, their giant fists -capable of crushing a rock, as big as an adult "
+"man, with minimal effort- compensating the lack of weapon, and in exchange, "
+"adopt a strange tubular weapon that resembles the firesticks that some "
+"Dwarven lords wield with proud. It is said that one these Iron Golems could "
+"easily defeat a dwarven fire master in a fair fight, one to one."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/mechanical/Iron_Golem.cfg:50
+msgid "torpedo"
+msgstr ""
+
+#. [unit_type]: id=Lantern of Darkness, race=mechanical
+#: The_Silver_Lands/units/mechanical/Lantern_of_Darkness.cfg:5
+msgid "Lantern of Darkness"
+msgstr ""
+
+#. [unit_type]: id=Lantern of Darkness, race=mechanical
+#: The_Silver_Lands/units/mechanical/Lantern_of_Darkness.cfg:23
+msgid ""
+"The Lanterns of Darkness are strange devices that emit a very strange light "
+"which does not brighten the area, but brings darkness to it. They are often "
+"utilized by the forces of Chaos in order to aid their forces in battle by "
+"taking advantage of the darkening light they emit. The dark crystal in the "
+"lantern seems to be aware of its surroundings due to the fact it seems to "
+"defend itself by shooting beams of dark light at its enemies."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/mechanical/Lantern_of_Darkness.cfg:31
+msgid "darkbeam"
+msgstr ""
+
+#. [unit_type]: id=Worker Droid, race=mechanical
+#: The_Silver_Lands/units/mechanical/Worker_Droid.cfg:5
+msgid "Worker Droid"
+msgstr ""
+
+#. [unit_type]: id=Worker Droid, race=mechanical
+#: The_Silver_Lands/units/mechanical/Worker_Droid.cfg:35
+msgid ""
+"These tiny metal gnomes are known as the 'worker droids' by the Chaos "
+"overlords. It is not known what nature drives their acts; in fact, nobody "
+"knows, aside from their creators, if they are living beings, undead, or "
+"animated rocks."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/mechanical/Worker_Droid.cfg:43
+msgid "oil"
+msgstr ""
+
+#. [unit_type]: id=Abomination, race=monster
+#: The_Silver_Lands/units/monsters/Abomination.cfg:5
+msgid "Abomination"
+msgstr ""
+
+#. [unit_type]: id=Abomination, race=monster
+#: The_Silver_Lands/units/monsters/Abomination.cfg:20
+msgid ""
+"These nightmarish creatures seem to have been former humans, orcs, dwarves "
+"or trolls that were somehow mutated to their current aspect. They are rarely "
+"found, and only underground in the darkest and deepest places."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/monsters/Abomination.cfg:25
+msgid "crush"
+msgstr ""
+
+#. [unit_type]: id=Bear, race=monster
+#: The_Silver_Lands/units/monsters/Bear.cfg:5
+msgid "Bear"
+msgstr ""
+
+#. [unit_type]: id=Bear, race=monster
+#: The_Silver_Lands/units/monsters/Bear.cfg:19
+msgid ""
+"Adult bears are known for going their own way; most bears would sooner flee "
+"a melee than throw themselves at risk. Some, though, for whatever reason, "
+"choose not to run. These bears are a terrifying sight to behold. An adult "
+"bear is a mass of muscle, claw, fur, and fury of almost unrivaled "
+"proportions: even the most skilled of warriors will not look lightly on the "
+"bulk of an angry, advancing bear."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/monsters/Bear.cfg:30
+msgid "bear-hug"
+msgstr ""
+
+#. [unit_type]: id=Bull, race=monster
+#: The_Silver_Lands/units/monsters/Bull.cfg:5
+msgid "Bull"
+msgstr ""
+
+#. [unit_type]: id=Bull, race=monster
+#: The_Silver_Lands/units/monsters/Bull.cfg:19
+msgid ""
+"Most farmers will only have a single bull. They are valuable animals in "
+"keeping dairy cows in milk, and can bring in a small fortune in stud fees."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/monsters/Bull.cfg:34
+msgid "gore"
+msgstr ""
+
+#. [unit_type]: id=Calf, race=monster
+#: The_Silver_Lands/units/monsters/Bullock.cfg:5
+msgid "Calf"
+msgstr ""
+
+#. [unit_type]: id=Calf, race=monster
+#: The_Silver_Lands/units/monsters/Bullock.cfg:33
+msgid ""
+"Calves are simply young cattle, but their gender determines their use in the "
+"eyes of whomever owns the creatures. The males, when under the ownership of "
+"nature, are destined to become powerful creatures, and the patriarchs of "
+"their herds; when under the ownership of a civilized creature, they are "
+"often destined to become the leader of a herd of females, or slaughtered or "
+"sold, if there is not an available herd. And the females, when under the "
+"ownership of nature, are simply the bearers of the specie's young; when "
+"under the ownership of a civilized creature, they are involved in a process "
+"of farming milk, and meat, for which they are often sold or slaughtered when "
+"they become infertile."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/monsters/Bullock.cfg:48
+msgid "horns"
+msgstr ""
+
+#. [unit_type]: id=Chimera, race=monster
+#: The_Silver_Lands/units/monsters/Chimera.cfg:5
+msgid "Chimera"
+msgstr ""
+
+#. [unit_type]: id=Chimera, race=monster
+#: The_Silver_Lands/units/monsters/Chimera.cfg:19
+msgid ""
+"Only a wicked evil wizard could have taken the characteristics of various "
+"monsters and have put them together in a single weapon of their cause. With "
+"three tails, a pair of feathery wings, the body of a gigantic bird and the "
+"eyes of a fearsome Cockatrice, this Chimera is not a foe to play with. Its "
+"ability to turn its oponents to stone is probably the major threat it "
+"imposes over its victims. Use extreme caution, and never look directly to "
+"its eyes."
+msgstr ""
+
+#. [attack]: type=cold
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/monsters/Cockatrice.cfg:37
+#: The_Silver_Lands/units/monsters/Eyestalk.cfg:62
+#: The_Silver_Lands/units/monsters/Chimera.cfg:46
+msgid "gaze"
+msgstr ""
+
+#. [unit_type]: id=Cockatrice, race=monster
+#: The_Silver_Lands/units/monsters/Cockatrice.cfg:5
+msgid "Cockatrice"
+msgstr ""
+
+#. [unit_type]: id=Cockatrice, race=monster
+#: The_Silver_Lands/units/monsters/Cockatrice.cfg:19
+msgid ""
+"Sometimes known as 'basilisks', these mystical creatures are said to be able "
+"to turn the living to stone. Needless to say, this makes them extremely "
+"dangerous."
+msgstr ""
+
+#. [unit_type]: id=Cow, race=monster
+#: The_Silver_Lands/units/monsters/Cow.cfg:5
+msgid "female^Cow"
+msgstr ""
+
+#. [unit_type]: id=Cow, race=monster
+#: The_Silver_Lands/units/monsters/Cow.cfg:20
+msgid ""
+"Cows are useful livestock animals, providing milk and a strong back. A herd "
+"of cattle is the most wealth most peasants will ever see."
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=blade
+#: The_Silver_Lands/units/monsters/Heifer.cfg:48
+#: The_Silver_Lands/units/monsters/Cow.cfg:35
+msgid "headbutt"
+msgstr ""
+
+#. [unit_type]: id=Eyestalk, race=monster
+#: The_Silver_Lands/units/monsters/Eyestalk.cfg:6
+msgid "Eyestalk"
+msgstr ""
+
+#. [unit_type]: id=Eyestalk, race=monster
+#: The_Silver_Lands/units/monsters/Eyestalk.cfg:45
+msgid ""
+"Named 'Eyestalks' for obvious reasons, these plant-like creatures can focus "
+"their gaze onto an unsuspecting victim to draw life energy straight out of "
+"them to replenish their own. While almost defenseless against melee attacks, "
+"its deadly gaze from afar is not to be underestimated."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/monsters/Eyestalk.cfg:52
+msgid "smash"
+msgstr ""
+
+#. [unit_type]: id=Fungoid, race=monster
+#: The_Silver_Lands/units/monsters/Fungoid.cfg:5
+msgid "Fungoid"
+msgstr ""
+
+#. [unit_type]: id=Fungoid, race=monster
+#: The_Silver_Lands/units/monsters/Fungoid.cfg:31
+msgid ""
+"Fungoids are mushroom-like creatures that can multiply very quickly. Soft "
+"and weak, they don't represent a real threat to most races. Yet, adventurers "
+"appear from time to time swearing they have seen a fungoid bigger than them. "
+"This myth has never been proved true, however."
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: The_Silver_Lands/units/monsters/Giant_Ant.cfg:5
+msgid "Giant Ant"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: The_Silver_Lands/units/monsters/Giant_Ant.cfg:20
+msgid ""
+"Ants are common in almost any environment, from caverns deep under the earth "
+"to the tops of tall mountains. Those that live deep underground tend to grow "
+"up over their normal size. Though normally not hostile, they can bite at "
+"close range, dealing more damage than a normal-sized ant."
+msgstr ""
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: The_Silver_Lands/units/monsters/Giant_Spider_Lesser.cfg:5
+msgid "Lesser Giant Spider"
+msgstr ""
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: The_Silver_Lands/units/monsters/Giant_Spider_Lesser.cfg:18
+msgid ""
+"Smaller and weaker Giant Spiders are very common underground. They usually "
+"prey on single insects roaming around, but sometimes it is possible to find "
+"dwarven or human corpses trapped in their webs, which suggests they have "
+"little problem in eating big individuals fool enough to fall in their traps."
+msgstr ""
+
+#. [unit_type]: id=Gorer, race=monster
+#: The_Silver_Lands/units/monsters/Gorer.cfg:5
+msgid "Gorer"
+msgstr ""
+
+#. [unit_type]: id=Gorer, race=monster
+#: The_Silver_Lands/units/monsters/Gorer.cfg:34
+msgid ""
+"As Tuskers age, their already formidable teeth grow longer and more "
+"numerous. A mature boar gorer is a valuable asset to any farmer. And angry "
+"boar gorer is a challenge even to the best hunters"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/monsters/Tusker.cfg:49
+#: The_Silver_Lands/units/monsters/Gorer.cfg:49
+#: The_Silver_Lands/units/monsters/Tusklet.cfg:49
+msgid "tusks"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Silver_Lands/units/monsters/Tusker.cfg:101
+#: The_Silver_Lands/units/monsters/Gorer.cfg:101
+msgid "tusk Charge"
+msgstr ""
+
+#. [unit_type]: id=Heifer, race=monster
+#: The_Silver_Lands/units/monsters/Heifer.cfg:5
+msgid "Heifer"
+msgstr ""
+
+#. [unit_type]: id=Heifer, race=monster
+#: The_Silver_Lands/units/monsters/Heifer.cfg:33
+msgid ""
+"Heifers are female calves. They are kept until they can be useful for milk, "
+"meat or the power in their legs. They are little threat to anyone."
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Chaos.cfg:5
+msgid "Hound of Chaos"
+msgstr ""
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Chaos.cfg:19
+msgid ""
+"Quite fragile in combat, the Hounds of Chaos are directly affected by the "
+"magic of the chaos magi, resulting in them listening and obeying every "
+"command of their masters. The results are mindless effective assassins. "
+"Though they are easily taken care of by a tougher adversary, their nimble "
+"bodies allow them to penetrate far into enemy lines and severely damage "
+"their support units."
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Demonic.cfg:5
+msgid "Demonic Hound"
+msgstr ""
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Demonic.cfg:25
+msgid ""
+"Hounds who serve the power of Chaos are slowly consumed by its essence, just "
+"like their human masters and comrades. Aside from the involved removal of "
+"their souls and the increased bodily strength, demonic hounds acquire a more "
+"developed intellect, which turns them into more perilous foes who will not "
+"stop at anything but the accomplishment of their purpose and desire of "
+"bloodbath."
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Hell.cfg:5
+msgid "Hellhound"
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: The_Silver_Lands/units/monsters/Hound_Hell.cfg:26
+msgid ""
+"These creatures are no longer the loyal companions of demonic assault "
+"parties. They turn into their leaders by the dread they inspire into other "
+"followers of Chaos, and the intelligence they have developed as heartless "
+"half-demons. Because it is not common for these hounds to acquire enoguh "
+"experience to evolve this further, as their frantic attacks usually harms "
+"them to death. Thus, at this point they are respected and treated as heroes "
+"by their comrades."
+msgstr ""
+
+#. [unit_type]: id=Tusker, race=monster
+#: The_Silver_Lands/units/monsters/Tusker.cfg:5
+msgid "Tusker"
+msgstr ""
+
+#. [unit_type]: id=Tusker, race=monster
+#: The_Silver_Lands/units/monsters/Tusker.cfg:34
+msgid ""
+"Tuskers are hardy livestock. Their powerful limbs make them good beasts of "
+"burdern. Their thick wool and hides make coarse, but serviceable clothing "
+"and their meat is tough, but filling. But an angry or wild tusker is not to "
+"be trifled with."
+msgstr ""
+
+#. [unit_type]: id=Tusklet, race=monster
+#: The_Silver_Lands/units/monsters/Tusklet.cfg:5
+msgid "Tusklet"
+msgstr ""
+
+#. [unit_type]: id=Tusklet, race=monster
+#: The_Silver_Lands/units/monsters/Tusklet.cfg:34
+msgid ""
+"Young tuskers are as notoriously bad-tempered as the adults of the species, "
+"if a little less of a challenge. But woe betide the unfortunate who comes "
+"between a Tusklet and its parents."
+msgstr ""
+
+#. [unit_type]: id=Steppe Bladesman, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Bladesman.cfg:5
+msgid "Steppe Bladesman"
+msgstr ""
+
+#. [unit_type]: id=Steppe Bladesman, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Bladesman.cfg:18
+msgid ""
+"Those orcs who excel in the use of the battle axe are informally known to "
+"their brethren as Bladesmen. Disregarding all flair or style, Bladesman "
+"fight with simple and brutal strength, hacking directly at whatever stands "
+"before them. Any skill gained through battle only builds on what nature has "
+"already granted them."
+msgstr ""
+
+#. [unit_type]: id=Steppe Drover, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:5
+msgid "Icewind Drover"
+msgstr ""
+
+#. [unit_type]: id=Steppe Drover, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:20
+msgid ""
+"A Herder of sufficiant ability can become what the Steppe Orcs call a "
+"Drover, the elite of the IceWind order. With age and experience in the "
+"control of elemental magics. Some have claimed to be capable of summoning "
+"forth fierce blizzards from a clear sky, an unlikely feat unconfirmed by "
+"outsiders. When asked about the mechanics of their abilities they often "
+"answer by refering to themselves as 'conduits'. Just what it is that they "
+"channel is never revealed.\n"
+"\n"
+"The tribespeople claim to notice a blue tinge that begins to pervade their "
+"normally brown complexion and a crystalline hardness of their skin. Other "
+"steppe orcs whisper that this is because their hearts pump not blood, but "
+"ice."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:40
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:46
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:41
+msgid "frostbite"
+msgstr ""
+
+#. [unit_type]: id=Steppe Herder, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:5
+msgid "Icewind Herder"
+msgstr ""
+
+#. [unit_type]: id=Steppe Herder, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:25
+msgid ""
+"There is an old tale about the creation of the the IceWind order: A gang of "
+"children were fishing when a very young female, hooking something bigger "
+"then she could land, was dragged into the subzero waters. She did not "
+"reappear. Two days later, by which time the tribe had nearly forgotton the "
+"loss, a sentry witnessed an unnerving spectacle. The very same girl, "
+"delirious with exhaustion and deathly pale, was spotted dragging herself "
+"from the pond.\n"
+"\n"
+"After the incident, the girl, whose name is a closely guarded secret, was "
+"never the same. The tribespeople told stories of seeing her freeze a bear "
+"solid, simply by looking at it, others claimed that she went out by night to "
+"converse with unseen things that moved in the water. Nobody dared approch "
+"her about these rumours, lest they prove to be true.\n"
+"\n"
+"She became the founder of the IceWind order, every year she would select "
+"children from the tribe to train. Whatever she taught them, it granted them "
+"a mysterious influence over the elements of their habitat. The Herders "
+"themselves describe this influence as 'union'. Within her lifetime the order "
+"became an accepted part of the clan.\n"
+"\n"
+"The child refused outright to reveal what had happened in the frozen pool "
+"and when she died many years later the secret died with her."
+msgstr ""
+
+#. [unit_type]: id=Steppe Master, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:5
+msgid "Icewind Master"
+msgstr ""
+
+#. [unit_type]: id=Steppe Master, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:19
+msgid ""
+"Masters are a rare thing indeed, especially in a race with little aptitude "
+"for magic. There is almost never more then one in each generation and, as "
+"often as not, no Masters will emerge for decades. Those that do reach this "
+"pinnacle of their order are often of reclusive nature, as their power "
+"seperates them from the main clan. However the reasons for their "
+"estrangement also grant them great respect from their brethren."
+msgstr ""
+
+#. [unit_type]: id=Steppe Juggernaut, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Juggernaut.cfg:5
+msgid "Steppe Juggernaut"
+msgstr ""
+
+#. [unit_type]: id=Steppe Juggernaut, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Juggernaut.cfg:19
+msgid ""
+"Some of the Steppe Orcs aspiring to power realise that they actually have a "
+"certain aptitude for the charge. Abandoning the pursuit of leadership, these "
+"Juggernauts fling themselves on the enemy with utterly ferocious "
+"recklessness. In one legendary incident, likely made greater with each "
+"telling, an entire squad of elves scattered and ran at the sight of a single "
+"Juggernaut bearing down on them."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/orcs-steppe/Spearhead.cfg:24
+#: The_Silver_Lands/units/orcs-steppe/Juggernaut.cfg:24
+#: The_Silver_Lands/units/orcs-steppe/Khan.cfg:29
+#: The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:26
+msgid "flail"
+msgstr ""
+
+#. [unit_type]: id=Steppe Khan, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Khan.cfg:5
+msgid "Steppe Khan"
+msgstr ""
+
+#. [unit_type]: id=Steppe Khan, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Khan.cfg:24
+msgid ""
+"The steppe chieftains are titled Khans, serving as both statesmen and "
+"generals. They have discovered the advantages of leading from behind, urging "
+"their fellows on before them. Before a battle it is customary for them to "
+"mingle with the soldiers, goading them on with threats, promises, insults or "
+"just primal bellows. Anything to spur them into a towering rage. Nearly "
+"everyone who has fought the orcs of the steppe has spoke of the unnerving "
+"roars of the orcish leaders.\n"
+"\n"
+"Despite this, Khans are more then ready to enter the fray against any "
+"especially audacious enemy that seeks to challenge them. Often, while "
+"retaining their flail, they focus on using the axe as they are considered "
+"too valuable an asset to risk in daredevil charges."
+msgstr ""
+
+#. [unit_type]: id=Steppe Massif, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Massif.cfg:5
+msgid "Steppe Massif"
+msgstr ""
+
+#. [unit_type]: id=Steppe Massif, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Massif.cfg:19
+msgid ""
+"Clad in crude armor with full-face helms and swinging weapons too heavy for "
+"many humans to lift, the hulking Massifs are a terrifying spectacle. They "
+"invariably continue their use of the battleaxe, with fearful results."
+msgstr ""
+
+#. [unit_type]: id=Steppe Outcast, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Outcast.cfg:5
+msgid "Steppe Outcast"
+msgstr ""
+
+#. [unit_type]: id=Steppe Outcast, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Outcast.cfg:20
+msgid ""
+"Not all initiates to the IceWind order are successful. Some lack the "
+"necessary patience, others are found wanting in mental edurance. However "
+"being excluded from the order cannot make them forget what they have "
+"learned.\n"
+"\n"
+"When the Outcasts first began performing supposedly forbidden magic on their "
+"own, the IceWind order raised an uproar in the tribal council. Under threat "
+"of exile the Outcasts were forced to ceace their activities. But their order "
+"survived, albeit in a different form. Rather then mimic their counterparts, "
+"they developed a parallel sect that exists on the fringes of the tribe. The "
+"magics worked by the Outcasts are undeniably crude, but have great practicle "
+"use. However they are denied the mystical union with their icy home, that is "
+"a right reserved for the Herders."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/orcs-steppe/Outcast.cfg:25
+#: The_Silver_Lands/units/orcs-steppe/Pariah.cfg:24
+msgid "frigid touch"
+msgstr ""
+
+#. [unit_type]: id=Steppe Pariah, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Pariah.cfg:5
+msgid "Steppe Pariah"
+msgstr ""
+
+#. [unit_type]: id=Steppe Pariah, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Pariah.cfg:19
+msgid ""
+"Those rejects of the IceWind order who achieve veteran status in their art "
+"are looked upon as akin to minor criminals. However not even the Herders can "
+"deny that they are more then a little useful. Pariahs have little loyalty to "
+"the clan and rarely fight except for an incentive. When they do, they "
+"specialise in flushing foes from fortified positions or difficult terrain."
+msgstr ""
+
+#. [unit_type]: id=Steppe Rigid, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Rigid.cfg:5
+msgid "Steppe Rigid"
+msgstr ""
+
+#. [unit_type]: id=Steppe Rigid, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Rigid.cfg:18
+msgid ""
+"Aptly named, the Rigid are a near unbreakable foe. They often form fall-back "
+"positions behind the battle lines. Many a time the Rigid have been "
+"sacrificed, delaying the enemy while the main force recovers and regroups "
+"behind their unyielding wall of flesh, bone and iron. Their role is hardly a "
+"glorious one and usually comes to an end jammed into a choke point against "
+"hopeless odds."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/orcs-steppe/Shieldbearer.cfg:30
+#: The_Silver_Lands/units/orcs-steppe/Stoic.cfg:30
+#: The_Silver_Lands/units/orcs-steppe/Rigid.cfg:29
+msgid "shield bash"
+msgstr ""
+
+#. [unit_type]: id=Steppe Savage, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Savage.cfg:5
+msgid "Steppe Savage"
+msgstr ""
+
+#. [unit_type]: id=Steppe Savage, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Savage.cfg:19
+msgid ""
+"Unlike humans or elves, most orcs find a barbaric thrill in the chaos and "
+"blood of battle. Some so much so that the experience pushes their psyche, "
+"unstable and voilent at the best of times, dangerously close to the brink. "
+"Teetering on the fine edge between sanity and burning instinct, they are "
+"feared nearly as much by their comrades as by their enemies. Hurling "
+"themselves bodily into the fray, they attack enemies solely with their fists "
+"and teeth. Savages cease to use armour at all, allowing them greater speed "
+"and ease of movement but sacrificing the protection it gives. Few have been "
+"known to survive beyond early adulthood."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/orcs-steppe/Savage.cfg:42
+msgid "frenzy"
+msgstr ""
+
+#. [unit_type]: id=Steppe Shieldbearer, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Shieldbearer.cfg:5
+msgid "Steppe Shieldbearer"
+msgstr ""
+
+#. [unit_type]: id=Steppe Shieldbearer, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Shieldbearer.cfg:19
+msgid ""
+"Some soldiers are given a special role, quite different from any of their "
+"comrades. Shieldbearers carry no real weapon at all. Their unique duty is to "
+"protect the wounded, patch up holes in the line and, if all looks to be "
+"lost, hold off the enemy long enough to cover their retreating army. It has "
+"often been said by the Steppe Orcs that while the Shieldbearers have never "
+"secured victory, they have numerous times prevented utter defeat."
+msgstr ""
+
+#. [unit_type]: id=Steppe Skewer, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Skewer.cfg:5
+msgid "Steppe Skewer"
+msgstr ""
+
+#. [unit_type]: id=Steppe Skewer, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Skewer.cfg:19
+msgid ""
+"While orcs may not be renowned for their intellectual capacity, it is well "
+"within their powers of thinking to realise that a longer spear will allow "
+"them to impale an enemy from greater distance. In addition, Skewers delight "
+"in crafting barbed heads for their spears, further increasing their grisly "
+"effectiveness."
+msgstr ""
+
+#. [unit_type]: id=Steppe Spearhead, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Spearhead.cfg:5
+msgid "Steppe Spearhead"
+msgstr ""
+
+#. [unit_type]: id=Steppe Spearhead, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Spearhead.cfg:19
+msgid ""
+"Any Steppe Orcs wishing to lead their comrades must first show their worth "
+"in battle. Spearheads lead the charge into the enemy, seeking to crash a "
+"hole in the battle lines of the foe. It is a dangerous profession to say the "
+"least. Their eagerness to impress frequently results in a sticky end. Their "
+"crude but often effective tactics are complemented by equally crude but "
+"effective weapons. A weight attached to a chain makes a perfectly "
+"serviceable flail."
+msgstr ""
+
+#. [unit_type]: id=Steppe Spearman, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Spearman.cfg:5
+msgid "Steppe Spearman"
+msgstr ""
+
+#. [unit_type]: id=Steppe Spearman, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Spearman.cfg:18
+msgid ""
+"The orcs of the steppe learned early on that their axes were simply not "
+"suitable against all foes. In accordance with this, some warriors forgo "
+"further usage of the axe and take up short spears. While necessary, the "
+"change is often somewhat awkward."
+msgstr ""
+
+#. [unit_type]: id=Steppe Stoic, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Stoic.cfg:5
+msgid "Steppe Stoic"
+msgstr ""
+
+#. [unit_type]: id=Steppe Stoic, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Stoic.cfg:19
+msgid ""
+"The Stoic are embodiments of endurance, plain and simple. They are "
+"characterized by sheer stubbornness and refusal to go down even under the "
+"heaviest of blows. Time and again a foe has struck down a Stoic and thought "
+"him dead, only to see the hardy orc lift himself from among the corpses of "
+"the dead, raise his shield and reasume his position."
+msgstr ""
+
+#. [unit_type]: id=Steppe Vanguard, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:5
+msgid "Steppe Vanguard"
+msgstr ""
+
+#. [unit_type]: id=Steppe Vanguard, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:21
+msgid ""
+"Having proven themselves in battle, Vanguards start to assert their "
+"authority others. Their experience is put to use on the battlefield, where "
+"they direct the actions of their comrades. Yet often in the fracas of battle "
+"these subtleties are disregarded and the Vanguards live up to their name, "
+"leading by example. They have however learnt some restraint, complementing "
+"their flails with a standard battleaxe similar to that used by steppe "
+"warriors."
+msgstr ""
+
+#. [unit_type]: id=Steppe Warrior, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Warrior.cfg:5
+msgid "Steppe Warrior"
+msgstr ""
+
+#. [unit_type]: id=Steppe Warrior, race=orc
+#: The_Silver_Lands/units/orcs-steppe/Warrior.cfg:19
+msgid ""
+"The rank and file Steppe Orc soldier epitomizes the qualities of his clan. "
+"Hardened, resilient and, when necessary, desperately savage. However, while "
+"loyal to their clan, they have little restraint and are often hard to "
+"control. The inherent strength of their race and a harsh life of continuous "
+"conflict take the place of formal training. Not known for their finesse, "
+"Steppe Orcs fight with heavy two-handed battle axes."
+msgstr ""
+
+#. [unit_type]: id=Orcish Initiate, race=orc
+#: The_Silver_Lands/units/orcs/Initiate.cfg:5
+msgid "Orcish Initiate"
+msgstr ""
+
+#. [unit_type]: id=Orcish Sage, race=orc
+#. [unit_type]: id=Orcish Sorcerer, race=orc
+#. [unit_type]: id=Orcish Initiate, race=orc
+#: The_Silver_Lands/units/orcs/Sage.cfg:23
+#: The_Silver_Lands/units/orcs/Sorcerer.cfg:22
+#: The_Silver_Lands/units/orcs/Initiate.cfg:22
+msgid "."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/orcs/Sage.cfg:37
+#: The_Silver_Lands/units/orcs/Sorcerer.cfg:36
+#: The_Silver_Lands/units/orcs/Initiate.cfg:36
+msgid "aura blast"
+msgstr ""
+
+#. [unit_type]: id=Orcish Sage, race=orc
+#: The_Silver_Lands/units/orcs/Sage.cfg:5
+msgid "Orcish Sage"
+msgstr ""
+
+#. [unit_type]: id=Orcish Sorcerer, race=orc
+#: The_Silver_Lands/units/orcs/Sorcerer.cfg:5
+msgid "Orcish Sorcerer"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: The_Silver_Lands/units/shaxthal.cfg:5
+msgid "race^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: The_Silver_Lands/units/shaxthal.cfg:6
+msgid "race+female^Shaxthal"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: The_Silver_Lands/units/shaxthal.cfg:7
+msgid "race^Shaxthals"
+msgstr ""
+
+#. [race]: id=shaxthal
+#: The_Silver_Lands/units/shaxthal.cfg:12
+msgid ""
+"Albeit with highly cutting-edge appearances, the Shaxthals are one of the "
+"most ancient inhabitants of this world. Supposedly, they were created by "
+"this world's original inhabitants by combining natural creatures with "
+"powerful technology and casting highly advance, arcane magic upon them. The "
+"reason for their creation was in order to aid their creators to protect "
+"themselves in the event of a series of assaults caused by creatures from "
+"another world. Although the Shaxthals succeeded with their purpose, they "
+"eventually turned against their creators due to a combination of their "
+"natural instincts and their adaptability. To make matters even worse, the "
+"adaptability mechanisms eventually allowed the Shaxthals to reproduce on "
+"their own. Their creators eventually found a way to destroy them, but they "
+"were too late. The strongest Shaxthals were simply sealed in pods, only to "
+"be reinvoked millenniums later by the Chaos Empire.\n"
+"\n"
+"Although Shaxthals are reprocessed creatures of all types, they all have "
+"glowing eyes, highly resilient metallic skin, and lack the need to breathe. "
+"Said skin is so resilient that it is quite hard to fell the creature; only "
+"powerful magic is an adequate force against such resilience. In addition, "
+"most Shaxthals have the ability to float at will. In addition to their fangs "
+"which transmit a powerful poison to the victim, and their claws, many "
+"Shaxthals have the ability to unleash an extremely powerful burst of energy "
+"at their quarry from their eyes.\n"
+"\n"
+"Nowadays, the Shaxthals have integrated themselves with the more natural "
+"ecosystem, with nobody commanding them. Despite this, the Shaxthals are "
+"still feared due to their immense power and their frightening reputation."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone.cfg:5
+msgid "Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone.cfg:28
+msgid ""
+"These shaxthal drones have not completely grown up, so they are considerably "
+"weaker than their adult counterparts, close to larvary state. Incredibly, "
+"when younger, these creatures' body is bigger, with most of it filled with "
+"strange poisonous fluids. Although they are also slower than their adults, "
+"their flexible exoskeleton allows them for good defense from their enemies."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/shaxthal/Drone_Runner.cfg:47
+#: The_Silver_Lands/units/shaxthal/Drone.cfg:56
+#: The_Silver_Lands/units/shaxthal/Drone_Protector.cfg:45
+#: The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:56
+#: The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:49
+msgid "energy shock"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:5
+msgid "Assault Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:21
+msgid ""
+"Of all the horrors that have been witnessed by all those who oppose the "
+"Chaos Empire and survive the time necessary to pass the story onto "
+"generation by generation, the worst ever recorded might be these floating "
+"metallic beasts that resemble nagas in shape, and insects in appearance, "
+"that have big and strong claws, capable of cutting a man in half with small, "
+"if not nought, effort. These abominations, called the 'Shaxthal' by the "
+"witnesses, honor their name, derived from an ancient human dialect - which "
+"would mean 'invincible' in the modern tongue -, by being fierce, seemingly "
+"unstoppable and virtually invulnerable to physical weapons, for their body "
+"is protected by an incredibly tough and thick shell-armor, of which the only "
+"flaw would be the gaps of flesh in each joint, smelling like rotten flesh.\n"
+"\n"
+"By their resemblance to insects, they have also been titled the 'Drones' by "
+"the rebel forces, but it is a name easily underestimated by unexperienced "
+"fighters that have never seen them in reality. Those foolish ones only "
+"survive long enough to be crushed alive, limb by limb, by a lightbeam coming "
+"from the creature's eyes."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Protector.cfg:5
+msgid "Protector Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Protector.cfg:19
+msgid ""
+"Some drones develop their flexibility and deftness more than others. The "
+"Protectors have chosen the path of endurance and attack strength, becoming "
+"heavier and slower, yet really lethal weapons of mass destruction. However, "
+"they have also developed a worrisome accuracy on their attacks of energy "
+"shockwaves."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Runner.cfg:5
+msgid "Runner Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Runner.cfg:22
+msgid ""
+"Some drones are known for their speed and visual agility and accuracy as the "
+"'Runners'. They stand on only their lower pair of legs, which are very "
+"strong and are designed with scouting performance in mind. They are not a "
+"perilous threat alone on their own, but larger groups are, as with most "
+"species, dangerous.\n"
+"\n"
+"Evidence indicates that their intelligence is very similar to that of "
+"humans, dwarves or elves, albeit being as violent and unpredictable as orcs. "
+"It is unfortunate that such features were put under the commands of the "
+"forces of Chaos instead."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:5
+msgid "Sentry Drone"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:28
+msgid ""
+"The Sentry Drones are weaker light-armored variants of the deadly Assault "
+"Drones, reserved for surveiling Shaxthal bases and breeding hives. This "
+"design is so optimized for defending their position rather than exposing "
+"themselves in the outside for assaults, which usually means that when one of "
+"these variants is lured out of its warren, it is easily defeated by swarms "
+"of oponents."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Rayblade.cfg:6
+msgid "Rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Rayblade.cfg:20
+msgid ""
+"Very few have survived the 'bladestorm' that the Rayblades perform in the "
+"battlefield. In an unnatural manner, they can spin over their own bodies and "
+"destroy their oponents by extending their arms, which instead of hands at "
+"the end have sharp blades, during a fast spinning. Yet worse is that they "
+"seem not to require air at all, being able to stay hours, or days, perhaps, "
+"in the waters of the deepest rivers known."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/shaxthal/Rayblade.cfg:28
+msgid "weapon^rayblade"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Razorbird.cfg:19
+msgid ""
+"Beside the manufactured drones, other exotic lifeforms have developed and "
+"evolved amongst the Shaxthals, lifeforms that start from a mundane basis, "
+"such as birds. The shaxthal birds, however, are armored; this makes them "
+"slower than natural birds, but also makes them more dangerous, as they have "
+"the ability to throw some appendices of their armor that resemble feather-"
+"shaped knives, knives that can be shot from safe distance to the victim, "
+"inflicting great damage on it."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:19
+msgid ""
+"The shaxthal Razorbirds can grow up even more, becoming threats that are "
+"best avoided in open fields, as they can let themselves fall over their "
+"victim piercing it with their powerful beak. And, in case that is not "
+"enough, the sharpness of their throwing blades is enhanced by their common "
+"practice of producing deadly electric sparks with them."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Wyrm, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Wyrm.cfg:5
+msgid "Wyrm"
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Wyrm, race=shaxthal
+#: The_Silver_Lands/units/shaxthal/Wyrm.cfg:56
+msgid ""
+"These biomechanicals pretty much resemble the structure, appearance and "
+"behavior of Water Serpents, except that they don't need to breath, they are "
+"very strong and resistant to physical damage, and, most importantly, they "
+"cannot move quickly on most dry terrains. In fact, moving on the surface can "
+"be specially dangerous for them, as their lack of legs and excess of weight, "
+"combinated, render them defenseless.\n"
+"\n"
+"In a dramatically big contrast, their performance on their natural "
+"environments, the Shaxthal nests, is extremely dangerous for any intruders "
+"that may stumble across with these sneaky prowlers."
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: The_Silver_Lands/units/undead.cfg:5
+msgid "race^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: The_Silver_Lands/units/undead.cfg:6
+msgid "race+female^Elvish Spirit"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: The_Silver_Lands/units/undead.cfg:7
+msgid "race^Elvish Spirits"
+msgstr ""
+
+#. [race]: id=elvish_spirits
+#: The_Silver_Lands/units/undead.cfg:10
+msgid ""
+"Many mighty elven warriors of ancient have died in such a way that their "
+"desire of fighting for a last time is not fulfilled. Thus, their souls "
+"cannot rest in peace forever, and seek to return to this world for getting "
+"their thirst quenched with a last glorious confrontation.\n"
+"\n"
+"However, they usually cannot do so without help of necromancy. Since elves "
+"have always been opposed to allowing necromancy and their practitioners  "
+"amongst their people, their ancestors have not had the opportunity to return "
+"to assist their kind, till now."
+msgstr ""
+
+#. [unit_type]: id=Ghast, race=undead
+#: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:5
+msgid "Ghast"
+msgstr ""
+
+#. [unit_type]: id=Ghast, race=undead
+#: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:24
+msgid ""
+"The ghast is a creature taken from humankind's most primal nightmares. "
+"Unlike their lesser cousins, ghouls and necrophages, ghasts are not patient "
+"enough to wait for their victim to die from poison before consuming the "
+"body. They attack directly with their enormous mouths, trying to rip the "
+"flesh straight from their foes. Once their enemy is defeated, they eat the "
+"rest of the body, gaining strength in the process."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:32
+msgid "bite"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:5
+msgid "Ancestor"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:29
+msgid ""
+"Revered warriors of old roam through the elven forests, visible only due to "
+"their shining silver swords. They are only partially present in the mortal "
+"realm, and wounds close as if they had never existed. Their voice can "
+"whisper in the wind words that chill the hearts of their enemies, making "
+"them, ocassionally, abandon the fight prematurely, or even die of sheer fear."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Warrior.cfg:34
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:33
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:34
+msgid "ancient blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:45
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:46
+msgid "requiem"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:5
+msgid "Forefather"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:30
+msgid ""
+"The ancient elvish lords may come back to this world in times of great need, "
+"to lead their people to glory once again. When attacking, they sing a "
+"chilling death chant, which can freeze in terror their oponents; this has "
+"been known to have caused a fair number of defeats at the hands of elven "
+"armies, and to suddenly turn the fight in favor of them, when victory was "
+"close to be achieved by those who dare oppose the almighty lords of the "
+"forests."
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Warrior.cfg:5
+msgid "Warrior Spirit"
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=elvish_spirits
+#: The_Silver_Lands/units/undead/Elvish_Spirit_Warrior.cfg:30
+msgid ""
+"The great elvish warriors of times past are not completely gone. They roam "
+"around the forests which formerly served as their home, and wander about "
+"their memories of glorious battles and wars, seeking to perform the feats of "
+"arms they did in the past, and death is no obstacle for their purposes."
+msgstr ""
+
+#. [unit_type]: id=Shadow Minion, race=undead
+#: The_Silver_Lands/units/undead/Shadow_Minion.cfg:5
+msgid "Shadow Minion"
+msgstr ""
+
+#. [unit_type]: id=Shadow Minion, race=undead
+#: The_Silver_Lands/units/undead/Shadow_Minion.cfg:33
+msgid ""
+"This spawn of Darkness must have been summoned by a powerful evil warlock. "
+"Although weak under the suns' light, the cover and protection of the grand "
+"shadows of the night allows them to kill heavy and big preys with a single "
+"stabbing strike on their backs. Combined with their high resistance to "
+"physical damage, all this makes them enemies that should not be "
+"underestimated when no person skilled in the magic arts is handy to help "
+"with destroying these shady messengers of death."
+msgstr ""
+
+#. [unit_type]: id=Shadow Spawn, race=undead
+#: The_Silver_Lands/units/undead/Shadow_Spawn.cfg:5
+msgid "Shadow Spawn"
+msgstr ""
+
+#. [unit_type]: id=Shadow Spawn, race=undead
+#: The_Silver_Lands/units/undead/Shadow_Spawn.cfg:21
+msgid ""
+"Only those adept in the arts of true darkness can create the abominations "
+"known as the Shadow Spawn. A Shadow Spawn is essentially a spirit composed "
+"of dark energy that is created by combining necromantic magic with magic of "
+"true darkness. Like some undead, they possess the necromantic ability to "
+"raise the corpses of those they kill to the cruel world of unlife."
+msgstr ""
+
+#. [unit_type]: id=Death Baron, race=undead
+#: The_Silver_Lands/units/undead/Skele_Death_Baron.cfg:5
+msgid "Death Baron"
+msgstr ""
+
+#. [unit_type]: id=Death Baron, race=undead
+#: The_Silver_Lands/units/undead/Skele_Death_Baron.cfg:39
+msgid ""
+"Sometimes the mightiest warriors and generals, cursed with hate and angst, "
+"come back to this world as Death Knights. Death Barons serve them whilst "
+"accruing enough unholy power to become Death Knights. In the process they "
+"pick up a good deal of the Knight's power, including the ability to command "
+"underlings."
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: The_Silver_Lands/units/undead/Skeleton_Knight.cfg:5
+msgid "Bone Knight"
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: The_Silver_Lands/units/undead/Skeleton_Knight.cfg:26
+msgid ""
+"Once great warriors across the plains, these mounted riders atop their "
+"skeletal horses were raised from the ground by unholy magic to spread fear "
+"and destruction."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Silver_Lands/units/undead/Skeleton_Knight.cfg:45
+msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: The_Silver_Lands/units/undead/Skeleton_Rider.cfg:5
+msgid "Skeleton Rider"
+msgstr ""
+
+#. [unit_type]: id=Skeleton Rider, race=undead
+#: The_Silver_Lands/units/undead/Skeleton_Rider.cfg:26
+msgid ""
+"Once great warriors thundering across the plains, these mounted riders atop "
+"their skeletal horses were raised from the grave by unholy magic to spread "
+"fear and destruction."
+msgstr ""
+
+#: The_Silver_Lands/units/vampires.cfg:5
+msgid ""
+"Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
+"Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
+"Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,"
+"Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,"
+"Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,"
+"Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,"
+"Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,"
+"Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,"
+"Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
+"Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
+msgstr ""
+
+#: The_Silver_Lands/units/vampires.cfg:6
+msgid ""
+"Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
+"Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
+"Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,"
+"Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,"
+"Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,"
+"Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,"
+"Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,"
+"Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,"
+"Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,"
+"Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,"
+"Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,"
+"Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,"
+"Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
+"Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
+msgstr ""
+
+#. [race]: id=vampire
+#: The_Silver_Lands/units/vampires.cfg:13
+msgid "race^Vampire"
+msgstr ""
+
+#. [race]: id=vampire
+#: The_Silver_Lands/units/vampires.cfg:14
+msgid "race+female^Vampiress"
+msgstr ""
+
+#. [race]: id=vampire
+#: The_Silver_Lands/units/vampires.cfg:15
+msgid "race^Vampires"
+msgstr ""
+
+#. [race]: id=vampire
+#: The_Silver_Lands/units/vampires.cfg:20
+msgid ""
+"The term 'vampire' is a word in an ancient dialect of the human language "
+"that would mean 'corrupted blood' in the modern tongue. In reality, vampires "
+"are not of a totally different race, but are the result of when a living "
+"creature's blood is corrupted by a very powerful, arcane type of magic. All "
+"vampires have red glowing eyes, white hair, pale skin, long fangs, and a "
+"craving for the blood of other living creatures. In addition, this magic has "
+"an effect on the creature so that it becomes similar to an undead creature; "
+"therefore necromancy, poison, and abilities that drain will have no effect "
+"on a vampire. Some of the more powerful vampires even have the ability to "
+"transform into bats. Due to all of this, vampires are often classified as a "
+"different race.\n"
+"\n"
+"As vampires have a strong craving for blood, they usually overwhelm an "
+"already existing society mainly composed of living creatures, and build a "
+"monarchy or an oligarchy over it; the living members of the society would be "
+"subservient to the local vampires, and annually, five dozen of those members "
+"would be sacrificed to the vampire population. Due to this practice, the "
+"vampiric overlords encourage the subservient population to reproduce in "
+"great numbers so that the number of members of the subservient population "
+"remains plentiful. In return for compliance, the participating families get "
+"a somewhat higher place in society. These societies work for two reasons, "
+"one because of the threat the vampires present; two, the subservient members "
+"benefit from this setup.\n"
+"\n"
+"Since blood is a very important part of vampire society, it is used as their "
+"currency. Also, blood is often involved in their magic."
+msgstr ""
+
+#. [unit_type]: id=Blood Apprentice, race=vampire
+#: The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:5
+msgid "Blood Apprentice"
+msgstr ""
+
+#. [unit_type]: id=Blood Apprentice, race=vampire
+#: The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:20
+msgid ""
+"Vampires always had a strong obsession with blood and control. As such, "
+"their magic typically involves blood, souls, and aura. These vampire mages "
+"attack their enemies by causing their blood to boil, or the mage will use "
+"their aura to disrupt their enemy's aura, thus being able to strike their "
+"soul. These mages' blood boiling magic works by causing the victim's aura to "
+"flare up, thus causing the victim's blood to boil. Since this magic works "
+"this way, it is able to damage the nonliving."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Silver_Lands/units/vampires/Sangel.cfg:37
+#: The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:37
+#: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:36
+#: The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:45
+msgid "blood boil"
+msgstr ""
+
+#. [unit_type]: id=Blood Hulk, race=vampire
+#: The_Silver_Lands/units/vampires/Blood_Hulk.cfg:5
+msgid "Blood Hulk"
+msgstr ""
+
+#. [unit_type]: id=Blood Hulk, race=vampire
+#: The_Silver_Lands/units/vampires/Blood_Hulk.cfg:20
+msgid ""
+"These monstrous vampires gorge themselves on the blood of their victims "
+"instead of turning them. Their appetite for blood is never sated, and with "
+"each victim they grow in strength and size. Only talented blood mages can "
+"create such monstrosities."
+msgstr ""
+
+#. [unit_type]: id=Blood Manipulator, race=vampire
+#: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:5
+msgid "Blood Manipulator"
+msgstr ""
+
+#. [unit_type]: id=Bloodborn, race=vampire
+#: The_Silver_Lands/units/vampires/Bloodborn.cfg:5
+msgid "Bloodborn"
+msgstr ""
+
+#. [unit_type]: id=Bloodborn, race=vampire
+#: The_Silver_Lands/units/vampires/Bloodborn.cfg:25
+msgid ""
+"Vampires do not bear many natural children. Most vampires are spawned by a "
+"bite from another vampire. The curses and strengths of vampires are spread "
+"as the vampire sucks the blood from his prey, and replaces it with magic. "
+"People new to the blood are made weak by it, and have not enough mastery "
+"over their mind to resist an order of the one who bit them. Eventualy, they "
+"will grow used to it, and learn how to use the strength it provides them, "
+"but until then they are much as oversized children."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Bloodborn.cfg:68
+msgid "female^Bloodborn"
+msgstr ""
+
+#. [unit_type]: id=Day Hunter, race=vampire
+#: The_Silver_Lands/units/vampires/Day_Hunter.cfg:5
+msgid "Day Hunter"
+msgstr ""
+
+#. [unit_type]: id=Day Hunter, race=vampire
+#: The_Silver_Lands/units/vampires/Day_Hunter.cfg:28
+msgid ""
+"After heading to the halfway point, a halfblood can choose to go back. They "
+"still have the strength given them by their vampire blood, but they have "
+"chosen light, and no longer desire blood. Many of them will still serve "
+"vampire lords, out of loyalty, and habit, and vampire lords rarely regret "
+"having them in their service."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Day_Hunter.cfg:73
+msgid "female^Day Hunter"
+msgstr ""
+
+#. [unit_type]: id=Duchess, race=vampire
+#: The_Silver_Lands/units/vampires/Duchess.cfg:5
+msgid "female^Duchess"
+msgstr ""
+
+#. [unit_type]: id=Duchess, race=vampire
+#: The_Silver_Lands/units/vampires/Duchess.cfg:21
+msgid ""
+"A Duchess is a powerful, yet elegant vampiress who is often the wife of a "
+"Methusalem. Eventhough a Duchess is feared for all the minions she "
+"controlls, she is capable of ravaging her enemies with her graceful "
+"swordsmanship and her dementing gaze; in addition she has a powerful bite. "
+"It is wise not to get in her way due to her dreadful power and the vast "
+"number of minions she controls."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Silver_Lands/units/vampires/Sire.cfg:50
+#: The_Silver_Lands/units/vampires/Duchess.cfg:51
+#: The_Silver_Lands/units/vampires/Methusalem.cfg:51
+#: The_Silver_Lands/units/vampires/Mistress.cfg:50
+msgid "dementia gaze"
+msgstr ""
+
+#. [unit_type]: id=Vampire Duelist, race=vampire
+#: The_Silver_Lands/units/vampires/Duelist.cfg:5
+msgid "Duelist"
+msgstr ""
+
+#. [unit_type]: id=Vampire Duelist, race=vampire
+#: The_Silver_Lands/units/vampires/Duelist.cfg:20
+msgid ""
+"Vampires have always had a somewhat upper-class manner. This transfers over "
+"to their style of fighting too. The vampires without the family or "
+"leadership to become lords make themselves useful to a lord that can ensure "
+"they always have a fresh supply of blood. Those who do this are known as "
+"duelists. Their masters use them as guards and assassins. The wear not "
+"armor, but focus on rapid pinpoint fencing which they carry out with inhuman "
+"accuracy."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Duelist.cfg:142
+msgid "female^Duelist"
+msgstr ""
+
+#. [unit_type]: id=Fledgeling, race=vampire
+#: The_Silver_Lands/units/vampires/Fledgeling.cfg:5
+msgid "Fledgeling"
+msgstr ""
+
+#. [unit_type]: id=Fledgeling, race=vampire
+#: The_Silver_Lands/units/vampires/Fledgeling.cfg:21
+msgid ""
+"Most vampires are weak ones in service of the lords and more powerful ones, "
+"hoping and waiting that they will rise into a position of power for "
+"themselves. Until then they serve him in exchange for blood. When there are "
+"no more humans and half bloods, these vampires are the next most expendable "
+"thing a vampire lord has."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Fledgeling.cfg:107
+msgid "female^Fledgeling"
+msgstr ""
+
+#. [unit_type]: id=Flesh Artisan, race=vampire
+#: The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:5
+msgid "Flesh Artisan"
+msgstr ""
+
+#. [unit_type]: id=Flesh Artisan, race=vampire
+#: The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:19
+msgid ""
+"Some vampires who take up blood magic, decide that torture is much more "
+"satisfying than merely destroying. They neglect magic somewhat so that in "
+"addition to causing the blood to boil on the inside, they can master causing "
+"pain with claws and fangs, on the outside. In battle they can fight well "
+"with claws at close range, and magic at a distance."
+msgstr ""
+
+#. [unit_type]: id=Halfblood, race=vampire
+#: The_Silver_Lands/units/vampires/Half_Blood.cfg:5
+msgid "Halfblood"
+msgstr ""
+
+#. [unit_type]: id=Halfblood, race=vampire
+#: The_Silver_Lands/units/vampires/Half_Blood.cfg:27
+msgid ""
+"halfbloods vampire blood grows stronger as they kill. When they are balanced "
+"roughly evenly between both bloods, they are known as half bloods."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Half_Blood.cfg:102
+msgid "female^Halfblood"
+msgstr ""
+
+#. [unit_type]: id=Malborn, race=vampire
+#: The_Silver_Lands/units/vampires/Malborn.cfg:5
+msgid "Malborn"
+msgstr ""
+
+#. [unit_type]: id=Malborn, race=vampire
+#: The_Silver_Lands/units/vampires/Malborn.cfg:22
+msgid ""
+"Some people are simply to weak to handle the blood, and it leaves them a "
+"mindless mess. This gives the vampire lord complete control over what is "
+"left of them. Because of this control, the vampire lord is quite willing to "
+"arm these creatures with poisoned daggers. Unlike his other servents, these "
+"ones cannot rebel."
+msgstr ""
+
+#. [unit_type]: id=Methusalem, race=vampire
+#: The_Silver_Lands/units/vampires/Methusalem.cfg:5
+msgid "Methusalem"
+msgstr ""
+
+#. [unit_type]: id=Methusalem, race=vampire
+#: The_Silver_Lands/units/vampires/Methusalem.cfg:21
+msgid ""
+"You may only see one such vampire every thousand years, but when you do you "
+"know war is coming. These vampires have grown so old, and so powerful, that "
+"they believe it time to fill the vampire manifest destiny, and subject every "
+"other race. With their terrible power, charisma, and the promise of an "
+"eternity of free blood, they can gather the support of most vampire lords "
+"and lieges. Those who won't join them they destroy ruthlessly."
+msgstr ""
+
+#. [female]
+#. [unit_type]: id=Mistress, race=vampire
+#: The_Silver_Lands/units/vampires/Sire.cfg:163
+#: The_Silver_Lands/units/vampires/Mistress.cfg:5
+msgid "female^Mistress"
+msgstr ""
+
+#. [unit_type]: id=Mistress, race=vampire
+#: The_Silver_Lands/units/vampires/Mistress.cfg:20
+msgid ""
+"Some of the beautiful vampiresses who are as powerful as a Sire and are "
+"capable of winning the love of one are given the title of 'Mistress'. These "
+"vampiresses are capable of unleashing a world of pain and suffering upon "
+"their enemies with their twin daggers and their dementing gaze. The minions "
+"and mercenaries which serve her fight significantly better whenever they "
+"around her, sometimes it is unknown wether she is leading them or the "
+"mercenaries and minions are protecting her in order to protect themselves "
+"from the wrath of the Mistress' husband."
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble, race=vampire
+#: The_Silver_Lands/units/vampires/Noble.cfg:5
+msgid "Noble"
+msgstr ""
+
+#. [unit_type]: id=Vampire Noble, race=vampire
+#: The_Silver_Lands/units/vampires/Noble.cfg:20
+msgid ""
+"The vampires with family or leadership make themselves lord over whatever "
+"land they can hold. They use charm, terror, and ruthlessness to uphold their "
+"reign. They will surround themselves with their loyal vampires, whom they "
+"keep in check with the promise of continual blood, and subject any lesser "
+"creature to be the surfs of their society, and to provide blood or cannon-"
+"fodder in an emergency. They do not feed on them directly in most "
+"circumstances, because that tends to lead to rebellion, but rather force the "
+"surfs to provide animals for their weekly blood."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Noble.cfg:142
+msgid "female^Lady"
+msgstr ""
+
+#. [unit_type]: id=Sangel, race=vampire
+#: The_Silver_Lands/units/vampires/Sangel.cfg:5
+msgid "Sangel"
+msgstr ""
+
+#. [unit_type]: id=Sire, race=vampire
+#: The_Silver_Lands/units/vampires/Sire.cfg:5
+msgid "Sire"
+msgstr ""
+
+#. [unit_type]: id=Sire, race=vampire
+#: The_Silver_Lands/units/vampires/Sire.cfg:20
+msgid ""
+"Some vampires grow strong enough to subject other vampire lords to "
+"themselves. In exchange for protection (from whom is not always mentioned), "
+"the other lords provide a tithe of their tax to the Sire."
+msgstr ""
+
+#. [unit_type]: id=Sword Dancer, race=vampire
+#: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:5
+msgid "Sword Dancer"
+msgstr ""
+
+#. [unit_type]: id=Sword Dancer, race=vampire
+#: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:20
+msgid ""
+"Vampires live a long time, and have time to develop many social graces, "
+"including dance. Duelists who have spent extended amounts of time fighting, "
+"and dancing see similarities between the two, and combine them into a "
+"devastating and accurate form of fighting that cuts through defenses."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:142
+msgid "female^Sword Dancer"
+msgstr ""
+
+#. [unit_type]: id=Thinblood, race=vampire
+#: The_Silver_Lands/units/vampires/Thin_Blood.cfg:5
+msgid "Thin Blood"
+msgstr ""
+
+#. [unit_type]: id=Thinblood, race=vampire
+#: The_Silver_Lands/units/vampires/Thin_Blood.cfg:27
+msgid ""
+"Not all bloodborn grow towards their vampire side. Some lean on the human "
+"side, and can stand the daylight, and use a bow, which most vampires disdain "
+"as a peasant weapon. However they still have the vampires curse of blood "
+"thirst on them, giving them a reason to continue to serve their lord. These "
+"qualities make them a valuable support for a vampires army."
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Thin_Blood.cfg:102
+msgid "female^Thinblood"
+msgstr ""
+
+#. [unit_type]: id=Twilight Walker, race=vampire
+#: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:5
+msgid "Twilight Walker"
+msgstr ""
+
+#. [unit_type]: id=Twilight Walker, race=vampire
+#: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:29
+msgid ""
+"After reaching the halfway point, a halfblood can choose to go back, but "
+"many prefer not too. Those who don't are known as twilight walkers, and are "
+"among a lords most trusted servants, because they could have chosen day, but "
+"did not. As such they are often entrusted with poisons, and assassinations. "
+"For a vampire lord will always have enemies some of which are better slain "
+"with poison in the twilight, than with an army at night."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:34
+msgid "poisoned dagger"
+msgstr ""
+
+#. [female]
+#: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:167
+msgid "female^Twilight Walker"
+msgstr ""
+
+#. [unit_type]: id=Wose Magister, race=wose
+#: The_Silver_Lands/units/woses/Wose_Magister.cfg:5
+msgid "Wose Magister"
+msgstr ""
+
+#. [unit_type]: id=Wose Shaman, race=wose
+#. [unit_type]: id=Wose Magister, race=wose
+#: The_Silver_Lands/units/woses/Wose_Shaman.cfg:71
+#: The_Silver_Lands/units/woses/Wose_Magister.cfg:68
+msgid ""
+"Woses are, as a species, dedicated defenders of forests and nature. Ancient "
+"guardians, who sometimes have fearsome skills, such as commanding forest "
+"plants such as vines and creepers to hinder their enemies. Rarely seen by "
+"other races, even by elves, it is very likely that most of the fools that "
+"stumbled across one of these giants were crushed by them."
+msgstr ""
+
+#. [unit_type]: id=Wose Sapling, race=wose
+#: The_Silver_Lands/units/woses/Wose_Sapling.cfg:5
+msgid "Wose Sapling"
+msgstr ""
+
+#. [unit_type]: id=Wose Sapling, race=wose
+#: The_Silver_Lands/units/woses/Wose_Sapling.cfg:23
+msgid ""
+"Rarely seen, even by elves, a Wose is an order of creature about which "
+"little is known. The elves are the source of most of this knowledge; they "
+"know that these beings are not descended from trees, despite the similarity "
+"in form, and they know that a wose is more closely tied to the faerie world "
+"than the elves themselves, though in a different way. The motives and "
+"workings of their kind are unknown, though most posit the obvious idea that "
+"woses are wardens of the natural world.\n"
+"\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, "
+"however, neither used to, nor quick at moving around."
+msgstr ""
+
+#. [unit_type]: id=Wose Shaman, race=wose
+#: The_Silver_Lands/units/woses/Wose_Shaman.cfg:5
+msgid "Wose Shaman"
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:54
+msgid ""
+"\n"
+"\n"
+"Notes: "
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:59
+msgid ""
+" Vegetated terrains are forest, great tree, farmland and mushroom grove "
+"hexes."
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:66
+msgid "dauntless"
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:69
+msgid ""
+"Dauntless:\n"
+"While attacking, this unit's resistances are doubled, up to a maximum of 50. "
+"Weaknesses are not affected."
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:91
+msgid "protection"
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:93
+msgid ""
+"Protection:\n"
+"Adjacent units of lower level from this side receive a +20% bonus to all "
+"resistances (up to a maximum of 50%)."
+msgstr ""
+
+#. [illuminates]: id=obscure
+#: The_Silver_Lands/utils/abilities.cfg:173
+msgid "obscures"
+msgstr ""
+
+#. [illuminates]: id=obscure
+#: The_Silver_Lands/utils/abilities.cfg:177
+msgid ""
+"Obscures:\n"
+"This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"day, and as if it were night when it is dusk."
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:183
+msgid "terror"
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:187
+msgid ""
+"Terror:\n"
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When an "
+"enemy unit of the same or lower level is adjacent and engages in combat, its "
+"attacks do 15% less damage times the difference in their levels + 15%."
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:329
+msgid "sylvan spark"
+msgstr ""
+
+#: The_Silver_Lands/utils/abilities.cfg:333
+msgid ""
+"Sylvan Spark:\n"
+"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:363
+#: The_Silver_Lands/utils/abilities.cfg:366
+msgid "ice convalesence"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:365
+#: The_Silver_Lands/utils/abilities.cfg:368
+msgid ""
+"Ice Convalescence:\n"
+"This unit will regenerate 3 HP if it is on snowy or icy terrain. The effects "
+"of poison will not be cured or prolonged."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:382
+#: The_Silver_Lands/utils/abilities.cfg:385
+msgid "aquatic body"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:384
+#: The_Silver_Lands/utils/abilities.cfg:387
+msgid ""
+"Aquatic Body:\n"
+"This unit will regenerate 3 HP when in deep or shallow water."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:401
+#: The_Silver_Lands/utils/abilities.cfg:404
+msgid "sylvan revitilization"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:403
+#: The_Silver_Lands/utils/abilities.cfg:406
+msgid ""
+"Sylvan Revitilization:\n"
+"This unit will regenerate 3 HP while in a vegetated area."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:420
+#: The_Silver_Lands/utils/abilities.cfg:423
+msgid "earth recuperation"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:422
+#: The_Silver_Lands/utils/abilities.cfg:425
+msgid ""
+"Earth Recuperation:\n"
+"This unit will repair its body with the rocks found while in/on hills, "
+"caves, or mountains, thus recovering 3 HP in the process."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:439
+msgid "heat absorption"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:441
+msgid ""
+"Heat Absorption:\n"
+"This unit will absorb heat whenever it is on or floating above lava, thus "
+"recovering 3 HP. In addition, this unit will absorb heat from other warm "
+"terrain like sand."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:460
+msgid "aquatic regeneration"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:462
+msgid ""
+"Aquatic Regeneration:\n"
+"This unit will recover 8 HP per turn when on aquatic terrain. If this unit "
+"is poisoned it will be cured of it instead."
+msgstr ""
+
+#. [hides]: id=gelid_incarnation_conceal
+#: The_Silver_Lands/utils/abilities.cfg:471
+msgid "gelid incarnation"
+msgstr ""
+
+#. [hides]: id=gelid_incarnation_conceal
+#: The_Silver_Lands/utils/abilities.cfg:475
+msgid ""
+"Gelid Incarnation:\n"
+"This unit will regenerate (but not unpoison) 4 HP per turn.\n"
+"\n"
+"If this unit is on icy or snowy terrain its regenerative abilities increase "
+"by regenerating 8 HP rather than 4 HP per turn and poison is cured. In "
+"addition, while this will conceal itself from enemies while on icy or snowy "
+"terrain."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:519
+msgid "terra resucitation"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: The_Silver_Lands/utils/abilities.cfg:521
+msgid ""
+"Terra Resuscitation:\n"
+"The unit will heal itself 8 HP per turn on earthy or vegetated terrain. If "
+"it is poisoned, it will remove the poison instead of healing."
+msgstr ""
+
+#. [advancement]: id=amla_monster
+#: The_Silver_Lands/utils/amla.cfg:9
+msgid "Max HP bonus +5, +1 damage to all attacks, max XP +25%"
+msgstr ""
+
+#. [print]
+#: The_Silver_Lands/utils/boss-utils.cfg:19
+msgid "Enemy boss sighted!"
+msgstr ""
+
+#: The_Silver_Lands/utils/boss-utils.cfg:40
+msgid ""
+"This is a boss scenario. You may recruit or recall troops during the first "
+"turn only, until all your recruitment space is used. Your per-turn income is "
+"set to zero."
+msgstr ""
+
+#: The_Silver_Lands/utils/boss-utils.cfg:42
+msgid ""
+"Most enemies respawn two or more turns after you kill them, so try to get "
+"away from their initial locations as quickly as possible."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/first-time-help.cfg:18
+#: The_Silver_Lands/utils/first-time-help.cfg:71
+msgid "UI^Character description"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/first-time-help.cfg:31
+msgid ""
+"Do you want to see a brief description of characters the first time you "
+"select them in the map?"
+msgstr ""
+
+#: The_Silver_Lands/utils/first-time-help.cfg:54
+msgid ""
+"Sorum'tar is an Orcish Initiate, a unit which is only found in this "
+"campaign. Sorum'tar is skilled with manipulating his pure aura, which he "
+"uses as his main form of attack. In addition, he practices swordplay, thus "
+"providing a decent auxilliary attack for close combat."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/first-time-help.cfg:73
+msgid ""
+"Tyramos is the deceased grand master of the Elementalrias order. His spirit "
+"is so powerful, that he was able to come back to the mortal plane. As he is "
+"a Ghost, which is a level one unit, he can advance into one of two units: a "
+"Wraith or a Shadow. Both units have their advantages, so choose Tyramos' "
+"path very wisely."
+msgstr ""
+
+#. [set_variable]
+#: The_Silver_Lands/utils/items.cfg:145
+msgid ""
+"Do you want to be healed?\n"
+"\n"
+"This magic glyph will completely restore this unit's health, also unslowing "
+"and removing poison from it, if applicable."
+msgstr ""
+
+#. [set_variable]
+#: The_Silver_Lands/utils/items.cfg:147 The_Silver_Lands/utils/items.cfg:159
+msgid "Note: the glyph can do this only once, and when done it will fade out."
+msgstr ""
+
+#. [set_variable]
+#: The_Silver_Lands/utils/items.cfg:157
+msgid "Do you want to be healed?"
+msgstr ""
+
+#. [object]: id=healing_glyph_at_{_X}_{_Y}
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/items.cfg:165 The_Silver_Lands/utils/items.cfg:173
+msgid "Crystal Glyph of Health"
+msgstr ""
+
+#. [object]: id=healing_glyph_at_{_X}_{_Y}
+#: The_Silver_Lands/utils/items.cfg:175
+msgid "The unit is fully healed, cured and unslowed."
+msgstr ""
+
+#. [set_variable]
+#: The_Silver_Lands/utils/items.cfg:189
+msgid "female^healed"
+msgstr ""
+
+#. [set_variable]
+#: The_Silver_Lands/utils/items.cfg:195
+msgid "healed"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/items.cfg:288 The_Silver_Lands/utils/items.cfg:351
+msgid "Do you want this unit to pick up this item?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/utils/scenario-deaths.cfg:246
+msgid " *Arrrgh* I… have failed…"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Silver_Lands/utils/scenario-deaths.cfg:269
+msgid "Irdya… is doomed…"
+msgstr ""
+
+#: The_Silver_Lands/utils/scenario-utils.cfg:94
+msgid "Scenario notes:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/scenario-utils.cfg:130
+#: The_Silver_Lands/utils/scenario-utils.cfg:145
+msgid "Hard Hat Area"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/scenario-utils.cfg:131
+#: The_Silver_Lands/utils/scenario-utils.cfg:146
+msgid "Espreon (author):"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/scenario-utils.cfg:134
+msgid ""
+"This scenario is still under construction, thus it might be buggy, "
+"incomplete, the final scenario that exists so far, et cetera. Comments to "
+"the www.wesnoth.org forum thread 'The Silver Lands' (Scenario and Campaign "
+"dev. forum) (which does not exist yet) or contact the author on the wesnoth-"
+"umc-dev IRC channel on Freenode.\n"
+"\n"
+"— The author"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Silver_Lands/utils/scenario-utils.cfg:149
+msgid ""
+"This scenario is still under construction. If you want to advance further in "
+"this campaign, rather than do debugging or testing here, it's recommended "
+"that you go back to the earlier scenario and select the normal, complete "
+"branch. Comments to the www.wesnoth.org forum thread 'The Silver "
+"Lands' (Scenario and Campaign dev. forum) (which does not exist yet) or "
+"contact the author on the wesnoth-umc-dev IRC channel on Freenode.\n"
+"\n"
+"— The author"
+msgstr ""
+
+#. [time]: id=v_underground
+#. [illuminated_time]: id=v_underground_illum
+#: The_Silver_Lands/utils/schedules.cfg:26
+#: The_Silver_Lands/utils/schedules.cfg:35
+msgid "Volcanic underground"
+msgstr ""
+
+#. [time]: id=indoors
+#. [illuminated_time]: id=indoors_illum
+#: The_Silver_Lands/utils/schedules.cfg:59
+#: The_Silver_Lands/utils/schedules.cfg:65
+msgid "Indoors"
+msgstr ""
+
+#. [time]: id=neutral_tod
+#: The_Silver_Lands/utils/schedules.cfg:92
+msgid "Neutral time of day"
+msgstr ""
+
+#. [time]: id=dawn1
+#: The_Silver_Lands/utils/schedules.cfg:105
+msgid "First Dawn"
+msgstr ""
+
+#. [time]: id=morning1
+#: The_Silver_Lands/utils/schedules.cfg:118
+msgid "First Morning"
+msgstr ""
+
+#. [time]: id=midday1
+#: The_Silver_Lands/utils/schedules.cfg:128
+msgid "First Midday"
+msgstr ""
+
+#. [time]: id=afternoon1
+#: The_Silver_Lands/utils/schedules.cfg:138
+msgid "First Afternoon"
+msgstr ""
+
+#. [time]: id=dusk1
+#: The_Silver_Lands/utils/schedules.cfg:148
+msgid "First Dusk"
+msgstr ""
+
+#. [time]: id=short_dark
+#: The_Silver_Lands/utils/schedules.cfg:161
+msgid "The Short Dark"
+msgstr ""
+
+#. [time]: id=dawn2
+#: The_Silver_Lands/utils/schedules.cfg:174
+msgid "Second Dawn"
+msgstr ""
+
+#. [time]: id=morning2
+#: The_Silver_Lands/utils/schedules.cfg:187
+msgid "Second Morning"
+msgstr ""
+
+#. [time]: id=midday2
+#: The_Silver_Lands/utils/schedules.cfg:197
+msgid "Second Midday"
+msgstr ""
+
+#. [time]: id=afternoon2
+#: The_Silver_Lands/utils/schedules.cfg:207
+msgid "Second Afternoon"
+msgstr ""
+
+#. [time]: id=dusk2
+#: The_Silver_Lands/utils/schedules.cfg:217
+msgid "Second Dusk"
+msgstr ""
+
+#. [time]: id=long_dark1
+#: The_Silver_Lands/utils/schedules.cfg:230
+msgid "The Long Dark - First Watch"
+msgstr ""
+
+#. [time]: id=long_dark2
+#: The_Silver_Lands/utils/schedules.cfg:243
+msgid "The Long Dark - Second Watch"
+msgstr ""
+
+#. [time]: id=long_dark3
+#: The_Silver_Lands/utils/schedules.cfg:256
+msgid "The Long Dark - Third Watch"
+msgstr ""
+
+#. [time]: id=long_dark4
+#: The_Silver_Lands/utils/schedules.cfg:269
+msgid "The Long Dark - Fourth Watch"
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:7
+msgid ""
+" This unit will recover 3 HP per turn when on lava, sandy or desert terrain. "
+"The effects of poison will not be prolonged or cured."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:10
+msgid ""
+" This unit will recover 3 HP per turn when on watery terrain. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:13
+msgid ""
+" This unit will recover 3 HP per turn while in a forest. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:16
+msgid ""
+" This unit will repair its body with the rocks found while in/on hills, "
+"caves, or mountains, thus recovering 3 HP in the process. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:19
+msgid ""
+" This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:22
+msgid ""
+" This unit can frighten enemy units that are next to it, making them fight "
+"worse."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:25
+msgid ""
+" This unit will regenerate 5 HP per turn in forest or mushroom grove "
+"terrains."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:28
+msgid ""
+" This unit will recover 3 HP per turn while on snowy or icy terrain. The "
+"effects of poison will not be prolonged or cured."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:31
+msgid " Some of this unit's attacks are not available except on defense."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:34
+msgid " Some of this unit's attacks are not available except on offense."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:37
+msgid ""
+" Due to its lack of weaponry, this unit cannot attack the enemy. When "
+"defending however, it retaliates with heavy strikes with the front of its "
+"shield."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:40
+msgid ""
+" This unit's resistances are doubled to the point of 50% resistance, "
+"weaknesses are not affected."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:43
+msgid ""
+" This unit will recover 4 HP per turn, poison will not be affected. While on "
+"icy and snowy terrain this unit will recover 8 HP instead and if this unit "
+"is poisoned it will be cured. In addition, while on icy or snowy terrain "
+"this unit will conceal itself from enemies, only able to be revealed when an "
+"enemy unit is next to it."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:46
+msgid ""
+" This unit will recover 8 HP per turn when on aquatic terrain. If this unit "
+"is poisoned it will be cured of it instead."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:49
+msgid ""
+" This unit will recover 8 HP per turn when on earthy terrain or vegetated "
+"terrain. If this unit is poisoned it will be cured of it instead."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:52
+msgid ""
+" When this unit is attacking offensively with its dread attack, the opponent "
+"will be struck with fear, thus the damage dealt by their retaliation will be "
+"weakened."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:55
+msgid ""
+" This unit can fly over the terrain and over any impediments such as the "
+"snow, chasms and sand..."
+msgstr ""
+
+#: The_Silver_Lands/utils/special-notes.cfg:58
+msgid ""
+" While defending this unit's counter attacks will always have a 60% chance "
+"to hit."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:11
+msgid ""
+"Some scenarios in this campaign are not as straightforward as most scenarios "
+"are in other campaigns, so please carefully examine the scenario conditions. "
+"Unless it is necessary, I would not recommend mindlessly eradicating every "
+"enemy in sight. In addition, I would recommend playing <i>Under the Burning "
+"the Suns</i> and <i>Invasion from the Unknown</i>, so that you will be able "
+"to fully understand the plot of this campaign. If you have not played those "
+"campaigns or read their storylines, be warned that this campaign may spoil "
+"your fun if you ever play those campaigns in the future."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:21
+msgid ""
+"Also, you should only play Episode II if you have played Episode I at least "
+"once. Otherwise, you may not understand the plot that well."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:37
+msgid ""
+"I am here to tell you the story of what happened after the Chaos Empire "
+"fell. Supposedly, with the end of the Chaos Empire came the end of all the "
+"suffering and despair. However, there are some people who are still loyal to "
+"the great evil; one of these entities is the Iron Council and the forces who "
+"are still loyal to them."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:40
+msgid ""
+"Our story begins, twenty years after the Chaos Empire fell; the location "
+"where it all begins is deep in a wondrous, secluded valley, shrouded in "
+"illusion and mist. This area was the home to an order of mages, the "
+"Elementalrias order."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:43
+msgid ""
+"I am going to read from the best source of the story, from the diary of the "
+"person who experienced it himself, the great Sorum'tar! Now children, listen "
+"very carefully as I read… OR ELSE ALL OF YOU WILL FAIL THE TEST!"
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:48
+msgid ""
+"Hello to whomever is reading my diary, my name is Sorum'tar; I am an orc. "
+"Please do not think I am one of those evil savages oft told in tales of old. "
+"I never knew my parents due to the fact my clan was slaughtered by the Chaos "
+"Empire. The only family I ever had would be the Elementalrias order of "
+"mages; my fatherly figure was Master Tyramos, who was the grand master of "
+"the Elementalrias order… for as long as I can remember."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:51
+msgid ""
+"The Elementalrias order <i>was</i> an order of mages who were dedicated to "
+"elemental magic. The Elementalrias order was not widely known outside of the "
+"Northern Lands, however where it was known, it was mostly known for their "
+"ability to create and control <i>elementals</i>, creatures that are composed "
+"of elemental energy. However, most people simply looked at the order's "
+"existence as a mere myth."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:54
+msgid ""
+"Initially, I was not that skilled with the magic of the Elementalrias. "
+"However, once they discovered that I have pure aura, they gave me more "
+"attention and help. Thanks to that, I was able to vastly improve my skills. "
+"You may wonder why having pure aura is so great. Well, it is beneficial to "
+"those who dabble in elemental magic, since, those who possess pure aura "
+"would not have a weakness in any of the elements."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:57
+msgid ""
+"It was horrible… Everyone died, including Master Tyramos. Nobody was there, "
+"except for a Dark Sorcerer… I silently cried, as my entire family was "
+"murdered. As I cried, I thought to myself, <i>'How could this have happened? "
+"How could they find this area and pierce through the concealing mist and "
+"illusion? How!'</i>"
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:67
+msgid ""
+"After Shiri'ima mysteriously died due to the strange power of the one known "
+"as Zeal, Master Tyramos decided that we were to head to the region known as "
+"Dramalida. All I knew about it was the fact that it is mainly icy and that "
+"it has a structure that is very important to the Elemantalrias, the Ice "
+"Palace. Master Tyramos told me that the Ice Palace housed the one who rules "
+"over all of the snow and ice in existence."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:70
+msgid ""
+"When we left the Valley of Mist and headed to the Northern Forest I "
+"remembered when I was taught about what happened after the catastrophe that "
+"occurred after the third sun, Gaia fell… One of the effects was the fact "
+"that many of the forests were reduced to mere desert. Some of the forests, "
+"including the Northern Forest, were restored by some of the earliest members "
+"of the Elementalrias."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:73
+msgid ""
+"After walking through the forest nonstop for about thirty minutes, the sun "
+"started to set. I noticed that the crepuscular denizens of the forest were "
+"quite erratic. About ten minutes later, the forest got unnaturally dark "
+"quickly; in addition, it was getting very misty… I even had the feeling that "
+"something evil was watching me; the fluttering that I kept hearing from time "
+"to time enforced this thought."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:76
+msgid ""
+"Eventually, we decided to stop and rest for a while. Just before I went to "
+"sleep, I saw a large black bat preparing to cling onto a tree branch with "
+"its claws, so that it would be able to go to sleep. When it finished "
+"clinging to itself to the branch, it gazed at me with its creepy red eyes… I "
+"even had a thought that it would malevolently smile at me if it could…"
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:86
+msgid ""
+"Thankfully, we were able to defeat the loyalists. When we vanquished the "
+"lich, I was initially surprised to find that the spirit bound to it was an "
+"elf. I read the journal she gave to us. According to it, her name was "
+"Ameriälis. She was an Elvish Sylph —a very powerful sage that is capable of "
+"great feats— before she became a lich."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:89
+msgid ""
+"Her journal told us of her many adventures. The last entry was around a few "
+"hundred years ago. The last entry mentioned that she was in the territory of "
+"highly hostile humans ruled by three vile necromancers... she... was being "
+"pursued."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:92
+msgid ""
+"As she mentioned when we freed her from her vile, physical form, she... was "
+"freed. Therefore, I assumed that the humans who were pursuing her... "
+"captured her, and somehow corrupted her mind. Luckily, we freed her from her "
+"accursed prison."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:95
+msgid ""
+"Nonetheless, we've safely made it to Dramalida. Upon entering it, I deeply "
+"gazed into the view, it was beautiful. It is a wonderful, yet icy paradise."
+msgstr ""
+
+#. [part]
+#: The_Silver_Lands/utils/storytxt.cfg:98
+msgid "Hopefully, we will be able to make it to the Ice Palace."
+msgstr ""
+
+#. [trait]: id=ruby
+#: The_Silver_Lands/utils/traits.cfg:7
+msgid "ruby"
+msgstr ""
+
+#. [trait]: id=amethyst
+#: The_Silver_Lands/utils/traits.cfg:23
+msgid "amethyst"
+msgstr ""
+
+#. [trait]: id=diamond
+#: The_Silver_Lands/utils/traits.cfg:35
+msgid "diamond"
+msgstr ""
+
+#. [trait]: id=sapphire
+#: The_Silver_Lands/utils/traits.cfg:50
+msgid "sapphire"
+msgstr ""
+
+#. [trait]: id=emerald
+#: The_Silver_Lands/utils/traits.cfg:61
+msgid "emerald"
+msgstr ""
+
+#. [trait]: id=elemental
+#: The_Silver_Lands/utils/traits.cfg:79
+msgid "elemental"
+msgstr ""
+
+#. [trait]: id=elemental
+#. [trait]: id=biomechanical
+#: The_Silver_Lands/utils/traits.cfg:80 The_Silver_Lands/utils/traits.cfg:156
+msgid "Immune to drain, poison and plague"
+msgstr ""
+
+#. [trait]: id=vampire
+#: The_Silver_Lands/utils/traits.cfg:93
+msgid "vampire"
+msgstr ""
+
+#. [trait]: id=vampire
+#: The_Silver_Lands/utils/traits.cfg:94
+msgid "female^vampiress"
+msgstr ""
+
+#. [trait]: id=vampire
+#: The_Silver_Lands/utils/traits.cfg:95
+msgid "Vampires cannot be victims of drain, plague or poison."
+msgstr ""
+
+#. [trait]: id=obedient
+#: The_Silver_Lands/utils/traits.cfg:106
+msgid "obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: The_Silver_Lands/utils/traits.cfg:107
+msgid "female^obedient"
+msgstr ""
+
+#. [trait]: id=obedient
+#: The_Silver_Lands/utils/traits.cfg:108
+msgid "Zero upkeep"
+msgstr ""
+
+#. [trait]: id=armored
+#: The_Silver_Lands/utils/traits.cfg:127
+msgid "armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: The_Silver_Lands/utils/traits.cfg:128
+msgid "female^armored"
+msgstr ""
+
+#. [trait]: id=armored
+#: The_Silver_Lands/utils/traits.cfg:129
+msgid "+15% bonus for all resistances (except arcane), -1 movement points"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: The_Silver_Lands/utils/traits.cfg:153
+msgid "biomechanical"
+msgstr ""
+
+#. [trait]: id=biomechanical
+#: The_Silver_Lands/utils/traits.cfg:154
+msgid "female^biomechanical"
+msgstr ""
+
+#. [damage]: id=dread
+#: The_Silver_Lands/utils/weapon-specials.cfg:7
+#: The_Silver_Lands/utils/weapon-specials.cfg:8
+msgid "dread"
+msgstr ""
+
+#. [damage]: id=dread
+#: The_Silver_Lands/utils/weapon-specials.cfg:10
+#: The_Silver_Lands/utils/weapon-specials.cfg:12
+msgid ""
+"Dread:\n"
+"When this attack is used offensively, this unit takes one third less damage "
+"in retaliation."
+msgstr ""
+
+#. [chance_to_hit]: id=counter
+#: The_Silver_Lands/utils/weapon-specials.cfg:22
+#: The_Silver_Lands/utils/weapon-specials.cfg:25
+msgid "counter"
+msgstr ""
+
+#. [chance_to_hit]: id=counter
+#: The_Silver_Lands/utils/weapon-specials.cfg:24
+#: The_Silver_Lands/utils/weapon-specials.cfg:27
+msgid ""
+"Counter:\n"
+"When used defensively, this attack always has at least a 60% chance to hit."
+msgstr ""
+
+#. [damage]: id=attack_only
+#: The_Silver_Lands/utils/weapon-specials.cfg:42
+#: The_Silver_Lands/utils/weapon-specials.cfg:43
+msgid "attack only"
+msgstr ""
+
+#. [damage]: id=attack_only
+#: The_Silver_Lands/utils/weapon-specials.cfg:45
+#: The_Silver_Lands/utils/weapon-specials.cfg:47
+msgid ""
+"Attack only:\n"
+"This weapon will never be used on defense."
+msgstr ""
+
+#: The_Silver_Lands/utils/weapon-specials.cfg:61
+#: The_Silver_Lands/utils/weapon-specials.cfg:62
+msgid "defend only"
+msgstr ""
+
+#: The_Silver_Lands/utils/weapon-specials.cfg:64
+#: The_Silver_Lands/utils/weapon-specials.cfg:66
+msgid ""
+"Defend only:\n"
+"This weapon will only be available for defense."
+msgstr ""
