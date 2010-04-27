@@ -13,11 +13,11 @@ msgstr ""
 
 #: The_Silver_Lands/_main.cfg:67
 msgid "The Silver Lands"
-msgstr "Les Terres ArgentÈes"
+msgstr "Les Terres Argent√©es"
 
 #: The_Silver_Lands/_main.cfg:71
 msgid "(Intermediate level, 2 scenarios done.)"
-msgstr "(Niveau intermÈdiaire, 2 scÈnarios)"
+msgstr "(Niveau interm√©diaire, 2 sc√©narios)"
 
 #: The_Silver_Lands/_main.cfg:73
 msgid "Version:"
@@ -25,7 +25,7 @@ msgstr "Version :"
 
 #: The_Silver_Lands/_main.cfg:73
 msgid "(requires Battle for Wesnoth 1.7.6 or later)"
-msgstr "(nÈcessite Battle for Wesnoth 1.7.6 ou supÈrieure)"
+msgstr "(n√©cessite Battle for Wesnoth 1.7.6 ou sup√©rieur"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:79
@@ -35,7 +35,7 @@ msgstr "Episode I :"
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:80
 msgid "Gathering the Grand Power"
-msgstr "L'AssemblÈe du Grand Pouvoir"
+msgstr "L'Assembl√©e du Grand Pouvoir"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:82
@@ -48,13 +48,13 @@ msgid ""
 "Our 'little' story takes us to the region east of the commonly known, to an "
 "elementalist who will accomplish the seemingly impossible."
 msgstr ""
-"MÍme aprËs la chute du puissant Empire du Chaos, certains sont restÈs fidËles "
-"au mal ; ces gens cherchent ardemment ‡ reformer cette monstruositÈ, et "
-"ils sont prÍts ‡ n'importe quoi pour dÈchaÓner ces flÈaux de part "
+"M√™me apr√®s la chute du puissant Empire du Chaos, certains sont rest√©s fid√®les "
+"au mal ; ces gens cherchent ardemment √† reformer cette monstruosit√©, et "
+"ils sont pr√™ts √† n'importe quoi pour d√©cha√Æner ces fl√©aux de part "
 "le monde.\n"
 "\n"
-"Notre 'petite' histoire nous emmËne dans la rÈgion est du monde connu, vers un "
-"ÈlÈmentaliste qui accomplira ce qu'il semblait impossible."
+"Notre 'petite' histoire nous emm√®ne dans la r√©gion est du monde connu, vers un "
+"√©l√©mentaliste qui accomplira ce qu'il semblait impossible."
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:85
@@ -74,17 +74,17 @@ msgstr "(Normal)"
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:88
 msgid "difficulty_menu^Sage"
-msgstr "difficulty_menu^Sage"
+msgstr "Sage"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:88
 msgid "difficulty_menu^Initiate"
-msgstr "difficulty_menu^InitiÈ"
+msgstr "Initi√©"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:88
 msgid "difficulty_menu^Sorcerer"
-msgstr "difficulty_menu^Sorcier"
+msgstr "Sorcier"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:88
@@ -119,7 +119,7 @@ msgstr "Effets sonores"
 #. [about]
 #: The_Silver_Lands/about.cfg:165
 msgid "SVN services and hosting"
-msgstr "HÈbergement et services SVN"
+msgstr "H√©bergement et services SVN"
 
 #. [entry]
 #: The_Silver_Lands/about.cfg:167
@@ -134,27 +134,27 @@ msgstr "IRC Bots"
 #. [about]
 #: The_Silver_Lands/about.cfg:189
 msgid "Additional thanks to"
-msgstr "Remerciements ‡"
+msgstr "Remerciements √†"
 
 #. [entry]
 #: The_Silver_Lands/about.cfg:204
 msgid "All those who gave me valuable feedback"
-msgstr "Tous ceux qui ont fait part de leur rÈactions"
+msgstr "Tous ceux qui ont fait part de leur r√©actions"
 
 #. [entry]
 #: The_Silver_Lands/about.cfg:207
 msgid "All those who reported and/or fixed bugs in this campaign"
-msgstr "Tous ceux qui ont rapportÈ et/ou corrigÈ les bugs de cette campagne"
+msgstr "Tous ceux qui ont rapport√© et/ou corrig√© les bugs de cette campagne"
 
 #. [entry]
 #: The_Silver_Lands/about.cfg:210
 msgid "You, for playing this campaign"
-msgstr "Vous, pour avoir jouÈ cette campagne"
+msgstr "Vous, pour avoir jou√© cette campagne"
 
 #. [entry]
 #: The_Silver_Lands/about.cfg:213
 msgid "Anyone else I could forget to mention"
-msgstr "Ceux que j'ai forcÈment oubliÈ de mentionner"
+msgstr "Ceux que j'ai forc√©ment oubli√© de mentionner"
 
 #: The_Silver_Lands/base-rc.cfg:35
 msgid "Cyan"
@@ -171,12 +171,12 @@ msgstr "Rose"
 #. [editor_group]: id=wesnoth-UMC-The_Silver_Lands
 #: The_Silver_Lands/editor-loader.cfg:26
 msgid "The Silver Lands (custom terrain)"
-msgstr "Les Terres ArgentÈes (terrain personnalisÈ)"
+msgstr "Les Terres Argent√©es (terrain personnalis√©)"
 
 #. [scenario]: id=01_The_Aftermath
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:5
 msgid "The Aftermath"
-msgstr "AprËs le dÈsastre"
+msgstr "Apr√®s le d√©sastre"
 
 #. [side]: type=Orcish Initiate, id=Sorum'tar
 #. [side]
@@ -184,7 +184,7 @@ msgstr "AprËs le dÈsastre"
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:73
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:41
 msgid "team_name^Heroes"
-msgstr "team_name^HÈros"
+msgstr "H√©ros"
 
 #. [side]: type=Orcish Initiate, id=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:37
@@ -200,7 +200,7 @@ msgstr "Shiri'ima"
 #. [side]: type=Young Dark Sorcerer, id=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:56
 msgid "team_name^Loyalists"
-msgstr "team_name^Loyalistes"
+msgstr "Loyalistes"
 
 #. [objective]: condition=win
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:193
@@ -222,62 +222,62 @@ msgstr "Fin des tours"
 #. [objectives]
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:206
 msgid "60% of finishing gold carried over to the next scenario."
-msgstr "60% de l'or accumulÈ sera conservÈ pour le prochain scÈnario."
+msgstr "60% de l'or accumul√© sera conserv√© pour le prochain sc√©nario."
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:215
 msgid ""
-"You, dark sorcerer, shall tell me what happened and why you are hereÖ or I "
-"shall be forced to swiftly smite youÖ"
+"You, dark sorcerer, shall tell me what happened and why you are here‚Ä¶ or I "
+"shall be forced to swiftly smite you‚Ä¶"
 msgstr ""
-"Dis-moi, sorcier, ce qui est arrivÈ et pourquoi tu es iciÖ ou je "
-"me verrai dans l'obligation de t'Ùter la vie."
+"Dis-moi, sorcier, ce qui est arriv√© et pourquoi tu es ici‚Ä¶ ou je "
+"me verrai dans l'obligation de t'√¥ter la vie."
 
 #. [message]: speaker=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:220
 msgid ""
-"Heh heh heh, you fool! It is I who'll be doing the smiting around hereÖ just "
+"Heh heh heh, you fool! It is I who'll be doing the smiting around here‚Ä¶ just "
 "like my overlords smote your friends and destroyed this place! Heh heh heh, "
-"you'll see your 'kinÖ' when they are killing you! Heh heh heh!"
+"you'll see your 'kin‚Ä¶' when they are killing you! Heh heh heh!"
 msgstr ""
-"HÈ HÈ HÈ, imbÈcile ! C'est moi qui anÈantirai ton mondeÖ tout "
-"comme mes maÓtres ont anÈanti tes amis et dÈtruis cet endroit ! HÈ HÈ HÈ, "
-"tu reverras les 'tiens' quand ils te tueront ! HÈ HÈ HÈ !" 
+"H√© H√© H√©, imb√©cile ! C'est moi qui an√©antirai ton monde‚Ä¶ tout "
+"comme mes ma√Ætres ont an√©anti tes amis et d√©truis cet endroit ! H√© H√© H√©, "
+"tu reverras les 'tiens' quand ils te tueront ! H√© H√© H√© !"
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:225
-msgid "Not if I can help itÖ you bastard!"
-msgstr "Pas si je t'en empÍcheÖ raclure!"
+msgid "Not if I can help it‚Ä¶ you bastard!"
+msgstr "Pas si je t'en emp√™che‚Ä¶ raclure!"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:248
 msgid ""
-"Heh hehÖ although you defeated me, you will die at the hands of my "
+"Heh heh‚Ä¶ although you defeated me, you will die at the hands of my "
 "overlords! Heh heh heh!"
 msgstr ""
-"HÈ HÈ ! Tu peux me vaincre aujourd'hui, mais demain tu mourras des mains de mes"
-"maÓtres ! HÈ HÈ HÈ !"
+"H√© H√© ! Tu peux me vaincre aujourd'hui, mais demain tu mourras des mains de mes"
+"ma√Ætres ! H√© H√© H√© !"
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:253
 msgid ""
-"Before you die, you shall answer one questionÖ Who orchestrated all of this?"
+"Before you die, you shall answer one question‚Ä¶ Who orchestrated all of this?"
 msgstr ""
-"Avant de mourir, rÈvÍle-moi une choseÖ Qui a orchestrÈ tout Áa ?"
+"Avant de mourir, r√©v√™le-moi une chose‚Ä¶ Qui a orchestr√© tout √ßa ?"
 
 #. [message]: speaker=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:258
 msgid ""
-"Heh heh hehÖ Fine, I guess I'll tell you; it's not like such knowledge would "
-"help you anwayÖ"
+"Heh heh heh‚Ä¶ Fine, I guess I'll tell you; it's not like such knowledge would "
+"help you anway‚Ä¶"
 msgstr ""
-"HÈ HÈ HÈÖ D'accord, je pense pouvoir te dire cela ; ce n'est pas comme si ce renseignement pouvais "
-"t'aider de toute faÁonÖ"
+"H√© H√© H√©‚Ä¶ D'accord, je pense pouvoir te dire cela ; ce n'est pas comme si ce renseignement pouvais "
+"t'aider de toute fa√ßon‚Ä¶"
 
 #. [message]: speaker=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:263
-msgid "It wasó *ARRRRGGH* NO, LORDÖ ZealÖ ughÖ"
-msgstr "Il s'agitó *ARRRRGGH* NON, SEIGNEURÖ ZealÖ ughÖ"
+msgid "It was‚Äî *ARRRRGGH* NO, LORD‚Ä¶ Zeal‚Ä¶ ugh‚Ä¶"
+msgstr "Il s'agit‚Ä¶ *ARRRRGGH* NON, SEIGNEUR‚Ä¶ Zeal‚Ä¶ ugh‚Ä¶"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:268
@@ -288,10 +288,10 @@ msgstr "Narrateur"
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:270
 msgid ""
 "'And so Shiri'ima died due to the power of the one known as Zeal.' Why? That "
-"shall be discovered soonÖ"
+"shall be discovered soon‚Ä¶"
 msgstr ""
-"'Et ainsi Shiri'ima pÈrit par le pouvoir de celui connu sous le nom de Zeal.' Pourquoi ? C'est "
-"ce qui sera bientÙt dÈcouvertÖ"
+"'Et ainsi Shiri'ima p√©rit par le pouvoir de celui connu sous le nom de Zeal.' Pourquoi ? C'est "
+"ce qui sera bient√¥t d√©couvert‚Ä¶"
 
 #. [message]: speaker=Sorum'tar
 #. [message]: speaker=unit
@@ -301,8 +301,8 @@ msgstr ""
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1692
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2191
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2280
-msgid "Ö"
-msgstr "Ö"
+msgid "‚Ä¶"
+msgstr "‚Ä¶"
 
 #. [unit]: type=Lich, id=Mal Urtumikro
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:294
@@ -312,16 +312,16 @@ msgstr "Mal Urtumikro"
 #. [message]: speaker=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:300
 msgid ""
-"Heh heh hehÖ Help has arrived, prepare to be smitten, you failures! Heh heh "
-"hehÖ"
+"Heh heh heh‚Ä¶ Help has arrived, prepare to be smitten, you failures! Heh heh "
+"heh‚Ä¶"
 msgstr ""
-"HÈ HÈ HÈÖ L'aide est arrivÈe, prÈparez-vous ‡ Ítre anÈantis, dÈchets ! HÈ HÈ "
-"HÈÖ"
+"H√© H√© H√©‚Ä¶ L'aide est arriv√©e, pr√©parez-vous √† √™tre an√©antis, d√©chets ! H√© H√© "
+"H√©‚Ä¶"
 
 #. [message]: speaker=Mal Urtumikro
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:305
-msgid "Prepare to dieÖ forever, you pathetic losers! Muahahahahahahah!"
-msgstr "PrÈparez-vous ‡ mourir sans espoir de non-vie, larves pathÈtiques ! Mouahahahahahahah !""
+msgid "Prepare to die‚Ä¶ forever, you pathetic losers! Muahahahahahahah!"
+msgstr "Pr√©parez-vous √† mourir sans espoir de non-vie, larves path√©tiques ! Mouahahahahahahah !"
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:310
@@ -336,23 +336,23 @@ msgstr "Zeal ?"
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:331
 msgid ""
-"HmmmmmÖ that name sounds a bit familiar. Nonetheless, we must leave this "
-"placeÖ We must embark on a quest in order to deal with those vile fanatics, "
+"Hmmmmm‚Ä¶ that name sounds a bit familiar. Nonetheless, we must leave this "
+"place‚Ä¶ We must embark on a quest in order to deal with those vile fanatics, "
 "otherwise, something terrible will happen."
 msgstr ""
-"HmmmmmÖ ce nom m'est familier. Quoi qu'il en soit, nous devons quitter cet "
-"endroitÖ Il nous faut partir en quÍte afin de nous occuper de ces vils fanatiques, "
+"Hmmmmm‚Ä¶ ce nom m'est familier. Quoi qu'il en soit, nous devons quitter cet "
+"endroit‚Ä¶ Il nous faut partir en qu√™te afin de nous occuper de ces vils fanatiques, "
 "autrement quelque chose de terrible va se produire."
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:336
-msgid "Well what wouldó"
-msgstr "Bien, que pourrionsó"
+msgid "Well what would‚Äî"
+msgstr "Bien, que pourrions‚Ä¶"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:341
 msgid "There is no time to talk about that! We must leave now!"
-msgstr "Pas le temps d'en discuter ! Nous partons immÈdiatement !"
+msgstr "Pas le temps d'en discuter ! Nous partons imm√©diatement !"
 
 #. [unit]: type=Ghost, id=Tyramos
 #. [unit]: id=Tyramos, type=$tyramos_probe.type
@@ -364,13 +364,13 @@ msgstr "Tyramos"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:428
-msgid "Sorum'tarÖ I have returnedÖ"
-msgstr "Sorum'tarÖ Je suis de retourÖ"
+msgid "Sorum'tar‚Ä¶ I have returned‚Ä¶"
+msgstr "Sorum'tar‚Ä¶ Je suis de retour‚Ä¶"
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:433
 msgid "Master Tyramos, is that you?"
-msgstr "MaÓtre Tyramos, est-ce vous ?"
+msgstr "Ma√Ætre Tyramos, est-ce vous ?"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:438
@@ -379,8 +379,8 @@ msgstr "Oui, c'est bien moi."
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:443
-msgid "Master, what happened; why are youó"
-msgstr "MaÓtre, qu'est-il arrivÈ; pourquoi Ítes-vousó"
+msgid "Master, what happened; why are you‚Äî"
+msgstr "Ma√Ætre, qu'est-il arriv√©; pourquoi √™tes-vous‚Ä¶"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:448
@@ -389,96 +389,96 @@ msgid ""
 "order to prevent a catastrophe from occurring! I shall explain all of this, "
 "after we get rid of that dark sorcerer."
 msgstr ""
-"Ce n'est pas le moment d'en discuter ! Je reviens de l'au-del‡ dans "
-"le but d'empÍcher une catastrophe de se produire ! Viendra le temps des explications,"
-"une fois que nous nous serons dÈbarrassÈs de ce sorcier malÈfique."
+"Ce n'est pas le moment d'en discuter ! Je reviens de l'au-del√† dans "
+"le but d'emp√™cher une catastrophe de se produire ! Viendra le temps des explications,"
+"une fois que nous nous serons d√©barrass√©s de ce sorcier mal√©fique."
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:515
 msgid "Now, enough talking, it is time for you to die, foul necromancer!"
-msgstr "Maintenant, assez parlÈ, il est temps pour toi de mourir, nÈcromancien !"
+msgstr "Maintenant, assez parl√©, il est temps pour toi de mourir, n√©cromancien !"
 
 #. [message]: speaker=Shiri'ima
 #: The_Silver_Lands/scenarios/01_The_Aftermath.cfg:520
-msgid "Heh heh hehÖ Yeah, whateverÖ"
-msgstr "HÈ HÈ HÈÖ Bien, peu importeÖ"
+msgid "Heh heh heh‚Ä¶ Yeah, whatever‚Ä¶"
+msgstr "H√© H√© H√©‚Ä¶ Bien, peu importe‚Ä¶"
 
 #. [scenario]: id=02_The_Northern_Forest
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:5
 msgid "The Northern Forest"
-msgstr "La ForÍt du Nord"
+msgstr "La For√™t du Nord"
 
 #. [unit_type]: id=Tears of the Forest, race=elemental
 #. [unit]: id=TotF, type=Tears of the Forest
 #: The_Silver_Lands/units/elementals/Tears_of_the_Forest.cfg:8
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:429
 msgid "Tears of the Forest"
-msgstr "Larmes de la ForÍt"
+msgstr "Larmes de la For√™t"
 
 #. [scenario]: id=02_The_Northern_Forest
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:555
 msgid ""
-"North: SÈrqitum\n"
+"North: S√©rqitum\n"
 "Northeast: The Tomb of Tyurnio\n"
 "East: The Swamp of Eternal Misery (Keep Out)\n"
 "West: Blessed Spring; Creek of Joy"
 msgstr ""
-"Nord : SÈrqitum\n"
+"Nord : S√©rqitum\n"
 "Nord-Est : La Tombe de Tyurnio\n"
 "Est : Le Marais de l'Eternelle Souffrance (Interdit d'entrer)\n"
-"Ouest : Source BÈnie; Crique de la Joie"
+"Ouest : Source B√©nie; Crique de la Joie"
 
 #. [scenario]: id=02_The_Northern_Forest
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:562
 msgid ""
 "WARNING! Do not enter the swamp, or you shall be devoured by its horrific "
-"denizensÖ\n"
+"denizens‚Ä¶\n"
 "\n"
 "You have been warned.\n"
 "\n"
 "Many people with the desire to end their lives have entered this swamp. "
 "Stop; do not enter; do not lose hope; life is worth living."
 msgstr ""
-"AVERTISSEMENT ! N'entrez pas dans le marais, or vous pourriez finir dÈvorÈ by ses atroces "
-"habitantsÖ\n"
+"AVERTISSEMENT ! N'entrez pas dans le marais, or vous pourriez finir d√©vor√© by ses atroces "
+"habitants‚Ä¶\n"
 "\n"
-"Vous Ítes prÈvenus.\n"
+"Vous √™tes pr√©venus.\n"
 "\n"
-"Beaucoup de gens souhaitant en finir avec leur vie ont pÈnÈtrÈ ce marais. "
-"Stop; n'entrez pas; ne perdez pas espoir; la vie vaut la peine d'Ítre vÈcue."
+"Beaucoup de gens souhaitant en finir avec leur vie ont p√©n√©tr√© ce marais. "
+"Stop; n'entrez pas; ne perdez pas espoir; la vie vaut la peine d'√™tre v√©cue."
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:571
 msgid ""
 "Huh? Shouldn't Naia be greeting us by now? Also, what's up with this fog? "
-"This darkness and this fog is highly unnaturalÖ"
+"This darkness and this fog is highly unnatural‚Ä¶"
 msgstr ""
-"Hein ? Naia ne devrait-elle pas dÈj‡ Ítre en train de nous saluer ? Et c'est quoi ce brouillard ? "
-"Ces tÈnËbres et ce brouillard n'ont absolument rien de naturelÖ"
+"Hein ? Naia ne devrait-elle pas d√©j√† √™tre en train de nous saluer ? Et c'est quoi ce brouillard ? "
+"Ces t√©n√®bres et ce brouillard n'ont absolument rien de naturel‚Ä¶"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:576
 msgid "It would seem that this place has been cursed by a highly potent force."
-msgstr "Il semblerait que cet endroit a ÈtÈ maudit par une force extrÍmement puissante."
+msgstr "Il semblerait que cet endroit a √©t√© maudit par une force extr√™mement puissante."
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:581
 msgid ""
-"Regardless, we need to reach SÈrqitum. However, we are not in a hurry, so, "
-"we have time to explore the forestÖ"
+"Regardless, we need to reach S√©rqitum. However, we are not in a hurry, so, "
+"we have time to explore the forest‚Ä¶"
 msgstr ""
-"Quoi qu'il en soit, nous devons atteindre SÈrqitum. Cependant, rien ne presse, donc, "
-"nous avons le temps d'explorer plus avant la forÍtÖ"
+"Quoi qu'il en soit, nous devons atteindre S√©rqitum. Cependant, rien ne presse, donc, "
+"nous avons le temps d'explorer plus avant la for√™t‚Ä¶"
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:586
 msgid "All right then."
-msgstr "Alors c'est dÈcidÈ."
+msgstr "Alors c'est d√©cid√©."
 
 #. [objective]: condition=win
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:593
 msgid "Explore the forest"
-msgstr "Explorez la forÍt"
+msgstr "Explorez la for√™t"
 
 #. [objective]: condition=lose
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:601
@@ -489,59 +489,59 @@ msgstr "Mort de Tyramos"
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:620
 msgid "Wow, this water feels magnificent! It even feels like it is healing me!"
-msgstr "Wow, cette eau est tout ‡ fait exquise ! J'ai mÍme la sensation qu'elle me guÈrit !"
+msgstr "Wow, cette eau est tout √† fait exquise ! J'ai m√™me la sensation qu'elle me gu√©rit !"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:626
 msgid ""
-"This a very rare and special type of spring. Its blessËd waters will heal "
+"This a very rare and special type of spring. Its bless√®d waters will heal "
 "your units by eight hitpoints per turn and cure poisoning."
 msgstr ""
-"Ce type de source est rarissime et trËs spÈcial. Ses eaux bÈnies soigneront "
-"vos unitÈs de huit points de vie par tour et guÈriront du poison."
+"Ce type de source est rarissime et tr√®s sp√©cial. Ses eaux b√©nies soigneront "
+"vos unit√©s de huit points de vie par tour et gu√©riront du poison."
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:644
 msgid ""
-"HmmmÖ a skeletonÖ Oh, there's a bottle with a piece of paper inside right "
+"Hmmm‚Ä¶ a skeleton‚Ä¶ Oh, there's a bottle with a piece of paper inside right "
 "next to it! *pop*"
 msgstr ""
-"HmmmÖ un squeletteÖ Tiens, il y a une bouteille avec un morceau de papier ‡ l'intÈrieur, juste "
-"‡ cÙtÈ de lui ! *pop*"
+"Hmmm‚Ä¶ un squelette‚Ä¶ Tiens, il y a une bouteille avec un morceau de papier √† l'int√©rieur, juste "
+"√† c√¥t√© de lui ! *pop*"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:650
-msgid "Journal Entry ó Date: ?"
-msgstr "Journal de Bord ó Date : ?"
+msgid "Journal Entry ‚Äî Date: ?"
+msgstr "Journal de Bord ‚Äî Date : ?"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:653
 msgid ""
-"Har har harÖ although I am beat up pretty badly, I have escaped from the "
+"Har har har‚Ä¶ although I am beat up pretty badly, I have escaped from the "
 "wretched king's soldiers. They'll never find me precious treasure, as I have "
 "buried it nearby, at the points of seven, thirty-seven. As long as that "
 "greedy bastard, the King of Wesnoth never finds it, I'll be able to rest in "
-"peace in this forest forevermoreÖ\n"
+"peace in this forest forevermore‚Ä¶\n"
 "\n"
-"ó Captian Nuram"
+"‚Äî Captian Nuram"
 msgstr ""
-"Hin hin hinÖ malgrÈ mes blessures, je suis parvenu ‡ Èchapper aux "
-"soldats de ce roi misÈrable. Jamais ils ne trouveront mon prÈcieux trÈsor, vu que je l'ai "
-"enterrÈ dans les environs, aux cardinaux sept, trente-sept. Aussi longtemps que ce "
-"cupide b‚tard, le Roi de Wesnoth ne le trouve pas, je pourrai reposer en "
-"paix dans cette forÍt ‡ tout jamaisÖ\n"
+"Hin hin hin‚Ä¶ malgr√© mes blessures, je suis parvenu √† √©chapper aux "
+"soldats de ce roi mis√©rable. Jamais ils ne trouveront mon pr√©cieux tr√©sor, vu que je l'ai "
+"enterr√© dans les environs, aux cardinaux sept, trente-sept. Aussi longtemps que ce "
+"cupide b√¢tard, le Roi de Wesnoth ne le trouve pas, je pourrai reposer en "
+"paix dans cette for√™t √† tout jamais‚Ä¶\n"
 "\n"
-"ó Capitaine Nuram"
+"‚Äï Capitaine Nuram"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:658
 msgid "Oooh, treasure! Maybe it hasn't been discovered yet!"
-msgstr "Oooh, un trÈsor ! Peut-Ítre qu'il n'a pas encore ÈtÈ dÈcouvert !"
+msgstr "Oooh, un tr√©sor ! Peut-√™tre qu'il n'a pas encore √©t√© d√©couvert !"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:671
-msgid "I think the treasure's hereÖ OK, let's dig!"
-msgstr "Je crois que le trÈsor est iciÖ OK, creusons !"
+msgid "I think the treasure's here‚Ä¶ OK, let's dig!"
+msgstr "Je crois que le tr√©sor est ici‚Ä¶ OK, creusons !"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:687
@@ -551,7 +551,7 @@ msgstr "Ah, un coffre ! Ouvrons-le !"
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:712
 msgid "You retrieve 300 pieces of gold."
-msgstr "Vous avez trouvÈ 300 piËves d'or."
+msgstr "Vous avez trouv√© 300 pi√®ves d'or."
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:722
@@ -560,19 +560,19 @@ msgid ""
 "Captain Nuram, but it shall be put to good use. May you continue to rest in "
 "peace."
 msgstr ""
-"Wow ! Trois cents piËces d'or ! DÈsolÈ de vous emprunter votre prÈcieux trÈsor "
-"Capitaine, mais nous en ferons bon usage. Puissiez-vous continuer ‡ reposer en "
+"Wow ! Trois cents pi√®ces d'or ! D√©sol√© de vous emprunter votre pr√©cieux tr√©sor "
+"Capitaine, mais nous en ferons bon usage. Puissiez-vous continuer √† reposer en "
 "paix."
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:755
 msgid "Kahtchhhhhhh!"
-msgstr "Kahtchhhhhhh!"
+msgstr "Kahtchhhhhhh !"
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:769
 msgid "WHAT THE HELL IS THAT THING!"
-msgstr "QU'EST-CE QUE C'EST QUE CE TRUC !""
+msgstr "QU'EST-CE QUE C'EST QUE CE TRUC !"
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:774
@@ -580,8 +580,8 @@ msgid ""
 "Those horrific creatures are known as Shaxthals. We should leave the swamp "
 "due to their dreadful power."
 msgstr ""
-"Ces horribles crÈatures sont connues sous le nom de Shaxthals. Nous devrions quitter le marais "
-"‡ cause de leurs terribles pouvoirs."
+"Ces horribles cr√©atures sont connues sous le nom de Shaxthals. Nous devrions quitter le marais "
+"√† cause de leurs terribles pouvoirs."
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:781
@@ -595,7 +595,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:808
-msgid "TchhhhhhhhhhhhÖ ChrrrrrrÖ *gurgle*"
+msgid "Tchhhhhhhhhhhh‚Ä¶ Chrrrrrr‚Ä¶ *gurgle*"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -605,7 +605,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:818
-msgid "Ugh, disgustingÖ Eh? What's that shiny stuff?"
+msgid "Ugh, disgusting‚Ä¶ Eh? What's that shiny stuff?"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -615,7 +615,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:838
-msgid "Wow, two hundred pieces of gold! AndÖ a key?"
+msgid "Wow, two hundred pieces of gold! And‚Ä¶ a key?"
 msgstr ""
 
 #. [message]: speaker=second_unit
@@ -634,7 +634,7 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:904
-msgid "Ah, it would appear that the forest is sadÖ"
+msgid "Ah, it would appear that the forest is sad‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Sorum'tar
@@ -654,19 +654,19 @@ msgstr ""
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:919
-msgid "Uh huhÖ I seeÖ"
+msgid "Uh huh‚Ä¶ I see‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:924
-msgid "I see that your lack of interest in these things still lingersÖ "
+msgid "I see that your lack of interest in these things still lingers‚Ä¶ "
 msgstr ""
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:934
 msgid ""
-"HmmmÖ It went down that roadÖ I think that it wants us to follow it; I could "
-"hear it muttering 'to the tombÖ to the tombÖ'"
+"Hmmm‚Ä¶ It went down that road‚Ä¶ I think that it wants us to follow it; I could "
+"hear it muttering 'to the tomb‚Ä¶ to the tomb‚Ä¶'"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -679,13 +679,13 @@ msgstr ""
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1006
 msgid ""
-"That glowing yellow circle is beckoning usÖ Something must be waiting for us "
-"inside of the tombÖ"
+"That glowing yellow circle is beckoning us‚Ä¶ Something must be waiting for us "
+"inside of the tomb‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1058
-msgid "Nothing happenedÖ Why don't you try opening it, Sorum'tar?"
+msgid "Nothing happened‚Ä¶ Why don't you try opening it, Sorum'tar?"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -706,7 +706,7 @@ msgstr ""
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1164
 msgid ""
-"ThoseÖ things were used in the attack against usÖ Their appearence and "
+"Those‚Ä¶ things were used in the attack against us‚Ä¶ Their appearence and "
 "function are similar to that of the thundersticks used by the Dwarves, but "
 "these are far deadlier."
 msgstr ""
@@ -724,25 +724,25 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1228
 msgid ""
-"I am terribly sorry Master Liminos, Lord Shirit, orc, ghostly oneÖ I have "
-"failedÖ GoodÖ luckÖ"
+"I am terribly sorry Master Liminos, Lord Shirit, orc, ghostly one‚Ä¶ I have "
+"failed‚Ä¶ Good‚Ä¶ luck‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1235
 msgid ""
-"I am terribly sorry Lord Shirit, orc, ghostly oneÖ I have failedÖ If any of "
+"I am terribly sorry Lord Shirit, orc, ghostly one‚Ä¶ I have failed‚Ä¶ If any of "
 "you ever find Master Liminos, tell him that I am grateful for all that he "
-"has doneÖ GoodÖ luckÖ"
+"has done‚Ä¶ Good‚Ä¶ luck‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1262
 msgid ""
-"UghÖ IÖ amÖ terribly sorryÖ miladyÖ Please smiteÖ themÖ for the three of usÖ"
+"Ugh‚Ä¶ I‚Ä¶ am‚Ä¶ terribly sorry‚Ä¶ milady‚Ä¶ Please smite‚Ä¶ them‚Ä¶ for the three of us‚Ä¶"
 msgstr ""
 
-#. [message]: speaker=Mal Ameri‰lis
+#. [message]: speaker=Mal Ameri√§lis
 #. [message]: speaker=Moranku-Shirit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1267
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1285
@@ -754,8 +754,8 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1280
 msgid ""
-"Milady, I'm sorryÖ Please make sure that the operation suceedsÖ for the "
-"three of usÖ"
+"Milady, I'm sorry‚Ä¶ Please make sure that the operation suceeds‚Ä¶ for the "
+"three of us‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -763,7 +763,7 @@ msgstr ""
 msgid "You hear the constant clanking of armor and see smoke in the distance."
 msgstr ""
 
-#. [message]: speaker=Mal Ameri‰lis
+#. [message]: speaker=Mal Ameri√§lis
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1300
 msgid ""
 "Muahahahahahah! Reinforcements are very close! All of you might as well give "
@@ -795,17 +795,17 @@ msgstr "Qunet"
 msgid "Miqush"
 msgstr "Miqush"
 
-#. [unit]: id=Mal Ameri‰lis, type=Lich
+#. [unit]: id=Mal Ameri√§lis, type=Lich
 #. [unit]: id=MAAP, type=Lich Astral Projection
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1387
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1740
-msgid "Mal Ameri‰lis"
-msgstr "Mal Ameri‰lis"
+msgid "Mal Ameri√§lis"
+msgstr "Mal Ameri√§lis"
 
-#. [unit]: id=GruntÌs-Sorum, type=Wose Shaman
+#. [unit]: id=Grunt√≠s-Sorum, type=Wose Shaman
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1409
-msgid "GruntÌs-Sorum"
-msgstr "GruntÌs-Sorum"
+msgid "Grunt√≠s-Sorum"
+msgstr "Grunt√≠s-Sorum"
 
 #. [unit]: id=Quintus, type=Chaos Cavalier
 #. [unit]: id=Quintus, type=Soulless
@@ -842,38 +842,38 @@ msgstr "Dotakudo"
 #. [unit]: id=Dotakudi, type=Rock Golem
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1497
 msgid "Dotakudi"
-msgstr "Dotakudi"
+msgstr "Dotakuki"
 
-#. [unit]: id=Suito, type=Undine
+#. [unit]: id=Suit≈ç, type=Undine
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1510
-msgid "Suito"
-msgstr "Suito"
+msgid "Suit≈ç"
+msgstr "Suit≈ç"
 
 #. [unit]: id=Suitsu, type=Undine
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1522
 msgid "Suitsu"
 msgstr "Suitsu"
 
-#. [unit]: id=Suijo, type=Undine
+#. [unit]: id=Suij≈ç, type=Undine
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1534
-msgid "Suijo"
-msgstr "Suijo"
+msgid "Suij≈ç"
+msgstr "Suij≈ç"
 
 #. [unit]: id=Suina, type=Undine
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1546
 msgid "Suina"
 msgstr "Suina"
 
-#. [message]: speaker=GruntÌs-Sorum
+#. [message]: speaker=Grunt√≠s-Sorum
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1590
 msgid ""
-"Welcome to SÈrqitum. Master Liminos and Lord Shirit have been expecting you."
+"Welcome to S√©rqitum. Master Liminos and Lord Shirit have been expecting you."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1597
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1599
@@ -882,14 +882,14 @@ msgid ""
 "demonic organization!"
 msgstr ""
 
-#. [message]: speaker=GruntÌs-Sorum
+#. [message]: speaker=Grunt√≠s-Sorum
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1604
-msgid "UghÖ not againÖ"
+msgid "Ugh‚Ä¶ not again‚Ä¶"
 msgstr ""
 
-#. [message]: speaker=GruntÌs-Sorum
+#. [message]: speaker=Grunt√≠s-Sorum
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1609
-msgid "Please follow meÖ"
+msgid "Please follow me‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Tyramos
@@ -906,7 +906,7 @@ msgstr ""
 
 #. [message]: speaker=Shinseidesuki-Liminos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1649
-msgid "Leave nowÖ or thou shalt be fried! Thou sawest my grand capabilities!"
+msgid "Leave now‚Ä¶ or thou shalt be fried! Thou sawest my grand capabilities!"
 msgstr ""
 
 #. [message]: speaker=Quintus
@@ -919,9 +919,9 @@ msgstr ""
 msgid "HA!"
 msgstr ""
 
-#. [message]: speaker=GruntÌs-Sorum
+#. [message]: speaker=Grunt√≠s-Sorum
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1673
-msgid "Uh, Master Liminos; Lord Shirit, our guests have arrivedÖ"
+msgid "Uh, Master Liminos; Lord Shirit, our guests have arrived‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Shinseidesuki-Liminos
@@ -931,7 +931,7 @@ msgstr ""
 
 #. [message]: speaker=Shinseidesuki-Liminos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1687
-msgid "Oh, hello there, Tyramos; Sorum'tarÖ"
+msgid "Oh, hello there, Tyramos; Sorum'tar‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Tyramos
@@ -942,7 +942,7 @@ msgstr ""
 #. [message]: speaker=Shinseidesuki-Liminos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1702
 msgid ""
-"That was one of the Loyalists' messengersÖ They have this crazy idea that "
+"That was one of the Loyalists' messengers‚Ä¶ They have this crazy idea that "
 "anyone would join their pathetic shell of a former empire. They even think "
 "that burning portions of the forest will make us join or surrender."
 msgstr ""
@@ -951,7 +951,7 @@ msgstr ""
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1707
 msgid ""
 "Little do they know, the very forest itself would rather perish than to "
-"tolerate the mere presence of those vulgar fanató"
+"tolerate the mere presence of those vulgar fanat‚Äî"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -974,7 +974,7 @@ msgstr ""
 #. [message]: speaker=MAAP
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1754
 msgid ""
-"Ö Enough with this! All of you are either going to surrender or we shall "
+"‚Ä¶ Enough with this! All of you are either going to surrender or we shall "
 "smite all of you!"
 msgstr ""
 
@@ -987,32 +987,32 @@ msgstr ""
 
 #. [message]: speaker=MAAP
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1764
-msgid "Very wellÖ You have just entered a war that you can never win!"
+msgid "Very well‚Ä¶ You have just entered a war that you can never win!"
 msgstr ""
 
 #. [message]: speaker=Moranku-Shirit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1783
-msgid "Well, we ought to prepare for a long battleÖ"
+msgid "Well, we ought to prepare for a long battle‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Shinseidesuki-Liminos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1788
-msgid "I shall go up the road and disrupt the advancement of their forcesÖ"
+msgid "I shall go up the road and disrupt the advancement of their forces‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Moranku-Shirit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1799
-msgid "There is a keep in the northwestern section of the cityÖ Good luckÖ"
+msgid "There is a keep in the northwestern section of the city‚Ä¶ Good luck‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1809
-msgid "All right then, good luckÖ"
+msgid "All right then, good luck‚Ä¶"
 msgstr ""
 
 #. [objective]: condition=win
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1874
-msgid "Defeat Mal Ameri‰lis"
+msgid "Defeat Mal Ameri√§lis"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -1022,19 +1022,19 @@ msgstr ""
 
 #. [message]: speaker=Quintus
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1921
-msgid "Damn itÖ if only I had another chanceÖ"
+msgid "Damn it‚Ä¶ if only I had another chance‚Ä¶"
 msgstr ""
 
-#. [message]: speaker=Mal Ameri‰lis
+#. [message]: speaker=Mal Ameri√§lis
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1926
-msgid "*smiles creepily* HehÖ"
+msgid "*smiles creepily* Heh‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Shinseidesuki-Liminos
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:1983
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2354
-msgid "UghÖ"
+msgid "Ugh‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Sorum'tar
@@ -1044,12 +1044,12 @@ msgstr ""
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2002
-msgid "Do not worry about him; he merely teleported to a safe locationÖ"
+msgid "Do not worry about him; he merely teleported to a safe location‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2007
-msgid "I seeÖ"
+msgid "I see‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #. [message]: speaker=Tyramos
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2196
-msgid "And so they have openedÖ"
+msgid "And so they have opened‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1100,10 +1100,10 @@ msgstr ""
 #. [message]: speaker=Tyurnio
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2285
 msgid ""
-"I, Tyrunio, one of the past rulers of SÈrqitum, and by extension, one of the "
+"I, Tyrunio, one of the past rulers of S√©rqitum, and by extension, one of the "
 "past rulers of this forest should not have to deal with this ever again! "
 "Vile orc, your ancestors have disturbed and slaughtered my people for "
-"centuriesÖ I shall not accept your presence in my tomb."
+"centuries‚Ä¶ I shall not accept your presence in my tomb."
 msgstr ""
 
 #. [message]: speaker=Tyurnio
@@ -1111,9 +1111,9 @@ msgstr ""
 msgid "Due to the sins that you bear, you shall perish! GUARDS!"
 msgstr ""
 
-#. [unit]: id=GalÈs, type={DIFF (Elvish Warrior Spirit) (Elvish Warrior Spirit) (Elvish Ancestor)}
+#. [unit]: id=Gal√©s, type={DIFF (Elvish Warrior Spirit) (Elvish Warrior Spirit) (Elvish Ancestor)}
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2300
-msgid "GalÈs"
+msgid "Gal√©s"
 msgstr ""
 
 #. [unit]: id=Landor, type={DIFF (Elvish Warrior Spirit) (Elvish Warrior Spirit) (Elvish Ancestor)}
@@ -1121,16 +1121,16 @@ msgstr ""
 msgid "Landor"
 msgstr ""
 
-#. [unit]: id=GÛrenas, type=Elvish Warrior Spirit
+#. [unit]: id=G√≥renas, type=Elvish Warrior Spirit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2341
-msgid "GÛrenas"
+msgid "G√≥renas"
 msgstr ""
 
 #. [message]: speaker=Tyurnio
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2387
 msgid ""
-"UghÖ You are indeed a worthy opponentÖ In addition, you don't seem like the "
-"other orcsÖ Please take this as a token of my apologiesÖ"
+"Ugh‚Ä¶ You are indeed a worthy opponent‚Ä¶ In addition, you don't seem like the "
+"other orcs‚Ä¶ Please take this as a token of my apologies‚Ä¶"
 msgstr ""
 
 #. [event]
@@ -1162,7 +1162,7 @@ msgstr ""
 
 #. [message]: speaker=Sorum'tar
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2430
-msgid "Uh, thanksÖ"
+msgid "Uh, thanks‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=Tyurnio
@@ -1190,37 +1190,37 @@ msgstr ""
 msgid "Aghhhhhhhhhhhhhhhheeeeeeeeeeeeaaaaaaaa!"
 msgstr ""
 
-#. [unit]: id=Ameri‰lis, type=Elvish Sylph Spirit
+#. [unit]: id=Ameri√§lis, type=Elvish Sylph Spirit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2534
-msgid "Ameri‰lis"
+msgid "Ameri√§lis"
 msgstr ""
 
-#. [message]: speaker=Ameri‰lis
+#. [message]: speaker=Ameri√§lis
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2548
-msgid "Ö Ö Ö Thank youÖ for freeing meÖ from that spellÖ"
+msgid "‚Ä¶ ‚Ä¶ ‚Ä¶ Thank you‚Ä¶ for freeing me‚Ä¶ from that spell‚Ä¶"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2553
-msgid "Ö Who are you?"
+msgid "‚Ä¶ Who are you?"
 msgstr ""
 
-#. [message]: speaker=Ameri‰lis
+#. [message]: speaker=Ameri√§lis
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2558
-msgid "You will be told very soon, my saviorÖ"
+msgid "You will be told very soon, my savior‚Ä¶"
 msgstr ""
 
-#. [message]: speaker=Ameri‰lis
+#. [message]: speaker=Ameri√§lis
 #: The_Silver_Lands/scenarios/02_The_Northern_Forest.cfg:2563
 msgid ""
-"NowÖ creatures of the afterlife being held here by my will, return to the "
+"Now‚Ä¶ creatures of the afterlife being held here by my will, return to the "
 "afterlife!"
 msgstr ""
 
 #. [terrain_type]: id=blessed-spring
 #: The_Silver_Lands/terrain-virtual.cfg:15
 msgid "Blessed Spring"
-msgstr "Source BÈnie"
+msgstr "Source B√©nie"
 
 #. [terrain_type]: id=overlay-campfire
 #: The_Silver_Lands/terrain-virtual.cfg:54
@@ -1245,7 +1245,7 @@ msgstr "Brasier"
 #: The_Silver_Lands/utils/schedules.cfg:84 The_Silver_Lands/terrain.cfg:27
 #: The_Silver_Lands/terrain.cfg:35 The_Silver_Lands/terrain.cfg:43
 msgid "Dark Hive"
-msgstr "Ruche TÈnÈbreuse"
+msgstr "Ruche T√©n√©breuse"
 
 #. [terrain_type]: id=overlay-summoning-circle
 #. [terrain_type]: id=overlay-summoning-circle-turquoise
@@ -1379,17 +1379,17 @@ msgstr ""
 #. [race]: id=demon
 #: The_Silver_Lands/units/demons-and-imps.cfg:14
 msgid "race^Demon"
-msgstr "race^DÈmon"
+msgstr "D√©mon"
 
 #. [race]: id=demon
 #: The_Silver_Lands/units/demons-and-imps.cfg:15
 msgid "race+female^Demoness"
-msgstr "race+female^DÈmon"
+msgstr "D√©mon"
 
 #. [race]: id=demon
 #: The_Silver_Lands/units/demons-and-imps.cfg:16
 msgid "race^Demons"
-msgstr "race^DÈmons"
+msgstr "D√©mons"
 
 #. [race]: id=demon
 #: The_Silver_Lands/units/demons-and-imps.cfg:17
@@ -1407,17 +1407,17 @@ msgstr ""
 #. [race]: id=imps
 #: The_Silver_Lands/units/demons-and-imps.cfg:26
 msgid "race^Imp"
-msgstr "race^Diablotin"
+msgstr "Diablotin"
 
 #. [race]: id=imps
 #: The_Silver_Lands/units/demons-and-imps.cfg:27
 msgid "race+female^Imp"
-msgstr "race+female^Diablotin"
+msgstr "Diablotin"
 
 #. [race]: id=imps
 #: The_Silver_Lands/units/demons-and-imps.cfg:28
 msgid "race^Imps"
-msgstr "race^Diablotins"
+msgstr "Diablotins"
 
 #. [race]: id=imps
 #: The_Silver_Lands/units/demons-and-imps.cfg:29
@@ -1431,7 +1431,7 @@ msgstr ""
 #. [unit_type]: id=Demon Grunt, race=demon
 #: The_Silver_Lands/units/demons/Grunt.cfg:5
 msgid "Demon Grunt"
-msgstr "Grognard DÈmoniaque"
+msgstr "Grognard D√©moniaque"
 
 #. [unit_type]: id=Demon Grunt, race=demon
 #: The_Silver_Lands/units/demons/Grunt.cfg:25
@@ -1455,12 +1455,12 @@ msgstr "froid infernal"
 #. [female]
 #: The_Silver_Lands/units/demons/Grunt.cfg:121
 msgid "female^Demoness Grunt"
-msgstr "female^Grognarde DÈmoniaque"
+msgstr "Drognarde D√©moniaque"
 
 #. [unit_type]: id=Ixthala Demon, race=demon
 #: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:5
 msgid "Ixthala Demon"
-msgstr "DÈmon Ixthala"
+msgstr "D√©mon Ixthala"
 
 #. [unit_type]: id=Ixthala Demon, race=demon
 #: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:23
@@ -1474,12 +1474,12 @@ msgstr ""
 #. [attack]: type=fire
 #: The_Silver_Lands/units/demons/Ixthala_Demon.cfg:27
 msgid "flaming sword"
-msgstr "ÈpÈe enflammÈe"
+msgstr "√©p√©e enflamm√©e"
 
 #. [unit_type]: id=Demon, race=demon
 #: The_Silver_Lands/units/demons/Regular.cfg:5
 msgid "Demon"
-msgstr "DÈmon"
+msgstr "D√©mon"
 
 #. [unit_type]: id=Demon, race=demon
 #: The_Silver_Lands/units/demons/Regular.cfg:23
@@ -1503,7 +1503,7 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/demons/Regular.cfg:110
 msgid "female^Demoness"
-msgstr "female^DÈmon"
+msgstr "D√©mon"
 
 #. [unit_type]: id=Shadow Courier, race=demon
 #: The_Silver_Lands/units/demons/Shadow_Courier.cfg:5
@@ -1529,7 +1529,7 @@ msgstr "noctum"
 #. [unit_type]: id=Demon Warrior, race=demon
 #: The_Silver_Lands/units/demons/Warrior.cfg:5
 msgid "Demon Warrior"
-msgstr "Guerrier DÈmoniaque"
+msgstr "Guerrier D√©moniaque"
 
 #. [unit_type]: id=Demon Warrior, race=demon
 #: The_Silver_Lands/units/demons/Warrior.cfg:27
@@ -1546,12 +1546,12 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/demons/Warrior.cfg:127
 msgid "female^Demoness Warrior"
-msgstr "female^GuerriËre DÈmoniaque"
+msgstr "Guerri√®re D√©moniaque"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: The_Silver_Lands/units/demons/Zephyr.cfg:5
 msgid "Demon Zephyr"
-msgstr "DÈmon ZÈphyr"
+msgstr "D√©mon Z√©phyr"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: The_Silver_Lands/units/demons/Zephyr.cfg:24
@@ -1569,12 +1569,12 @@ msgstr ""
 #. [race]: id=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs.cfg:5
 msgid "race^Elemental Monarch"
-msgstr "race^Monarque ElÈmentaire"
+msgstr "Monarque El√©mentaire"
 
 #. [race]: id=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs.cfg:6
 msgid "race^Elemental Monarchs"
-msgstr "race^Monarques ElÈmentaires"
+msgstr "Monarques El√©mentaires"
 
 #. [race]: id=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs.cfg:9
@@ -1650,7 +1650,7 @@ msgstr "embrasement"
 #. [unit_type]: id=Ice Maiden, race=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:5
 msgid "female^Ice Maiden"
-msgstr "female^Vierge de Glace"
+msgstr "Dame de Glace"
 
 #. [unit_type]: id=Ice Maiden, race=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:25
@@ -1691,7 +1691,7 @@ msgstr "blizzard cataclismique"
 #. [attack]: type=pierce
 #: The_Silver_Lands/units/elemental-monarchs/Ice_Maiden.cfg:87
 msgid "icicle storm"
-msgstr "tempÍte de glace"
+msgstr "temp√™te de glace"
 
 #. [unit_type]: id=Water Monarch, race=elemental-monarchs
 #: The_Silver_Lands/units/elemental-monarchs/Water_Monarch.cfg:5
@@ -1744,12 +1744,12 @@ msgstr "explosion aqueuse"
 #. [race]: id=elemental
 #: The_Silver_Lands/units/elementals.cfg:5
 msgid "race^Elemental"
-msgstr "race^ElÈmentaire"
+msgstr "El√©mentaire"
 
 #. [race]: id=elemental
 #: The_Silver_Lands/units/elementals.cfg:6
 msgid "race^Elementals"
-msgstr "race^ElÈmentaires"
+msgstr "El√©mentaires"
 
 #. [race]: id=elemental
 #: The_Silver_Lands/units/elementals.cfg:10
@@ -1772,7 +1772,7 @@ msgstr ""
 #. [unit_type]: id=Animated Rock, race=elemental
 #: The_Silver_Lands/units/elementals/Animated_Rock.cfg:5
 msgid "Animated Rock"
-msgstr "Roche AnimÈe"
+msgstr "Roche Anim√©e"
 
 #. [unit_type]: id=Animated Rock, race=elemental
 #: The_Silver_Lands/units/elementals/Animated_Rock.cfg:20
@@ -1784,7 +1784,7 @@ msgstr ""
 #. [unit_type]: id=Brazier Creation, race=elemental
 #: The_Silver_Lands/units/elementals/Brazier_Creation.cfg:5
 msgid "Brazier Creation"
-msgstr "CrÈation Fulminante"
+msgstr "Cr√©ation Fulminante"
 
 #. [unit_type]: id=Brazier Creation, race=elemental
 #: The_Silver_Lands/units/elementals/Brazier_Creation.cfg:21
@@ -1847,33 +1847,33 @@ msgstr "tornade"
 #. [unit_type]: id=Ethereal Dragon, race=elemental, description=
 #: The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:5
 msgid "Ethereal Dragon"
-msgstr "Dragon EthÈrÈ"
+msgstr "Dragon Eth√©r√©"
 
 #. [attack]: type=arcane
 #: The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:64
 #: The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:65
 msgid "ethereal breath"
-msgstr "souffle ÈthÈrÈ"
+msgstr "souffle √©th√©r√©"
 
 #. [unit_type]: id=Ethereal Orb, race=elemental, description=
 #: The_Silver_Lands/units/elementals/Ethereal_Orb.cfg:5
 msgid "Ethereal Orb"
-msgstr "Orbe EthÈrÈ"
+msgstr "Orbe Eth√©r√©"
 
 #. [attack]: type=arcane
 #: The_Silver_Lands/units/elementals/Ethereal_Orb.cfg:56
 msgid "ethereal wave"
-msgstr "onde ÈthÈrÈe"
+msgstr "onde √©th√©r√©e"
 
 #. [unit_type]: id=Ethereal Serpent, race=elemental, description=
 #: The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:5
 msgid "Ethereal Serpent"
-msgstr "Serpent EthÈrÈ"
+msgstr "Serpent Eth√©r√©"
 
 #. [unit_type]: id=Fire Ghost, race=elemental
 #: The_Silver_Lands/units/elementals/Fire_Ghost.cfg:5
 msgid "Fire Ghost"
-msgstr "FantÙme EmbrasÈ"
+msgstr "Fant√¥me Embras√©"
 
 #. [unit_type]: id=Lava Beast, race=elemental
 #. [unit_type]: id=Wind Herder, race=elemental
@@ -1892,7 +1892,7 @@ msgstr "FantÙme EmbrasÈ"
 #: The_Silver_Lands/units/vampires/Sangel.cfg:20
 #: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:19
 msgid "TODO..."
-msgstr "A FAIRE..."
+msgstr "A FAIRE‚Ä¶"
 
 #. [unit_type]: id=Fire Wisp, race=elemental
 #: The_Silver_Lands/units/elementals/Fire_Wisp.cfg:5
@@ -1910,7 +1910,7 @@ msgstr ""
 #. [attack]: type=fire
 #: The_Silver_Lands/units/elementals/Fire_Wisp.cfg:27
 msgid "fire bash"
-msgstr "coup enflammÈ"
+msgstr "coup enflamm√©"
 
 #. [unit_type]: id=Ice Crab, race=elemental
 #: The_Silver_Lands/units/elementals/Ice_Crab.cfg:5
@@ -1953,7 +1953,7 @@ msgstr ""
 #. [unit_type]: id=Lava Beast, race=elemental
 #: The_Silver_Lands/units/elementals/Lava_Beast.cfg:5
 msgid "Lava Beast"
-msgstr "BÍte de Lave"
+msgstr "B√™te de Lave"
 
 #. [unit_type]: id=Living Furnace, race=elemental
 #: The_Silver_Lands/units/elementals/Living_Furnace.cfg:5
@@ -1983,7 +1983,7 @@ msgstr ""
 #. [attack]: type=fire
 #: The_Silver_Lands/units/elementals/Living_Volcano.cfg:37
 msgid "erupt"
-msgstr "Èruption"
+msgstr "√©ruption"
 
 #. [unit_type]: id=Magic Servant, race=elemental
 #: The_Silver_Lands/units/elementals/Magic_Servant.cfg:5
@@ -2055,7 +2055,7 @@ msgstr "lame de pierre"
 #: The_Silver_Lands/units/elementals/Tears_of_the_Forest.cfg:30
 msgid ""
 "Whenever a vengeful or disturbed spirit is present in a forest, the Tears of "
-"the Forest ówhich represents the forest's sorrowó will manifest and seek a "
+"the Forest ‚Äîwhich represents the forest's sorrow‚Äî will manifest and seek a "
 "powerful being who has happened to wander into the forest. Once it finds a "
 "powerful being, the Tears will try to get the being to follow it to the "
 "location of the troubled spirit that is causing the forest's sorrow, and get "
@@ -2066,7 +2066,7 @@ msgstr ""
 #. [unit_type]: id=Tempest Spirit, race=elemental
 #: The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:5
 msgid "Tempest Spirit"
-msgstr "Esprit des TempÍtes"
+msgstr "Esprit des Temp√™tes"
 
 #. [unit_type]: id=Tempest Spirit, race=elemental
 #: The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:21
@@ -2103,12 +2103,12 @@ msgstr ""
 #: The_Silver_Lands/units/elementals/Thunderbird.cfg:48
 #: The_Silver_Lands/units/shaxthal/Thunderbird.cfg:52
 msgid "thunderbolt"
-msgstr "Foudre"
+msgstr "foudre"
 
 #. [unit_type]: id=Tidal, race=elemental
 #: The_Silver_Lands/units/elementals/Tidal.cfg:5
 msgid "Tidal"
-msgstr "Hors-MarÈe"
+msgstr "Hors-Mar√©e"
 
 #. [unit_type]: id=Tidal, race=elemental
 #: The_Silver_Lands/units/elementals/Tidal.cfg:20
@@ -2134,7 +2134,7 @@ msgstr ""
 #. [unit_type]: id=Vine Beast, race=elemental
 #: The_Silver_Lands/units/elementals/Vine_Beast.cfg:5
 msgid "Vine Beast"
-msgstr "BÍte de Vigne"
+msgstr "B√™te de Vigne"
 
 #. [unit_type]: id=Vine Beast, race=elemental
 #: The_Silver_Lands/units/elementals/Vine_Beast.cfg:28
@@ -2173,17 +2173,17 @@ msgstr "raffale"
 #. [unit_type]: id=Zephyr, race=elemental
 #: The_Silver_Lands/units/elementals/Zephyr.cfg:5
 msgid "Zephyr"
-msgstr "ZÈphyr"
+msgstr "Z√©phyr"
 
 #. [race]: id=gargoyle
 #: The_Silver_Lands/units/gargoyles.cfg:7
 msgid "race^Gargoyle"
-msgstr "race^Gargouille"
+msgstr "Gargouille"
 
 #. [race]: id=gargoyle
 #: The_Silver_Lands/units/gargoyles.cfg:8
 msgid "race^Gargoyles"
-msgstr "race^Gargouilles"
+msgstr "Gargouilles"
 
 #. [race]: id=gargoyle
 #: The_Silver_Lands/units/gargoyles.cfg:9
@@ -2342,7 +2342,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: The_Silver_Lands/units/humans/Chaos_Crossbowman.cfg:5
 msgid "Crossbowman"
-msgstr "ArbalÈtrier"
+msgstr "Arbal√©trier"
 
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: The_Silver_Lands/units/humans/Chaos_Crossbowman.cfg:27
@@ -2360,7 +2360,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
 #: The_Silver_Lands/units/humans/Chaos_Crossbowman_Advanced.cfg:5
 msgid "Advanced Crossbowman"
-msgstr "ArbalÈtrier AvancÈ"
+msgstr "Arbal√©trier Avanc√©"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: The_Silver_Lands/units/humans/Chaos_Dark_Knight.cfg:5
@@ -2407,12 +2407,12 @@ msgstr "Fusillier du Chaos"
 #: The_Silver_Lands/units/humans/Chaos_Sharpshooter.cfg:34
 #: The_Silver_Lands/units/humans/Chaos_Gunner.cfg:34
 msgid "gun"
-msgstr "arme ‡ feu"
+msgstr "arme √† feu"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: The_Silver_Lands/units/humans/Chaos_Headhunter.cfg:5
 msgid "Headhunter"
-msgstr "Chasseur de TÍte"
+msgstr "Chasseur de T√™te"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: The_Silver_Lands/units/humans/Chaos_Headhunter.cfg:27
@@ -2446,7 +2446,7 @@ msgstr ""
 #. [unit_type]: id=Hell Overlord, race=human
 #: The_Silver_Lands/units/humans/Chaos_Hell_Overlord.cfg:5
 msgid "Overlord"
-msgstr "MaÓtre"
+msgstr "Ma√Ætre"
 
 #. [unit_type]: id=Hell Overlord, race=human
 #: The_Silver_Lands/units/humans/Chaos_Hell_Overlord.cfg:23
@@ -2496,12 +2496,12 @@ msgstr ""
 #: The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:47
 #: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:60
 msgid "ethereal blast"
-msgstr "explosion ÈthÈrÈe"
+msgstr "explosion √©th√©r√©e"
 
 #. [unit_type]: id=Chaos Lore, race=human
 #: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:5
 msgid "Chaos Lore"
-msgstr "Erudit du Chaos"
+msgstr "√ârudit du Chaos"
 
 #. [unit_type]: id=Chaos Lore, race=human
 #: The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:27
@@ -2768,7 +2768,7 @@ msgstr ""
 #. [unit_type]: id=Goliath, race=mechanical
 #: The_Silver_Lands/units/mechanical/Goliath.cfg:14
 msgid "Mechanical Goliath"
-msgstr "Goliath MÈcanique"
+msgstr "Goliath M√©canique"
 
 #. [unit_type]: id=Goliath, race=mechanical
 #: The_Silver_Lands/units/mechanical/Goliath.cfg:45
@@ -2793,7 +2793,7 @@ msgstr "bombe de plasma"
 #. [unit_type]: id=Iron Golem, race=mechanical
 #: The_Silver_Lands/units/mechanical/Iron_Golem.cfg:5
 msgid "Iron Golem"
-msgstr "Golem de Fer"
+msgstr "Golem de Fers"
 
 #. [unit_type]: id=Iron Golem, race=mechanical
 #: The_Silver_Lands/units/mechanical/Iron_Golem.cfg:33
@@ -2817,7 +2817,7 @@ msgstr "torpille"
 #. [unit_type]: id=Lantern of Darkness, race=mechanical
 #: The_Silver_Lands/units/mechanical/Lantern_of_Darkness.cfg:5
 msgid "Lantern of Darkness"
-msgstr "Lanterne des TÈnËbres"
+msgstr "Lanterne des T√©n√®bres"
 
 #. [unit_type]: id=Lantern of Darkness, race=mechanical
 #: The_Silver_Lands/units/mechanical/Lantern_of_Darkness.cfg:23
@@ -2838,7 +2838,7 @@ msgstr "rayon noir"
 #. [unit_type]: id=Worker Droid, race=mechanical
 #: The_Silver_Lands/units/mechanical/Worker_Droid.cfg:5
 msgid "Worker Droid"
-msgstr "Travailleur DroÔde"
+msgstr "Travailleur Dro√Øde"
 
 #. [unit_type]: id=Worker Droid, race=mechanical
 #: The_Silver_Lands/units/mechanical/Worker_Droid.cfg:35
@@ -2870,7 +2870,7 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Silver_Lands/units/monsters/Abomination.cfg:25
 msgid "crush"
-msgstr "Ècrasement"
+msgstr "√©crasement"
 
 #. [unit_type]: id=Bear, race=monster
 #: The_Silver_Lands/units/monsters/Bear.cfg:5
@@ -2908,7 +2908,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: The_Silver_Lands/units/monsters/Bull.cfg:34
 msgid "gore"
-msgstr "Èventrement"
+msgstr "√©ventrement"
 
 #. [unit_type]: id=Calf, race=monster
 #: The_Silver_Lands/units/monsters/Bullock.cfg:5
@@ -2938,7 +2938,7 @@ msgstr "cornes"
 #. [unit_type]: id=Chimera, race=monster
 #: The_Silver_Lands/units/monsters/Chimera.cfg:5
 msgid "Chimera"
-msgstr "ChimËre"
+msgstr "Chim√®re"
 
 #. [unit_type]: id=Chimera, race=monster
 #: The_Silver_Lands/units/monsters/Chimera.cfg:19
@@ -2976,7 +2976,7 @@ msgstr ""
 #. [unit_type]: id=Cow, race=monster
 #: The_Silver_Lands/units/monsters/Cow.cfg:5
 msgid "female^Cow"
-msgstr "female^Vache"
+msgstr "Vache"
 
 #. [unit_type]: id=Cow, race=monster
 #: The_Silver_Lands/units/monsters/Cow.cfg:20
@@ -2990,7 +2990,7 @@ msgstr ""
 #: The_Silver_Lands/units/monsters/Heifer.cfg:48
 #: The_Silver_Lands/units/monsters/Cow.cfg:35
 msgid "headbutt"
-msgstr "coup de tÍte"
+msgstr "coup de t√™te"
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: The_Silver_Lands/units/monsters/Eyestalk.cfg:6
@@ -3028,7 +3028,7 @@ msgstr ""
 #. [unit_type]: id=Giant Ant, race=monster
 #: The_Silver_Lands/units/monsters/Giant_Ant.cfg:5
 msgid "Giant Ant"
-msgstr "Fourmi GÈante"
+msgstr "Fourmi G√©ante"
 
 #. [unit_type]: id=Giant Ant, race=monster
 #: The_Silver_Lands/units/monsters/Giant_Ant.cfg:20
@@ -3042,7 +3042,7 @@ msgstr ""
 #. [unit_type]: id=Lesser Giant Spider, race=monster
 #: The_Silver_Lands/units/monsters/Giant_Spider_Lesser.cfg:5
 msgid "Lesser Giant Spider"
-msgstr "AraignÈe GÈante Mineure"
+msgstr "Araign√©e G√©ante Mineure"
 
 #. [unit_type]: id=Lesser Giant Spider, race=monster
 #: The_Silver_Lands/units/monsters/Giant_Spider_Lesser.cfg:18
@@ -3071,18 +3071,18 @@ msgstr ""
 #: The_Silver_Lands/units/monsters/Gorer.cfg:49
 #: The_Silver_Lands/units/monsters/Tusklet.cfg:49
 msgid "tusks"
-msgstr "dÈfenses"
+msgstr "d√©fenses"
 
 #. [attack]: type=pierce
 #: The_Silver_Lands/units/monsters/Tusker.cfg:101
 #: The_Silver_Lands/units/monsters/Gorer.cfg:101
 msgid "tusk Charge"
-msgstr "charge de dÈfenses"
+msgstr "charge de d√©fenses"
 
 #. [unit_type]: id=Heifer, race=monster
 #: The_Silver_Lands/units/monsters/Heifer.cfg:5
 msgid "Heifer"
-msgstr "GÈnisse"
+msgstr "G√©nisse"
 
 #. [unit_type]: id=Heifer, race=monster
 #: The_Silver_Lands/units/monsters/Heifer.cfg:33
@@ -3110,7 +3110,7 @@ msgstr ""
 #. [unit_type]: id=Demonic Hound, race=monster
 #: The_Silver_Lands/units/monsters/Hound_Demonic.cfg:5
 msgid "Demonic Hound"
-msgstr "Chien DÈmoniaque"
+msgstr "Chien D√©moniaque"
 
 #. [unit_type]: id=Demonic Hound, race=monster
 #: The_Silver_Lands/units/monsters/Hound_Demonic.cfg:25
@@ -3143,7 +3143,7 @@ msgstr ""
 #. [unit_type]: id=Tusker, race=monster
 #: The_Silver_Lands/units/monsters/Tusker.cfg:5
 msgid "Tusker"
-msgstr "Longue-DÈfense"
+msgstr "Longue-D√©fense"
 
 #. [unit_type]: id=Tusker, race=monster
 #: The_Silver_Lands/units/monsters/Tusker.cfg:34
@@ -3157,7 +3157,7 @@ msgstr ""
 #. [unit_type]: id=Tusklet, race=monster
 #: The_Silver_Lands/units/monsters/Tusklet.cfg:5
 msgid "Tusklet"
-msgstr "Jeune Longue-DÈfense"
+msgstr "Jeune Longue-D√©fense"
 
 #. [unit_type]: id=Tusklet, race=monster
 #: The_Silver_Lands/units/monsters/Tusklet.cfg:34
@@ -3185,7 +3185,7 @@ msgstr ""
 #. [unit_type]: id=Steppe Drover, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:5
 msgid "Icewind Drover"
-msgstr "Dompteur des Vents GlacÈs"
+msgstr "Dompteur des Vents Glac√©s"
 
 #. [unit_type]: id=Steppe Drover, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:20
@@ -3214,7 +3214,7 @@ msgstr "gel mordant"
 #. [unit_type]: id=Steppe Herder, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:5
 msgid "Icewind Herder"
-msgstr "Berger des Vents GlacÈs"
+msgstr "Berger des Vents Glac√©s"
 
 #. [unit_type]: id=Steppe Herder, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:25
@@ -3246,7 +3246,7 @@ msgstr ""
 #. [unit_type]: id=Steppe Master, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:5
 msgid "Icewind Master"
-msgstr "MaÓtre des Vents GlacÈs"
+msgstr "Ma√Ætre des Vents Glac√©s"
 
 #. [unit_type]: id=Steppe Master, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:19
@@ -3281,7 +3281,7 @@ msgstr ""
 #: The_Silver_Lands/units/orcs-steppe/Khan.cfg:29
 #: The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:26
 msgid "flail"
-msgstr "flÈau"
+msgstr "fl√©au"
 
 #. [unit_type]: id=Steppe Khan, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Khan.cfg:5
@@ -3345,7 +3345,7 @@ msgstr ""
 #: The_Silver_Lands/units/orcs-steppe/Outcast.cfg:25
 #: The_Silver_Lands/units/orcs-steppe/Pariah.cfg:24
 msgid "frigid touch"
-msgstr "toucher glacÈ"
+msgstr "toucher glac√©"
 
 #. [unit_type]: id=Steppe Pariah, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Pariah.cfg:5
@@ -3407,7 +3407,7 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Silver_Lands/units/orcs-steppe/Savage.cfg:42
 msgid "frenzy"
-msgstr "frÈnÈsie"
+msgstr "fr√©n√©sie"
 
 #. [unit_type]: id=Steppe Shieldbearer, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Shieldbearer.cfg:5
@@ -3474,7 +3474,7 @@ msgstr ""
 #. [unit_type]: id=Steppe Stoic, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Stoic.cfg:5
 msgid "Steppe Stoic"
-msgstr "StoÔque des Steppes"
+msgstr "Sto√Øque des Steppes"
 
 #. [unit_type]: id=Steppe Stoic, race=orc
 #: The_Silver_Lands/units/orcs-steppe/Stoic.cfg:19
@@ -3522,7 +3522,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Initiate, race=orc
 #: The_Silver_Lands/units/orcs/Initiate.cfg:5
 msgid "Orcish Initiate"
-msgstr "InitiÈ Orc"
+msgstr "Initi√© Orc"
 
 #. [unit_type]: id=Orcish Sage, race=orc
 #. [unit_type]: id=Orcish Sorcerer, race=orc
@@ -3553,17 +3553,17 @@ msgstr "Sorcier Orc"
 #. [race]: id=shaxthal
 #: The_Silver_Lands/units/shaxthal.cfg:5
 msgid "race^Shaxthal"
-msgstr "race^Shaxthal"
+msgstr "Shaxthal"
 
 #. [race]: id=shaxthal
 #: The_Silver_Lands/units/shaxthal.cfg:6
 msgid "race+female^Shaxthal"
-msgstr "race+female^Shaxthal"
+msgstr "Shaxthal"
 
 #. [race]: id=shaxthal
 #: The_Silver_Lands/units/shaxthal.cfg:7
 msgid "race^Shaxthals"
-msgstr "race^Shaxthals"
+msgstr "Shaxthal"
 
 #. [race]: id=shaxthal
 #: The_Silver_Lands/units/shaxthal.cfg:12
@@ -3618,7 +3618,7 @@ msgstr ""
 #: The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:56
 #: The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:49
 msgid "energy shock"
-msgstr "choc d'Ènergie"
+msgstr "choc d'√©nergie"
 
 #. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
 #: The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:5
@@ -3717,7 +3717,7 @@ msgstr ""
 #. [attack]: type=blade
 #: The_Silver_Lands/units/shaxthal/Rayblade.cfg:28
 msgid "weapon^rayblade"
-msgstr "weapon^faisceau"
+msgstr "faisceau"
 
 #. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
 #: The_Silver_Lands/units/shaxthal/Razorbird.cfg:19
@@ -3764,17 +3764,17 @@ msgstr ""
 #. [race]: id=elvish_spirits
 #: The_Silver_Lands/units/undead.cfg:5
 msgid "race^Elvish Spirit"
-msgstr "race^Esprit Elfe"
+msgstr "Esprit Elfe"
 
 #. [race]: id=elvish_spirits
 #: The_Silver_Lands/units/undead.cfg:6
 msgid "race+female^Elvish Spirit"
-msgstr "race+female^Esprit Elfe"
+msgstr "Esprit Elfe"
 
 #. [race]: id=elvish_spirits
 #: The_Silver_Lands/units/undead.cfg:7
 msgid "race^Elvish Spirits"
-msgstr "race^Esprits Elfes"
+msgstr "Esprits Elfes"
 
 #. [race]: id=elvish_spirits
 #: The_Silver_Lands/units/undead.cfg:10
@@ -3793,7 +3793,7 @@ msgstr ""
 #. [unit_type]: id=Ghast, race=undead
 #: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:5
 msgid "Ghast"
-msgstr "Glouton"
+msgstr "Blafard"
 
 #. [unit_type]: id=Ghast, race=undead
 #: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:24
@@ -3805,6 +3805,13 @@ msgid ""
 "flesh straight from their foes. Once their enemy is defeated, they eat the "
 "rest of the body, gaining strength in the process."
 msgstr ""
+"Le blafard est une cr√©ature provenant des cauchemars les plus primaires de "
+"l'humanit√©. √Ä la diff√©rence de leurs cousins plus faibles, les goules et les "
+"n√©crophages, ils ne sont pas assez patients pour attendre que leur victime "
+"meure du poison avant d'en consommer le cadavre. Ils attaquent directement "
+"avec leur √©norme bouche, essayant d'arracher directement la chair de leur "
+"ennemi. Une fois que leur adversaire est vaincu, ils mangent le reste de son "
+"cadavre, gagnant ainsi en force."
 
 #. [attack]: type=blade
 #: The_Silver_Lands/units/undead/Corpse_Ghast.cfg:32
@@ -3814,7 +3821,7 @@ msgstr "morsure"
 #. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
 #: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:5
 msgid "Ancestor"
-msgstr "AncÍtre"
+msgstr "Anc√™tre"
 
 #. [unit_type]: id=Elvish Ancestor, race=elvish_spirits
 #: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:29
@@ -3831,7 +3838,7 @@ msgstr ""
 #: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:33
 #: The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:34
 msgid "ancient blade"
-msgstr "ÈpÈe ancienne"
+msgstr "√©p√©e ancienne"
 
 #. [attack]: type=cold
 #: The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:45
@@ -3890,7 +3897,7 @@ msgstr ""
 #. [unit_type]: id=Shadow Spawn, race=undead
 #: The_Silver_Lands/units/undead/Shadow_Spawn.cfg:5
 msgid "Shadow Spawn"
-msgstr "S˚ppot d'Ombre"
+msgstr "S√ªppot d'Ombre"
 
 #. [unit_type]: id=Shadow Spawn, race=undead
 #: The_Silver_Lands/units/undead/Shadow_Spawn.cfg:21
@@ -3933,7 +3940,7 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Silver_Lands/units/undead/Skeleton_Knight.cfg:45
 msgid "trample"
-msgstr "piÈtinement"
+msgstr "pi√©tinement"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: The_Silver_Lands/units/undead/Skeleton_Rider.cfg:5
@@ -3961,6 +3968,16 @@ msgid ""
 "Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
 "Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 msgstr ""
+"Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
+"Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
+"Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,"
+"Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,"
+"Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,"
+"Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,"
+"Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,"
+"Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,"
+"Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
+"Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 
 #: The_Silver_Lands/units/vampires.cfg:6
 msgid ""
@@ -3979,21 +3996,35 @@ msgid ""
 "Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
 "Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 msgstr ""
+"Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
+"Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
+"Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,"
+"Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,"
+"Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,"
+"Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,"
+"Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,"
+"Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,"
+"Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,"
+"Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,"
+"Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,"
+"Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,"
+"Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
+"Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 
 #. [race]: id=vampire
 #: The_Silver_Lands/units/vampires.cfg:13
 msgid "race^Vampire"
-msgstr "race^Vampire"
+msgstr "Vampire"
 
 #. [race]: id=vampire
 #: The_Silver_Lands/units/vampires.cfg:14
 msgid "race+female^Vampiress"
-msgstr "race+female^Vampire"
+msgstr "Vampire"
 
 #. [race]: id=vampire
 #: The_Silver_Lands/units/vampires.cfg:15
 msgid "race^Vampires"
-msgstr "race^Vampires"
+msgstr "Vampires"
 
 #. [race]: id=vampire
 #: The_Silver_Lands/units/vampires.cfg:20
@@ -4049,7 +4080,7 @@ msgstr ""
 #: The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:36
 #: The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:45
 msgid "blood boil"
-msgstr "Èbullition du sang"
+msgstr "√©bullition du sang"
 
 #. [unit_type]: id=Blood Hulk, race=vampire
 #: The_Silver_Lands/units/vampires/Blood_Hulk.cfg:5
@@ -4090,7 +4121,7 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Bloodborn.cfg:68
 msgid "female^Bloodborn"
-msgstr "female^Sang-MÈlÈ"
+msgstr "Mordu"
 
 #. [unit_type]: id=Day Hunter, race=vampire
 #: The_Silver_Lands/units/vampires/Day_Hunter.cfg:5
@@ -4110,12 +4141,12 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Day_Hunter.cfg:73
 msgid "female^Day Hunter"
-msgstr "female^Chasseuse Diurne"
+msgstr "Chasseuse Diurne"
 
 #. [unit_type]: id=Duchess, race=vampire
 #: The_Silver_Lands/units/vampires/Duchess.cfg:5
 msgid "female^Duchess"
-msgstr "female^Duchesse"
+msgstr "Duchesse"
 
 #. [unit_type]: id=Duchess, race=vampire
 #: The_Silver_Lands/units/vampires/Duchess.cfg:21
@@ -4134,7 +4165,7 @@ msgstr ""
 #: The_Silver_Lands/units/vampires/Methusalem.cfg:51
 #: The_Silver_Lands/units/vampires/Mistress.cfg:50
 msgid "dementia gaze"
-msgstr "regard dÈment"
+msgstr "regard d√©ment"
 
 #. [unit_type]: id=Vampire Duelist, race=vampire
 #: The_Silver_Lands/units/vampires/Duelist.cfg:5
@@ -4156,7 +4187,7 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Duelist.cfg:142
 msgid "female^Duelist"
-msgstr "female^Dueliste"
+msgstr "Dueliste"
 
 #. [unit_type]: id=Fledgeling, race=vampire
 #: The_Silver_Lands/units/vampires/Fledgeling.cfg:5
@@ -4176,7 +4207,7 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Fledgeling.cfg:107
 msgid "female^Fledgeling"
-msgstr "female^Damoiselle"
+msgstr "Damoiselle"
 
 #. [unit_type]: id=Flesh Artisan, race=vampire
 #: The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:5
@@ -4196,7 +4227,7 @@ msgstr ""
 #. [unit_type]: id=Halfblood, race=vampire
 #: The_Silver_Lands/units/vampires/Half_Blood.cfg:5
 msgid "Halfblood"
-msgstr "Sang-MÈlÈ"
+msgstr "Sang-M√©l√©"
 
 #. [unit_type]: id=Halfblood, race=vampire
 #: The_Silver_Lands/units/vampires/Half_Blood.cfg:27
@@ -4208,12 +4239,12 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Half_Blood.cfg:102
 msgid "female^Halfblood"
-msgstr "female^Sang-MÈlÈ"
+msgstr "Sang-M√©l√©"
 
 #. [unit_type]: id=Malborn, race=vampire
 #: The_Silver_Lands/units/vampires/Malborn.cfg:5
 msgid "Malborn"
-msgstr "Mal-NÈ"
+msgstr "Mal-N√©"
 
 #. [unit_type]: id=Malborn, race=vampire
 #: The_Silver_Lands/units/vampires/Malborn.cfg:22
@@ -4246,7 +4277,7 @@ msgstr ""
 #: The_Silver_Lands/units/vampires/Sire.cfg:163
 #: The_Silver_Lands/units/vampires/Mistress.cfg:5
 msgid "female^Mistress"
-msgstr "female^MaÓtresse"
+msgstr "Ma√Ætresse"
 
 #. [unit_type]: id=Mistress, race=vampire
 #: The_Silver_Lands/units/vampires/Mistress.cfg:20
@@ -4282,7 +4313,7 @@ msgstr ""
 #. [female]
 #: The_Silver_Lands/units/vampires/Noble.cfg:142
 msgid "female^Lady"
-msgstr "female^Dame"
+msgstr "Dame"
 
 #. [unit_type]: id=Sangel, race=vampire
 #: The_Silver_Lands/units/vampires/Sangel.cfg:5
@@ -4301,9 +4332,9 @@ msgid ""
 "themselves. In exchange for protection (from whom is not always mentioned), "
 "the other lords provide a tithe of their tax to the Sire."
 msgstr ""
-"Certains vampires deviennent suffisamment puissants pour assujettir mÍme d'autres seigneurs "
-"vampires. En Èchange d'une protection (il n'est pas toujours prÈciser contre qui), "
-"les autres seigneurs payent une dÓme au Sire."
+"Certains vampires deviennent suffisamment puissants pour assujettir m√™me d'autres seigneurs "
+"vampires. En √©change d'une protection (il n'est pas toujours pr√©ciser contre qui), "
+"les autres seigneurs payent une d√Æme au Sire."
 
 #. [unit_type]: id=Sword Dancer, race=vampire
 #: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:5
@@ -4318,15 +4349,15 @@ msgid ""
 "and dancing see similarities between the two, and combine them into a "
 "devastating and accurate form of fighting that cuts through defenses."
 msgstr ""
-"Les vampires vivent longtemps, et ont le temps de dÈvelopper de nombreux arts raffinÈs, "
-"tels que la danse. Les duelistes qui ont une longue expÈrience du combat "
-"et de la danse dÈtectent des similaritÈs entre les deux, et les combinent en une "
-"forme de combat prÈcise et dÈvastatrice capable de percer les dÈfenses."
+"Les vampires vivent longtemps, et ont le temps de d√©velopper de nombreux arts raffin√©s, "
+"tels que la danse. Les duelistes qui ont une longue exp√©rience du combat "
+"et de la danse d√©tectent des similarit√©s entre les deux, et les combinent en une "
+"forme de combat pr√©cise et d√©vastatrice capable de percer les d√©fenses."
 
 #. [female]
 #: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:142
 msgid "female^Sword Dancer"
-msgstr "female^Danse-Lame"
+msgstr "Danse-Lame"
 
 #. [unit_type]: id=Thinblood, race=vampire
 #: The_Silver_Lands/units/vampires/Thin_Blood.cfg:5
@@ -4342,11 +4373,11 @@ msgid ""
 "thirst on them, giving them a reason to continue to serve their lord. These "
 "qualities make them a valuable support for a vampires army."
 msgstr ""
-"Tous les mordus ne dÈveloppent pas leur facultÈs vampiriques. Certains se penchent du cÙtÈ de leur "
-"humanitÈ, et peuvent supporter la lumiËre du jour ainsi qu'utiliser un arc, que la plupart des vampires mÈprisent "
+"Tous les mordus ne d√©veloppent pas leur facult√©s vampiriques. Certains se penchent du c√¥t√© de leur "
+"humanit√©, et peuvent supporter la lumi√®re du jour ainsi qu'utiliser un arc, que la plupart des vampires m√©prisent "
 "comme une arme de paysan. Cependant ils portent toujours en eux la soif de sang des "
-"vampires, ce qui leur donne une raison de continuer ‡ servir leur seigneur. Ces "
-"qualitÈs font d'eux un soutien apprÈciable ‡ une armÈe de vampires."
+"vampires, ce qui leur donne une raison de continuer √† servir leur seigneur. Ces "
+"qualit√©s font d'eux un soutien appr√©ciable √† une arm√©e de vampires."
 
 #. [female]
 #: The_Silver_Lands/units/vampires/Thin_Blood.cfg:102
@@ -4356,7 +4387,7 @@ msgstr "Clairsang"
 #. [unit_type]: id=Twilight Walker, race=vampire
 #: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:5
 msgid "Twilight Walker"
-msgstr "RÙdeur CrÈpusculaire"
+msgstr "R√¥deur Cr√©pusculaire"
 
 #. [unit_type]: id=Twilight Walker, race=vampire
 #: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:29
@@ -4368,27 +4399,27 @@ msgid ""
 "For a vampire lord will always have enemies some of which are better slain "
 "with poison in the twilight, than with an army at night."
 msgstr ""
-"A mi-parcourt, un sang-mÈlÈ peut choisir de revenir ‡ son humanitÈ, mais "
-"beaucoup ne prÈfËrent pas. Ce qui ne le font pas sont connus sous le nom de rÙdeur crÈpusculaire, et demeurent "
-"parmis les plus fidËles servants d'un seigneur vampire, car ils auraient p˚ choisir la lumiËre du jour, mais "
-"s'en sont dÈtournÈ. En tant que tels ils se voient confiÈs des armes empoisonnÈes et des missions d'assassinat. "
-"Car un seigneur vampire aura toujours des ennemis dont il vaut mieux se dÈbarrasser "
-"au poison ‡ la lumiËre du crÈpuscule, qu'avec une armÈe durant la nuit."
+"A mi-parcourt, un sang-m√©l√© peut choisir de revenir √† son humanit√©, mais "
+"beaucoup ne pr√©f√®rent pas. Ce qui ne le font pas sont connus sous le nom de r√¥deur cr√©pusculaire, et demeurent "
+"parmis les plus fid√®les servants d'un seigneur vampire, car ils auraient p√ª choisir la lumi√®re du jour, mais "
+"s'en sont d√©tourn√©. En tant que tels ils se voient confi√©s des armes empoisonn√©es et des missions d'assassinat. "
+"Car un seigneur vampire aura toujours des ennemis dont il vaut mieux se d√©barrasser "
+"au poison √† la lumi√®re du cr√©puscule, qu'avec une arm√©e durant la nuit."
 
 #. [attack]: type=blade
 #: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:34
 msgid "poisoned dagger"
-msgstr "dague empoisonnÈe"
+msgstr "dague empoisonn√©e"
 
 #. [female]
 #: The_Silver_Lands/units/vampires/Twilight_Walker.cfg:167
 msgid "female^Twilight Walker"
-msgstr "female^RÙdeuse CrÈpusculaire"
+msgstr "R√¥deuse Cr√©pusculaire"
 
 #. [unit_type]: id=Wose Magister, race=wose
 #: The_Silver_Lands/units/woses/Wose_Magister.cfg:5
 msgid "Wose Magister"
-msgstr "MaÓtre Wose"
+msgstr "Ma√Ætre Wose"
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #. [unit_type]: id=Wose Magister, race=wose
@@ -4401,11 +4432,11 @@ msgid ""
 "other races, even by elves, it is very likely that most of the fools that "
 "stumbled across one of these giants were crushed by them."
 msgstr ""
-"Les woses sont, en tant qu'espËce, dÈvouÈs ‡ la dÈfense des forÍts et de la nature. Certains "
-"ancients gardiens ont dÈveloppÈ d'impressionnantes capacitÈs, telles que commander aux "
-"vignes et lianes de la forÍt pour entraver leurs ennemis. Rarement aperÁus "
-"des autres races, mÍme des elfes, il est plus que probable que l'idiot qui "
-"tomberait sur l'un de ces gÈants serait littÈralement ÈcrasÈ."
+"Les woses sont, en tant qu'esp√®ce, d√©vou√©s √† la d√©fense des for√™ts et de la nature. Certains "
+"ancients gardiens ont d√©velopp√© d'impressionnantes capacit√©s, telles que commander aux "
+"vignes et lianes de la for√™t pour entraver leurs ennemis. Rarement aper√ßus "
+"des autres races, m√™me des elfes, il est plus que probable que l'idiot qui "
+"tomberait sur l'un de ces g√©ants serait litt√©ralement √©cras√©."
 
 #. [unit_type]: id=Wose Sapling, race=wose
 #: The_Silver_Lands/units/woses/Wose_Sapling.cfg:5
@@ -4426,16 +4457,16 @@ msgid ""
 "Woses are utterly unwarlike, but possess a great strength. They are, "
 "however, neither used to, nor quick at moving around."
 msgstr ""
-"Rarement aperÁu, mÍme par les elfes, un wose est un type de crÈature "
-"peu connu. Les elfes sont la principale source de connaissance ‡ leur propos ; ils "
-"savent que ces Ítres ne descendent pas des arbres, malgrÈ leur aspect "
-"similaire, et que les woses sont plus proche du monde des fÈes "
-"que les elfes eux-mÍmes, quoique d'une faÁon diffÈrente. Les motivations et "
-"mÈcanismes de leur espËce sont inconnus, bien que la plupart avancent l'idÈe "
-"Èvidente que les woses sont les gardiens de la nature.\n"
+"Rarement aper√ßu, m√™me par les elfes, un wose est un type de cr√©ature "
+"peu connu. Les elfes sont la principale source de connaissance √† leur propos ; ils "
+"savent que ces √™tres ne descendent pas des arbres, malgr√© leur aspect "
+"similaire, et que les woses sont plus proche du monde des f√©es "
+"que les elfes eux-m√™mes, quoique d'une fa√ßon diff√©rente. Les motivations et "
+"m√©canismes de leur esp√®ce sont inconnus, bien que la plupart avancent l'id√©e "
+"√©vidente que les woses sont les gardiens de la nature.\n"
 "\n"
-"Les woses sont complËtement pacifiques, mais possËdent une grande force. Ils ne sont, "
-"malgrÈ tout, ni rapides, ni prompts ‡ se dÈplacer."
+"Les woses sont compl√®tement pacifiques, mais poss√®dent une grande force. Ils ne sont, "
+"malgr√© tout, ni rapides, ni prompts √† se d√©placer."
 
 #. [unit_type]: id=Wose Shaman, race=wose
 #: The_Silver_Lands/units/woses/Wose_Shaman.cfg:5
@@ -4457,7 +4488,7 @@ msgid ""
 " Vegetated terrains are forest, great tree, farmland and mushroom grove "
 "hexes."
 msgstr ""
-" Les terrains couverts par la vÈgÈtation sont les forÍts, grands arbres, fermes et bosquets "
+" Les terrains couverts par la v√©g√©tation sont les for√™ts, grands arbres, fermes et bosquets "
 "de champignons."
 
 #: The_Silver_Lands/utils/abilities.cfg:66
@@ -4471,8 +4502,8 @@ msgid ""
 "Weaknesses are not affected."
 msgstr ""
 "Bravoure :\n"
-"Lorsqu'elle attaque, les rÈsistances de cette unitÈ sont doublÈes jusqu'‡ un maximum de 50%. "
-"Les valeurs nÈgatives ne sont pas affectÈes."
+"Lorsqu'elle attaque, les r√©sistances de cette unit√© sont doubl√©es jusqu'√† un maximum de 50%. "
+"Les valeurs n√©gatives ne sont pas affect√©es."
 
 #: The_Silver_Lands/utils/abilities.cfg:91
 msgid "protection"
@@ -4485,8 +4516,8 @@ msgid ""
 "resistances (up to a maximum of 50%)."
 msgstr ""
 "Protection :\n"
-"Les unitÈs adjacentes d'un niveau infÈrieur, du mÍme camp, reÁoivent un bonus de +20% ‡ "
-"toutes leurs rÈsistances (jusqu'‡ un maximum de 50%)."
+"Les unit√©s adjacentes d'un niveau inf√©rieur, du m√™me camp, re√ßoivent un bonus de +20% √† "
+"toutes leurs r√©sistances (jusqu'√† un maximum de 50%)."
 
 #. [illuminates]: id=obscure
 #: The_Silver_Lands/utils/abilities.cfg:173
@@ -4503,12 +4534,6 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
-"Voile :\n"
-"L'unitÈ assombrit la zone environnante, augmentant ainsi la combativitÈ des unitÈs chaotiques, "
-"et affaiblissant les unitÈs loyales.\n"
-"\n"
-"Toutes les unitÈs adjacentes ‡ cette unitÈ combattront le jour comme si c'Ètait le crÈpuscule,  "
-"et comme s'il faisait nuit au crÈpuscule."
 
 #: The_Silver_Lands/utils/abilities.cfg:183
 msgid "terror"
@@ -4525,16 +4550,16 @@ msgid ""
 "attacks do 15% less damage times the difference in their levels + 15%."
 msgstr ""
 "Terreur :\n"
-"Cette unitÈ peut effrayer les ennemis qui lui sont adjacents, ce qui rÈduit leur "
-"capacitÈ de combat.\n"
+"Cette unit√© peut effrayer les ennemis qui lui sont adjacents, ce qui r√©duit leur "
+"capacit√© de combat.\n"
 "\n"
-"Les unitÈs ennemis adjacentes d'un niveau infÈrieur feront moins de dommages en combat. Lorsqu'une "
-"unitÈ ennemie d'un niveau infÈrieur ou Èquivalent est ‡ cÙtÈ et engage un combat, ses "
-"attaques infligent 15% de dommages en moins fois la diffÈrence de niveau, + 15%."
+"Les unit√©s ennemis adjacentes d'un niveau inf√©rieur feront moins de dommages en combat. Lorsqu'une "
+"unit√© ennemie d'un niveau inf√©rieur ou √©quivalent est √† c√¥t√© et engage un combat, ses "
+"attaques infligent 15% de dommages en moins fois la diff√©rence de niveau, + 15%."
 
 #: The_Silver_Lands/utils/abilities.cfg:329
 msgid "sylvan spark"
-msgstr "Ètincelle sylvestre"
+msgstr "√©tincelle sylvestre"
 
 #: The_Silver_Lands/utils/abilities.cfg:333
 msgid ""
@@ -4543,8 +4568,8 @@ msgid ""
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Etincelle Sylvestre :\n"
-"L'unitÈ se soigne de 5 PV par tour en zone couverte par la vÈgÈtation. Si elle "
-"est empoisonnÈe, elle se guÈrit du poison ‡ la place."
+"L'unit√© se soigne de 5 PV par tour en zone couverte par la v√©g√©tation. Si elle "
+"est empoisonn√©e, elle se gu√©rit du poison √† la place."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:363
@@ -4561,8 +4586,8 @@ msgid ""
 "of poison will not be cured or prolonged."
 msgstr ""
 "Repos de Glace :\n"
-"L'unitÈ se rÈgÈnËre de 3 PV en terrain enneigÈ ou glacÈ. Les effets "
-"du poison ne sont ni guÈris, ni ralentis."
+"L'unit√© se r√©g√©n√®re de 3 PV en terrain enneig√© ou glac√©. Les effets "
+"du poison ne sont ni gu√©ris, ni ralentis."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:382
@@ -4578,7 +4603,7 @@ msgid ""
 "This unit will regenerate 3 HP when in deep or shallow water."
 msgstr ""
 "Corps Aqueux :\n"
-"L'unitÈ se rÈgÈnËre de 3 PV en eau profonde ou de surface."
+"L'unit√© se r√©g√©n√®re de 3 PV en eau profonde ou de surface."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:401
@@ -4594,13 +4619,13 @@ msgid ""
 "This unit will regenerate 3 HP while in a vegetated area."
 msgstr ""
 "Revitalisation Sylvestre :\n"
-"L'unitÈ se rÈgÈnËre de 3 PV en zone couverte par la vÈgÈtation."
+"L'unit√© se r√©g√©n√®re de 3 PV en zone couverte par la v√©g√©tation."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:420
 #: The_Silver_Lands/utils/abilities.cfg:423
 msgid "earth recuperation"
-msgstr "terre rÈparatrice"
+msgstr "terre r√©paratrice"
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:422
@@ -4610,8 +4635,8 @@ msgid ""
 "This unit will repair its body with the rocks found while in/on hills, "
 "caves, or mountains, thus recovering 3 HP in the process."
 msgstr ""
-"Terre RÈparatrice :\n"
-"Cette unitÈ rÈpare son propre corps en utilisant les rochers qu'elle peut trouver en montagne, "
+"Terre R√©paratrice :\n"
+"Cette unit√© r√©pare son propre corps en utilisant les rochers qu'elle peut trouver en montagne, "
 "ou dans les caves et collines, se soignant ainsi de 3 PV."
 
 #. [regenerate]: id=healing
@@ -4628,14 +4653,14 @@ msgid ""
 "terrain like sand."
 msgstr ""
 "Absorption de Chaleur :\n"
-"Cette unitÈ absorbe la chaleur environnante lorsqu'elle se trouve sur ou flotte au-dessus de la lave, "
+"Cette unit√© absorbe la chaleur environnante lorsqu'elle se trouve sur ou flotte au-dessus de la lave, "
 "se soignant ainsi de 3 PV. De plus, elle absorbe la chaleur d'autres terrains chauds "
-"tels que les dÈserts."
+"tels que les d√©serts."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:460
 msgid "aquatic regeneration"
-msgstr "rÈgÈnÈration aquatique"
+msgstr "r√©g√©n√©ration aquatique"
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:462
@@ -4644,9 +4669,9 @@ msgid ""
 "This unit will recover 8 HP per turn when on aquatic terrain. If this unit "
 "is poisoned it will be cured of it instead."
 msgstr ""
-"RÈgÈnÈration Aquatique :\n"
-"L'unitÈ se soigne de 8 PV par tour sur terrein aqueux. Si elle est empoisonnÈe, "
-"elle se guÈrit du poison ‡ la place."
+"R√©g√©n√©ration Aquatique :\n"
+"L'unit√© se soigne de 8 PV par tour sur terrein aqueux. Si elle est empoisonn√©e, "
+"elle se gu√©rit du poison √† la place."
 
 #. [hides]: id=gelid_incarnation_conceal
 #: The_Silver_Lands/utils/abilities.cfg:471
@@ -4665,12 +4690,12 @@ msgid ""
 "terrain."
 msgstr ""
 "Incarnation Glaciale :\n"
-"L'unitÈ se rÈgÈnËre de 4 PV par tour (mais n'affecte pas le poison).\n"
+"L'unit√© se r√©g√©n√®re de 4 PV par tour (mais n'affecte pas le poison).\n"
 "\n"
-"Si l'unitÈ se trouve sur terrain enneigÈ ou glacÈ, ses capacitÈs rÈgÈnÈratrices augmentent "
-"‡ 8 PV par tour et l'unitÈ se guÈrit du poison. De plus, "
-"elle se cachera de ses ennemis en terrain enneigÈ ou "
-"glacÈ."
+"Si l'unit√© se trouve sur terrain enneig√© ou glac√©, ses capacit√©s r√©g√©n√©ratrices augmentent "
+"√† 8 PV par tour et l'unit√© se gu√©rit du poison. De plus, "
+"elle se cachera de ses ennemis en terrain enneig√© ou "
+"glac√©."
 
 #. [regenerate]: id=healing
 #: The_Silver_Lands/utils/abilities.cfg:519
@@ -4685,13 +4710,13 @@ msgid ""
 "it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Terre Salvatrice :\n"
-"L'unitÈ se soigne de 8 PV par tour sur terrain rocailleux ou sur vÈgÈtation. Si "
-"elle est empoisonnÈe, elle se guÈrira du poison ‡ la place."
+"L'unit√© se soigne de 8 PV par tour sur terrain rocailleux ou sur v√©g√©tation. Si "
+"elle est empoisonn√©e, elle se gu√©rira du poison √† la place."
 
 #. [advancement]: id=amla_monster
 #: The_Silver_Lands/utils/amla.cfg:9
 msgid "Max HP bonus +5, +1 damage to all attacks, max XP +25%"
-msgstr "Bonus aux PV max +5, +1 de dommage ‡ toutes les attaques, +25% de XP max"
+msgstr "Bonus aux PV max +5, +1 de dommage √† toutes les attaques, +25% de XP max"
 
 #. [print]
 #: The_Silver_Lands/utils/boss-utils.cfg:19
@@ -4705,22 +4730,22 @@ msgid ""
 "set to zero."
 msgstr ""
 "Ceci est un scenario de boss. Vous ne pouvez recruter ou rappeler vos troupes que durant le premier "
-"tour, jusqu'‡ ce que tous les emplacements soient pris. Votre revenu est fixÈ "
-"‡ zÈro d'or par tour."
+"tour, jusqu'√† ce que tous les emplacements soient pris. Votre revenu est fix√© "
+"√† z√©ro d'or par tour."
 
 #: The_Silver_Lands/utils/boss-utils.cfg:42
 msgid ""
 "Most enemies respawn two or more turns after you kill them, so try to get "
 "away from their initial locations as quickly as possible."
 msgstr ""
-"La plupart des ennemis rÈapparaissent deux tours ou plus aprËs que vous les ayez tuer, donc essayez de "
-"vous Èloigner de leur emplacement initial aussi vite que possible."
+"La plupart des ennemis r√©apparaissent deux tours ou plus apr√®s que vous les ayez tuer, donc essayez de "
+"vous √©loigner de leur emplacement initial aussi vite que possible."
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/first-time-help.cfg:18
 #: The_Silver_Lands/utils/first-time-help.cfg:71
 msgid "UI^Character description"
-msgstr "UI^Description du personnage"
+msgstr "Description du personnage"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/first-time-help.cfg:31
@@ -4728,8 +4753,8 @@ msgid ""
 "Do you want to see a brief description of characters the first time you "
 "select them in the map?"
 msgstr ""
-"Voulez-vous voir une brËve description des personnages lorsque vous les "
-"sÈlectionnez pour la premiËre fois ?"
+"Voulez-vous voir une br√®ve description des personnages lorsque vous les "
+"s√©lectionnez pour la premi√®re fois ?"
 
 #: The_Silver_Lands/utils/first-time-help.cfg:54
 msgid ""
@@ -4738,10 +4763,10 @@ msgid ""
 "uses as his main form of attack. In addition, he practices swordplay, thus "
 "providing a decent auxilliary attack for close combat."
 msgstr ""
-"Sorum'tar est un InitiÈ Orc, une unitÈ qui n'est disponible que dans cette "
+"Sorum'tar est un Initi√© Orc, une unit√© qui n'est disponible que dans cette "
 "campagne. Sorum'tar est habile dans la manipulation de son aura pure, qu'il "
-"utilise comme sa faÁon principale d'attaquer. De plus, il pratique le maniement de l'ÈpÈe, "
-"ce qui lui fournit une bonne alternative d'attaque pour le corps ‡ corps."
+"utilise comme sa fa√ßon principale d'attaquer. De plus, il pratique le maniement de l'√©p√©e, "
+"ce qui lui fournit une bonne alternative d'attaque pour le corps √† corps."
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/first-time-help.cfg:73
@@ -4761,66 +4786,66 @@ msgid ""
 "This magic glyph will completely restore this unit's health, also unslowing "
 "and removing poison from it, if applicable."
 msgstr ""
-"Souhaitez-vous Ítre soignÈ ?\n"
+"Souhaitez-vous √™tre soign√© ?\n"
 "\n"
-"Ce glyphe magique restorera complËtement la vie de cette unitÈ, retirant Ègalement les effets du ralentissement "
+"Ce glyphe magique restorera compl√®tement la vie de cette unit√©, retirant √©galement les effets du ralentissement "
 "et du poison, si besoin est."
 
 #. [set_variable]
 #: The_Silver_Lands/utils/items.cfg:147 The_Silver_Lands/utils/items.cfg:159
 msgid "Note: the glyph can do this only once, and when done it will fade out."
-msgstr "Note : le glyphe ne peut Ítre utilisÈe qu'une fois, et disparaÓtra ensuite."
+msgstr "Note : le glyphe ne peut √™tre utilis√©e qu'une fois, et dispara√Ætra ensuite."
 
 #. [set_variable]
 #: The_Silver_Lands/utils/items.cfg:157
 msgid "Do you want to be healed?"
-msgstr "Souhaitez-vous Ítre soignÈ ?"
+msgstr "Souhaitez-vous √™tre soign√© ?"
 
 #. [object]: id=healing_glyph_at_{_X}_{_Y}
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/items.cfg:165 The_Silver_Lands/utils/items.cfg:173
 msgid "Crystal Glyph of Health"
-msgstr "Glyphe Cristallin de GuÈrison"
+msgstr "Glyphe Cristallin de Gu√©rison"
 
 #. [object]: id=healing_glyph_at_{_X}_{_Y}
 #: The_Silver_Lands/utils/items.cfg:175
 msgid "The unit is fully healed, cured and unslowed."
-msgstr "L'unitÈ est complËtement soignÈe, guÈrie du poison et du ralentissement."
+msgstr "L'unit√© est compl√®tement soign√©e, gu√©rie du poison et du ralentissement."
 
 #. [set_variable]
 #: The_Silver_Lands/utils/items.cfg:189
 msgid "female^healed"
-msgstr "female^guÈrie"
+msgstr "gu√©rie"
 
 #. [set_variable]
 #: The_Silver_Lands/utils/items.cfg:195
 msgid "healed"
-msgstr "guÈri"
+msgstr "gu√©ri"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/items.cfg:288 The_Silver_Lands/utils/items.cfg:351
 msgid "Do you want this unit to pick up this item?"
-msgstr "Voulez-vous que cette unitÈ Èquipe cet objet ?"
+msgstr "Voulez-vous que cette unit√© √©quipe cet objet ?"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/utils/scenario-deaths.cfg:246
-msgid " *Arrrgh* IÖ have failedÖ"
-msgstr " *Arrrgh* J'aiÖ ÈchouÈÖ"
+msgid " *Arrrgh* I‚Ä¶ have failed‚Ä¶"
+msgstr " *Arrrgh* J'ai‚Ä¶ √©chou√©‚Ä¶"
 
 #. [message]: speaker=unit
 #: The_Silver_Lands/utils/scenario-deaths.cfg:269
-msgid "IrdyaÖ is doomedÖ"
-msgstr "IrdyaÖ est perdueÖ"
+msgid "Irdya‚Ä¶ is doomed‚Ä¶"
+msgstr "Irdya‚Ä¶ est perdue‚Ä¶"
 
 #: The_Silver_Lands/utils/scenario-utils.cfg:94
 msgid "Scenario notes:"
-msgstr "Notes de ce scÈnario :"
+msgstr "Notes de ce sc√©nario :"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/scenario-utils.cfg:130
 #: The_Silver_Lands/utils/scenario-utils.cfg:145
 msgid "Hard Hat Area"
-msgstr "RÈgion du Casque"
+msgstr "R√©gion du Casque"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/scenario-utils.cfg:131
@@ -4837,15 +4862,15 @@ msgid ""
 "dev. forum) (which does not exist yet) or contact the author on the wesnoth-"
 "umc-dev IRC channel on Freenode.\n"
 "\n"
-"ó The author"
+"‚Äî The author"
 msgstr ""
-"Ce scenario est encore en cours de dÈveloppemen, il peut donc contenir des bugs, "
-"ou Ítre incomplet, le scÈnario qui existe actuellement, et cetera. Les commentaires se font "
+"Ce scenario est encore en cours de d√©veloppemen, il peut donc contenir des bugs, "
+"ou √™tre incomplet, le sc√©nario qui existe actuellement, et cetera. Les commentaires se font "
 "au www.wesnoth.org forum 'The Silver Lands' (forum Scenario and Campaign "
 "dev.) ou contactez l'auteur sur le channel wesnoth-"
 "umc-dev IRC de Freenode.\n"
 "\n"
-"ó L'auteur"
+"‚Äï L'auteur"
 
 #. [message]: speaker=narrator
 #: The_Silver_Lands/utils/scenario-utils.cfg:149
@@ -4857,16 +4882,16 @@ msgid ""
 "Lands' (Scenario and Campaign dev. forum) (which does not exist yet) or "
 "contact the author on the wesnoth-umc-dev IRC channel on Freenode.\n"
 "\n"
-"ó The author"
+"‚Äî The author"
 msgstr ""
-"Ce scenario est encore en cours de dÈveloppement. Si vous souhaitez avancer plus loin dans "
-"cette campagne, plutÙt que de la tester ou la dÈbugger ici, il est recommandÈ "
-"de revenir ‡ un scenario prÈcÈdent et de sÈlectionner la branche normale et "
-"complËte. Les commentaires se font au www.wesnoth.org forum 'The Silver "
+"Ce scenario est encore en cours de d√©veloppement. Si vous souhaitez avancer plus loin dans "
+"cette campagne, plut√¥t que de la tester ou la d√©bugger ici, il est recommand√© "
+"de revenir √† un scenario pr√©c√©dent et de s√©lectionner la branche normale et "
+"compl√®te. Les commentaires se font au www.wesnoth.org forum 'The Silver "
 "Lands' (forum Scenario and Campaign dev.) ou "
 "contactez l'auteur sur le channel wesnoth-umc-dev IRC de Freenode.\n"
 "\n"
-"ó L'auteur"
+"‚Äï L'auteur"
 
 #. [time]: id=v_underground
 #. [illuminated_time]: id=v_underground_illum
@@ -4885,12 +4910,12 @@ msgstr "A couvert"
 #. [time]: id=neutral_tod
 #: The_Silver_Lands/utils/schedules.cfg:92
 msgid "Neutral time of day"
-msgstr "PÈriode neutre de la journÈe"
+msgstr "P√©riode neutre de la journ√©e"
 
 #. [time]: id=dawn1
 #: The_Silver_Lands/utils/schedules.cfg:105
 msgid "First Dawn"
-msgstr "PremiËre Aube"
+msgstr "Premi√®re Aube"
 
 #. [time]: id=morning1
 #: The_Silver_Lands/utils/schedules.cfg:118
@@ -4910,7 +4935,7 @@ msgstr "Premier Soir"
 #. [time]: id=dusk1
 #: The_Silver_Lands/utils/schedules.cfg:148
 msgid "First Dusk"
-msgstr "Premier CrÈpuscule"
+msgstr "Premier Cr√©puscule"
 
 #. [time]: id=short_dark
 #: The_Silver_Lands/utils/schedules.cfg:161
@@ -4940,51 +4965,51 @@ msgstr "Second Soir"
 #. [time]: id=dusk2
 #: The_Silver_Lands/utils/schedules.cfg:217
 msgid "Second Dusk"
-msgstr "Second CrÈpuscule"
+msgstr "Second Cr√©puscule"
 
 #. [time]: id=long_dark1
 #: The_Silver_Lands/utils/schedules.cfg:230
 msgid "The Long Dark - First Watch"
-msgstr "La Longue Nuit - Premier quart"
+msgstr "La Longue Nuit ‚Äî Premier quart"
 
 #. [time]: id=long_dark2
 #: The_Silver_Lands/utils/schedules.cfg:243
 msgid "The Long Dark - Second Watch"
-msgstr "La Longue Nuit - DeuxiËme quart"
+msgstr "La Longue Nuit ‚Äî Deuxi√®me quart"
 
 #. [time]: id=long_dark3
 #: The_Silver_Lands/utils/schedules.cfg:256
 msgid "The Long Dark - Third Watch"
-msgstr "La Longue Nuit - TroisiËme quart"
+msgstr "La Longue Nuit ‚Äî Troisi√®me quart"
 
 #. [time]: id=long_dark4
 #: The_Silver_Lands/utils/schedules.cfg:269
 msgid "The Long Dark - Fourth Watch"
-msgstr "La Longue Nuit - QuatriËme quart"
+msgstr "La Longue Nuit ‚Äî Quatri√®me quart"
 
 #: The_Silver_Lands/utils/special-notes.cfg:7
 msgid ""
 " This unit will recover 3 HP per turn when on lava, sandy or desert terrain. "
 "The effects of poison will not be prolonged or cured."
 msgstr ""
-" L'unitÈ se soigne de 3 PV par tour sur de la lave, ou du sable. "
-"Les effets du poison ne sont ni ralentis, ni guÈris."
+" L'unit√© se soigne de 3 PV par tour sur de la lave, ou du sable. "
+"Les effets du poison ne sont ni ralentis, ni gu√©ris."
 
 #: The_Silver_Lands/utils/special-notes.cfg:10
 msgid ""
 " This unit will recover 3 HP per turn when on watery terrain. The effects of "
 "poison will not be prolonged or cured."
 msgstr ""
-" L'unitÈ se soigne de 3 PV par tour en terrain aqueux. Les effets du "
-"poison ne sont ni ralentis, ni guÈris."
+" L'unit√© se soigne de 3 PV par tour en terrain aqueux. Les effets du "
+"poison ne sont ni ralentis, ni gu√©ris."
 
 #: The_Silver_Lands/utils/special-notes.cfg:13
 msgid ""
 " This unit will recover 3 HP per turn while in a forest. The effects of "
 "poison will not be prolonged or cured."
 msgstr ""
-" L'unitÈ se soigne de 3 PV par tour en forÍt. Les effets du "
-"poison ne sont ni ralentis, ni guÈris."
+" L'unit√© se soigne de 3 PV par tour en for√™t. Les effets du "
+"poison ne sont ni ralentis, ni gu√©ris."
 
 #: The_Silver_Lands/utils/special-notes.cfg:16
 msgid ""
@@ -4992,48 +5017,48 @@ msgid ""
 "caves, or mountains, thus recovering 3 HP in the process. The effects of "
 "poison will not be prolonged or cured."
 msgstr ""
-" L'unitÈ reforme son corps en utilisant la terre des collines, "
-"des caves, ou des montagnes, rÈcupÈrant ainsi 3 PV. Les effets du "
-"poison ne sont ni ralentis, ni guÈris."
+" L'unit√© reforme son corps en utilisant la terre des collines, "
+"des caves, ou des montagnes, r√©cup√©rant ainsi 3 PV. Les effets du "
+"poison ne sont ni ralentis, ni gu√©ris."
 
 #: The_Silver_Lands/utils/special-notes.cfg:19
 msgid ""
 " This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
-" L'unitÈ obscurcit les alentours, permettant aux unitÈs chaotiques de mieux combattre, "
-"et aux unitÈs loyales de combattre moins bien."
+" L'unit√© obscurcit les alentours, permettant aux unit√©s chaotiques de mieux combattre, "
+"et aux unit√©s loyales de combattre moins bien."
 
 #: The_Silver_Lands/utils/special-notes.cfg:22
 msgid ""
 " This unit can frighten enemy units that are next to it, making them fight "
 "worse."
 msgstr ""
-" L'unitÈ peut effrayer les ennemis ‡ proximitÈ, rÈduisant ainsi leur "
-"combativitÈ."
+" L'unit√© peut effrayer les ennemis √† proximit√©, r√©duisant ainsi leur "
+"combativit√©."
 
 #: The_Silver_Lands/utils/special-notes.cfg:25
 msgid ""
 " This unit will regenerate 5 HP per turn in forest or mushroom grove "
 "terrains."
 msgstr ""
-"L'unitÈ se rÈgÈnËre de 5 PV par tour en forÍt ou en forÍt de champignons."
+"L'unit√© se r√©g√©n√®re de 5 PV par tour en for√™t ou en for√™t de champignons."
 
 #: The_Silver_Lands/utils/special-notes.cfg:28
 msgid ""
 " This unit will recover 3 HP per turn while on snowy or icy terrain. The "
 "effects of poison will not be prolonged or cured."
 msgstr ""
-" L'unitÈ se soigne de 3 PV par tour lorsqu'elle se trouve sur un terrain glacÈ ou enneigÈ. Les "
-"effets du poison ne sont ni ralentis, ni guÈris."
+" L'unit√© se soigne de 3 PV par tour lorsqu'elle se trouve sur un terrain glac√© ou enneig√©. Les "
+"effets du poison ne sont ni ralentis, ni gu√©ris."
 
 #: The_Silver_Lands/utils/special-notes.cfg:31
 msgid " Some of this unit's attacks are not available except on defense."
-msgstr " Certaines armes de cette unitÈ ne sont pas disponibles exceptÈ en dÈfense."
+msgstr " Certaines armes de cette unit√© ne sont pas disponibles except√© en d√©fense."
 
 #: The_Silver_Lands/utils/special-notes.cfg:34
 msgid " Some of this unit's attacks are not available except on offense."
-msgstr " Certaines armes de cette unitÈ ne sont pas disponibles exceptÈ en attaque."
+msgstr " Certaines armes de cette unit√© ne sont pas disponibles except√© en attaque."
 
 #: The_Silver_Lands/utils/special-notes.cfg:37
 msgid ""
@@ -5041,8 +5066,8 @@ msgid ""
 "defending however, it retaliates with heavy strikes with the front of its "
 "shield."
 msgstr ""
-" A cause de son manque d'armement, cette unitÈ ne peut pas attaquer l'ennemi. En "
-"dÈfense en revanche, elle peut contrer ses ennemis avec de lourdes attaques gr‚ce ‡ son "
+" A cause de son manque d'armement, cette unit√© ne peut pas attaquer l'ennemi. En "
+"d√©fense en revanche, elle peut contrer ses ennemis avec de lourdes attaques gr√¢ce √† son "
 "bouclier."
 
 #: The_Silver_Lands/utils/special-notes.cfg:40
@@ -5050,8 +5075,8 @@ msgid ""
 " This unit's resistances are doubled to the point of 50% resistance, "
 "weaknesses are not affected."
 msgstr ""
-" Les rÈsistances de cette unitÈ sont doublÈes jusqu'‡ un maximum de 50% de rÈsistance, "
-"les valeurs nÈgatives ne sont pas affectÈes."
+" Les r√©sistances de cette unit√© sont doubl√©es jusqu'√† un maximum de 50% de r√©sistance, "
+"les valeurs n√©gatives ne sont pas affect√©es."
 
 #: The_Silver_Lands/utils/special-notes.cfg:43
 msgid ""
@@ -5061,9 +5086,9 @@ msgid ""
 "this unit will conceal itself from enemies, only able to be revealed when an "
 "enemy unit is next to it."
 msgstr ""
-" L'unitÈ se soigne de 4 PV par tour, ou bien ne subit pas les effets du poison. Lorsqu'elle se trouve "
-"sur un terrain glacÈ ou enneigÈ l'unitÈ se soigne de 8 PV ‡ la place et Èliminera "
-"le poison. De plus, sur terrain glacÈ ou enneigÈ cette unitÈ sera camouflÈe et "
+" L'unit√© se soigne de 4 PV par tour, ou bien ne subit pas les effets du poison. Lorsqu'elle se trouve "
+"sur un terrain glac√© ou enneig√© l'unit√© se soigne de 8 PV √† la place et √©liminera "
+"le poison. De plus, sur terrain glac√© ou enneig√© cette unit√© sera camoufl√©e et "
 "visible de ses ennemis uniquement lorsque ceux-ci se trouveront sur une case "
 "adjacente."
 
@@ -5072,16 +5097,16 @@ msgid ""
 " This unit will recover 8 HP per turn when on aquatic terrain. If this unit "
 "is poisoned it will be cured of it instead."
 msgstr ""
-" L'unitÈ se soigne de 8 PV par tour lorsque qu'elle se trouve sur un terrain aqueux. Si elle "
-"est empoisonnÈe, elle Èlimine le poison au lieu de se soigner."
+" L'unit√© se soigne de 8 PV par tour lorsque qu'elle se trouve sur un terrain aqueux. Si elle "
+"est empoisonn√©e, elle √©limine le poison au lieu de se soigner."
 
 #: The_Silver_Lands/utils/special-notes.cfg:49
 msgid ""
 " This unit will recover 8 HP per turn when on earthy terrain or vegetated "
 "terrain. If this unit is poisoned it will be cured of it instead."
 msgstr ""
-" L'unitÈ se soigne de 8 PV par tour lorsque qu'elle se trouve sur des collines, des montagnes, "
-"ou de la vÈgÈtation. Si elle est empoisonnÈe, elle Èlimine le poison au lieu de se soigner."
+" L'unit√© se soigne de 8 PV par tour lorsque qu'elle se trouve sur des collines, des montagnes, "
+"ou de la v√©g√©tation. Si elle est empoisonn√©e, elle √©limine le poison au lieu de se soigner."
 
 #: The_Silver_Lands/utils/special-notes.cfg:52
 msgid ""
@@ -5089,23 +5114,23 @@ msgid ""
 "will be struck with fear, thus the damage dealt by their retaliation will be "
 "weakened."
 msgstr ""
-"En attaque cette unitÈ peut frapper d'effroi sa cible, rÈduisant les dommages "
-"infligÈs en retour."
+"En attaque cette unit√© peut frapper d'effroi sa cible, r√©duisant les dommages "
+"inflig√©s en retour."
 
 #: The_Silver_Lands/utils/special-notes.cfg:55
 msgid ""
 " This unit can fly over the terrain and over any impediments such as the "
 "snow, chasms and sand..."
 msgstr ""
-" Cette unitÈ peut voler par dessus les terrains accidentÈs ou les obstacles tels que la "
-"neige, les prÈcipices ou le sable..."
+" Cette unit√© peut voler par dessus les terrains accident√©s ou les obstacles tels que la "
+"neige, les pr√©cipices ou le sable‚Ä¶"
 
 #: The_Silver_Lands/utils/special-notes.cfg:58
 msgid ""
 " While defending this unit's counter attacks will always have a 60% chance "
 "to hit."
 msgstr ""
-" En dÈfense, les contre-attaques de cette unitÈ auront toujours au moins 60% de chance "
+" En d√©fense, les contre-attaques de cette unit√© auront toujours au moins 60% de chance "
 "de toucher leur cible."
 
 #. [part]
@@ -5120,14 +5145,14 @@ msgid ""
 "campaigns or read their storylines, be warned that this campaign may spoil "
 "your fun if you ever play those campaigns in the future."
 msgstr ""
-"Certains scÈnarios de cette campagne ne sont pas aussi directs que dans la plupart "
-"des autres campagnes, donc examinez avec attention les conditions de victoire de chaque scÈnario. "
-"A moins que cela ne soit nÈcessaire, je vous recommanderais de ne pas Èradiquez ‡ vue le moindre "
-"ennemi rencontrÈ. De plus, je vous recommanderais de jouer <i>Sous les Soleils "
-"Br˚lants</i> et <i>L'Obscure Invasion</i>, de faÁon "
-"‡ comprendre l'intrigue de cette campagne. Si vous n'avez jouÈ aucune de ces "
-"campagnes ou lu leur scÈnario, soyez averti que cette campagne pourrait g‚cher "
-"votre plaisir si vous venez ‡ jouer ces campagnes ‡ l'avenir."
+"Certains sc√©narios de cette campagne ne sont pas aussi directs que dans la plupart "
+"des autres campagnes, donc examinez avec attention les conditions de victoire de chaque sc√©nario. "
+"A moins que cela ne soit n√©cessaire, je vous recommanderais de ne pas √©radiquez √† vue le moindre "
+"ennemi rencontr√©. De plus, je vous recommanderais de jouer <i>Sous les Soleils "
+"Br√ªlants</i> et <i>L'Obscure Invasion</i>, de fa√ßon "
+"√† comprendre l'intrigue de cette campagne. Si vous n'avez jou√© aucune de ces "
+"campagnes ou lu leur sc√©nario, soyez averti que cette campagne pourrait g√¢cher "
+"votre plaisir si vous venez √† jouer ces campagnes √† l'avenir."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:21
@@ -5135,8 +5160,8 @@ msgid ""
 "Also, you should only play Episode II if you have played Episode I at least "
 "once. Otherwise, you may not understand the plot that well."
 msgstr ""
-"Aussi, vous ne devriez jouer l'Episode II que si vous avez jouÈ l'Episode I une fois "
-"au moins. Autrement, vous risquez d'avoir des difficultÈs ‡ suivre l'intrigue."
+"Aussi, vous ne devriez jouer l'Episode II que si vous avez jou√© l'Episode I une fois "
+"au moins. Autrement, vous risquez d'avoir des difficult√©s √† suivre l'intrigue."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:37
@@ -5147,10 +5172,10 @@ msgid ""
 "the great evil; one of these entities is the Iron Council and the forces who "
 "are still loyal to them."
 msgstr ""
-"Je suis ici pour vous conter l'histoire qui s'est produite aprËs la chute de l'Empire du Chaos. "
-"Il a ÈtÈ prÈtendu qu'avec la fin de l'Empire du Chaos vint la fin des "
-"souffrances et du dÈsespoir. Cependant, certains sont restÈs fidËles au "
-"mal absolu; une de ces entitÈs est le Conseil de Fer ainsi que les forces qui "
+"Je suis ici pour vous conter l'histoire qui s'est produite apr√®s la chute de l'Empire du Chaos. "
+"Il a √©t√© pr√©tendu qu'avec la fin de l'Empire du Chaos vint la fin des "
+"souffrances et du d√©sespoir. Cependant, certains sont rest√©s fid√®les au "
+"mal absolu; une de ces entit√©s est le Conseil de Fer ainsi que les forces qui "
 "leur sont toujours loyales."
 
 #. [part]
@@ -5161,21 +5186,21 @@ msgid ""
 "illusion and mist. This area was the home to an order of mages, the "
 "Elementalrias order."
 msgstr ""
-"Notre histoire commence, vingt annÈes aprËs que l'Empire soit tombÈ; le lieu "
-"ou tout commence est une superbe vallÈe retirÈe, enveloppÈe "
-"d'illusion et de brumes mystiques. Cette rÈgion est le foyer d'un ordre de mages, "
-"l'ordre des ElÈmentalrias."
+"Notre histoire commence, vingt ann√©es apr√®s que l'Empire soit tomb√©; le lieu "
+"ou tout commence est une superbe vall√©e retir√©e, envelopp√©e "
+"d'illusion et de brumes mystiques. Cette r√©gion est le foyer d'un ordre de mages, "
+"l'ordre des El√©mentalrias."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:43
 msgid ""
 "I am going to read from the best source of the story, from the diary of the "
 "person who experienced it himself, the great Sorum'tar! Now children, listen "
-"very carefully as I readÖ OR ELSE ALL OF YOU WILL FAIL THE TEST!"
+"very carefully as I read‚Ä¶ OR ELSE ALL OF YOU WILL FAIL THE TEST!"
 msgstr ""
 "Je vais vous narrer l'histoire selon la plus pure de ses sources, depuis le journal intime de la "
-"personne qui la vÈcut elle-mÍme, le grand Sorum'tar ! Maintenant les enfants, Ècoutez "
-"bien attentivement pendant que je lisÖ OU BIEN VOUS TOUS ECHOUEREZ LE TEST !"
+"personne qui la v√©cut elle-m√™me, le grand Sorum'tar ! Maintenant les enfants, √©coutez "
+"bien attentivement pendant que je lis¬Ö OU BIEN VOUS TOUS ECHOUEREZ LE TEST !"
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:48
@@ -5185,14 +5210,14 @@ msgid ""
 "I never knew my parents due to the fact my clan was slaughtered by the Chaos "
 "Empire. The only family I ever had would be the Elementalrias order of "
 "mages; my fatherly figure was Master Tyramos, who was the grand master of "
-"the Elementalrias orderÖ for as long as I can remember."
+"the Elementalrias order‚Ä¶ for as long as I can remember."
 msgstr ""
-"Salut ‡ toi qui lit ce journal, mon nom est Sorum'tar ; je suis un orc. "
+"Salut √† toi qui lit ce journal, mon nom est Sorum'tar ; je suis un orc. "
 "Oh ne pense pas que je sois un de ces sauvages malfaisant dont tu as souvent pu entendre dans les contes ancients. "
-"Je n'ai jamais connu mes parents car mon clan a ÈtÈ massacrÈ par l'Empire "
-"du Chaos. La seule famille avec laquelle je pourrais Ítre apparentÈe est celle de l'ordre des mages "
-"ElÈmentalrias ; ma seule figure paternelle MaÓtre Tyramos, qui Ètait le grand maÓtre de "
-"l'ordre des ElÈmentalriasÖ pour autant que je me souvienne."
+"Je n'ai jamais connu mes parents car mon clan a √©t√© massacr√© par l'Empire "
+"du Chaos. La seule famille avec laquelle je pourrais √™tre apparent√©e est celle de l'ordre des mages "
+"El√©mentalrias ; ma seule figure paternelle Ma√Ætre Tyramos, qui √©tait le grand ma√Ætre de "
+"l'ordre des El√©mentalrias‚Ä¶ pour autant que je me souvienne."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:51
@@ -5204,11 +5229,11 @@ msgid ""
 "of elemental energy. However, most people simply looked at the order's "
 "existence as a mere myth."
 msgstr ""
-"L'ordre des ElÈmentalrias <i>Ètait</i> un ordre de mages dÈvolus ‡ la "
-"magie ÈlÈmentaire. L'ordre des ElÈmentalrias n'Ètait pas trËs connu en dehors des "
-"Terres du Nord, cependant l‡ o˘ il Ètait connu, il l'Ètait principalement pour sa "
-"capacitÈ ‡ crÈer et contrÙler les <i>ÈlÈmentaires</i>, crÈatures composÈes "
-"d'Ènergie ÈlÈmentaire. Cependant, la plupart des gens ne voyait dans l'existence "
+"L'ordre des El√©mentalrias <i>√©tait</i> un ordre de mages d√©volus √† la "
+"magie √©l√©mentaire. L'ordre des El√©mentalrias n'√©tait pas tr√®s connu en dehors des "
+"Terres du Nord, cependant l√† o√π il √©tait connu, il l'√©tait principalement pour sa "
+"capacit√© √† cr√©er et contr√¥ler les <i>√©l√©mentaires</i>, cr√©atures compos√©es "
+"d'√©nergie √©l√©mentaire. Cependant, la plupart des gens ne voyait dans l'existence "
 "de l'ordre qu'un vague mythe."
 
 #. [part]
@@ -5221,25 +5246,25 @@ msgid ""
 "those who dabble in elemental magic, since, those who possess pure aura "
 "would not have a weakness in any of the elements."
 msgstr ""
-"Au dÈbut, je n'Ètait pas trËs douÈ avec la magie des ElÈmentalrias. "
-"Cependant, lorsqu'ils dÈcouvrirent que j'avais une aura pure, ils firent "
-"plus attention ‡ moi et m'aidËrent. Gr‚ce ‡ cela, je fus capable de grands progrËs. "
-"Tu pourrais te demander ce qui Ètait si bien dans le fait de possÈder une aura pure. Et bien, c'est bÈnÈfique ‡ "
-"ceux qui jouent avec la magie ÈlÈmentaire, car ceux qui possËdent une aura pure "
-"n'ont des lacunes dans aucun des ÈlÈments."
+"Au d√©but, je n'√©tait pas tr√®s dou√© avec la magie des El√©mentalrias. "
+"Cependant, lorsqu'ils d√©couvrirent que j'avais une aura pure, ils firent "
+"plus attention √† moi et m'aid√®rent. Gr√¢ce √† cela, je fus capable de grands progr√®s. "
+"Tu pourrais te demander ce qui √©tait si bien dans le fait de poss√©der une aura pure. Et bien, c'est b√©n√©fique √† "
+"ceux qui jouent avec la magie √©l√©mentaire, car ceux qui poss√®dent une aura pure "
+"n'ont des lacunes dans aucun des √©l√©ments."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:57
 msgid ""
-"It was horribleÖ Everyone died, including Master Tyramos. Nobody was there, "
-"except for a Dark SorcererÖ I silently cried, as my entire family was "
+"It was horrible‚Ä¶ Everyone died, including Master Tyramos. Nobody was there, "
+"except for a Dark Sorcerer‚Ä¶ I silently cried, as my entire family was "
 "murdered. As I cried, I thought to myself, <i>'How could this have happened? "
 "How could they find this area and pierce through the concealing mist and "
 "illusion? How!'</i>"
 msgstr ""
-"Ce fut atroceÖ Tout le monde Ètait mort, y compris MaÓtre Tyramos. Il ne restait plus personne, "
-"exceptÈ un Sorcier des TÈnËbresÖ Je pleurai en silence, tandis que ma famille tout entiËre "
-"Ètait assassinÈe. Pendant que je pleurais, je me disais, <i>'Comment cela a-t-il pu se produire ? "
+"Ce fut atroce‚Ä¶ Tout le monde √©tait mort, y compris Ma√Ætre Tyramos. Il ne restait plus personne, "
+"except√© un Sorcier des T√©n√®bres‚Ä¶ Je pleurai en silence, tandis que ma famille tout enti√®re "
+"√©tait assassin√©e. Pendant que je pleurais, je me disais, <i>'Comment cela a-t-il pu se produire ? "
 "Comment ont-ils pu trouver cet endroit et percer le brouillard et l'illusion "
 "qui nous cachaient ? Comment !'</i>"
 
@@ -5253,11 +5278,11 @@ msgid ""
 "Palace. Master Tyramos told me that the Ice Palace housed the one who rules "
 "over all of the snow and ice in existence."
 msgstr ""
-"AprËs que Shiri'ima mourut mystÈrieusement sous le pouvoir Ètrange de celui connu sous le nom "
-"de Zeal, MaÓtre Tyramos dÈcida que nous devions nous diriger vers la rÈgion connue sous le nom de "
-"Dramalida. Tout ce que je savais, c'Ètait qu'elle Ètait principalement gelÈe et que "
-"l'un de ses b‚timents Ètait trËs importantes aux ElÈmantalrias, le Palais de "
-"Glace. MaÓtre Tyramos me racontait que le Palais de Glace renfermait celui qui rÈgnait "
+"Apr√®s que Shiri'ima mourut myst√©rieusement sous le pouvoir √©trange de celui connu sous le nom "
+"de Zeal, Ma√Ætre Tyramos d√©cida que nous devions nous diriger vers la r√©gion connue sous le nom de "
+"Dramalida. Tout ce que je savais, c'√©tait qu'elle √©tait principalement gel√©e et que "
+"l'un de ses b√¢timents √©tait tr√®s importantes aux El√©mantalrias, le Palais de "
+"Glace. Ma√Ætre Tyramos me racontait que le Palais de Glace renfermait celui qui r√©gnait "
 "sur tout ce qui existait sous forme de neige ou de glace."
 
 #. [part]
@@ -5265,17 +5290,17 @@ msgstr ""
 msgid ""
 "When we left the Valley of Mist and headed to the Northern Forest I "
 "remembered when I was taught about what happened after the catastrophe that "
-"occurred after the third sun, Gaia fellÖ One of the effects was the fact "
+"occurred after the third sun, Gaia fell‚Ä¶ One of the effects was the fact "
 "that many of the forests were reduced to mere desert. Some of the forests, "
 "including the Northern Forest, were restored by some of the earliest members "
 "of the Elementalrias."
 msgstr ""
-"Lorsque nous quitt‚mes la VallÈe des Brumes pour nous diriger vers la ForÍt du Nord, je "
-"me souvint du moment o˘ l'on m'avait appris ce qui s'Ètait passÈ aprËs la catastrophe qui "
-"s'Ètait produite aprËs la chute du troisiËme soleil, GaiaÖ L'un des effets fut "
-"que de nombreuses forÍts furent reduites ‡ de simples dÈserts. Quelques unes des forÍts, "
-"dont la ForÍt du Nord, furent restorÈes par quelques uns des premiers membres "
-"des ElÈmentalrias."
+"Lorsque nous quitt√¢mes la Vall√©e des Brumes pour nous diriger vers la For√™t du Nord, je "
+"me souvint du moment o√π l'on m'avait appris ce qui s'√©tait pass√© apr√®s la catastrophe qui "
+"s'√©tait produite apr√®s la chute du troisi√®me soleil, Gaia‚Ä¶ L'un des effets fut "
+"que de nombreuses for√™ts furent reduites √† de simples d√©serts. Quelques unes des for√™ts, "
+"dont la For√™t du Nord, furent restor√©es par quelques uns des premiers membres "
+"des El√©mentalrias."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:73
@@ -5283,16 +5308,16 @@ msgid ""
 "After walking through the forest nonstop for about thirty minutes, the sun "
 "started to set. I noticed that the crepuscular denizens of the forest were "
 "quite erratic. About ten minutes later, the forest got unnaturally dark "
-"quickly; in addition, it was getting very mistyÖ I even had the feeling that "
+"quickly; in addition, it was getting very misty‚Ä¶ I even had the feeling that "
 "something evil was watching me; the fluttering that I kept hearing from time "
 "to time enforced this thought."
 msgstr ""
-"AprËs avoir avoir arpentÈ la forÍt pendant environ trente minutes, le soleil "
-"commenÁa ‡ se coucher. Je remarquai que la faune crÈpusculaire de la forÍt Ètait "
-"tout ‡ fait erratique. A peu prËs dix minutes plus tard, la forÍt devint rapidement "
-"et anormalement sombre ; de plus, elle devint trËs brumeuseÖ J'avais mÍme la sensation que "
+"Apr√®s avoir avoir arpent√© la for√™t pendant environ trente minutes, le soleil "
+"commen√ßa √† se coucher. Je remarquai que la faune cr√©pusculaire de la for√™t √©tait "
+"tout √† fait erratique. A peu pr√®s dix minutes plus tard, la for√™t devint rapidement "
+"et anormalement sombre ; de plus, elle devint tr√®s brumeuse¬Ö J'avais m√™me la sensation que "
 "quelque chose de malfaisant m'observait ; les bruissements que je ne cessais d'entendre de temps "
-"en temps me renforcËrent dans cette idÈe."
+"en temps me renforc√®rent dans cette id√©e."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:76
@@ -5300,14 +5325,14 @@ msgid ""
 "Eventually, we decided to stop and rest for a while. Just before I went to "
 "sleep, I saw a large black bat preparing to cling onto a tree branch with "
 "its claws, so that it would be able to go to sleep. When it finished "
-"clinging to itself to the branch, it gazed at me with its creepy red eyesÖ I "
-"even had a thought that it would malevolently smile at me if it couldÖ"
+"clinging to itself to the branch, it gazed at me with its creepy red eyes‚Ä¶ I "
+"even had a thought that it would malevolently smile at me if it could‚Ä¶"
 msgstr ""
-"Finalement, nous dÈcid‚mes de nous arrÍter et de nous reposer un moment. Juste avant de "
-"m'endormir, je vis une grande chauve-souris noire qui se prÈparait ‡ s'accrocher ‡ une branche d'arbre avec "
+"Finalement, nous d√©cid√¢mes de nous arr√™ter et de nous reposer un moment. Juste avant de "
+"m'endormir, je vis une grande chauve-souris noire qui se pr√©parait √† s'accrocher √† une branche d'arbre avec "
 "ses griffes, afin de se positionner pour dormir. Lorsqu'elle finit "
-"de s'agripper ‡ la branche, elle me contempla de ses affreux yeux rougesÖ Je "
-"crut mÍme un instant qu'elle m'aurait diaboliquement souri si cela avait ÈtÈ possibleÖ"
+"de s'agripper √† la branche, elle me contempla de ses affreux yeux rouges‚Ä¶ Je "
+"crut m√™me un instant qu'elle m'aurait diaboliquement souri si cela avait √©t√© possible‚Ä¶"
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:86
@@ -5315,14 +5340,14 @@ msgid ""
 "Thankfully, we were able to defeat the loyalists. When we vanquished the "
 "lich, I was initially surprised to find that the spirit bound to it was an "
 "elf. I read the journal she gave to us. According to it, her name was "
-"Ameri‰lis. She was an Elvish Sylph óa very powerful sage that is capable of "
-"great featsó before she became a lich."
+"Ameri√§lis. She was an Elvish Sylph ‚Äîa very powerful sage that is capable of "
+"great feats‚Äî before she became a lich."
 msgstr ""
-"Heureusement, nous parvÓnmes ‡ dÈfaire les loyalistes. Lorsque nous vainquÓmes la "
-"liche, je fus tout d'abord surpris de constater que l'esprit qui lui Ètait liÈ Ètait celui d'une "
-"elfe. Je lus le journal qu'elle nous avais laissÈ. Selon lui, son nom Ètait "
-"Ameri‰lis. Elle Ètait une Sylphide Elfe óun puissant sage capable de "
-"grandes prouessesó avant de devenir une liche."
+"Heureusement, nous parv√Ænmes √† d√©faire les loyalistes. Lorsque nous vainqu√Æmes la "
+"liche, je fus tout d'abord surpris de constater que l'esprit qui lui √©tait li√© √©tait celui d'une "
+"elfe. Je lus le journal qu'elle nous avais laiss√©. Selon lui, son nom √©tait "
+"Ameri√§lis. Elle √©tait une Sylphide Elfe ‚Äîun puissant sage capable de "
+"grandes prouesses‚Äî avant de devenir une liche."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:89
@@ -5332,10 +5357,10 @@ msgid ""
 "highly hostile humans ruled by three vile necromancers... she... was being "
 "pursued."
 msgstr ""
-"Son journal nous raconta ses nombreuses aventures. La derniËre note datait de quelques "
-"centaines d'annÈes. Elle mentionnait qu'elle avait pÈnÈtrÈ le territoire d'humains "
-"extrÍmement hostiles et diridÈs par trois nÈcromanciens malfaisants... elle... Ètait "
-"en train d'Ítre poursuivie."
+"Son journal nous raconta ses nombreuses aventures. La derni√®re note datait de quelques "
+"centaines d'ann√©es. Elle mentionnait qu'elle avait p√©n√©tr√© le territoire d'humains "
+"extr√™mement hostiles et dirid√©s par trois n√©cromanciens malfaisants... elle... √©tait "
+"en train d'√™tre poursuivie."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:92
@@ -5345,9 +5370,9 @@ msgid ""
 "captured her, and somehow corrupted her mind. Luckily, we freed her from her "
 "accursed prison."
 msgstr ""
-"Ainsi qu'elle le mentionna lorsque nous la libÈr‚mes de sa vile forme physique, elle... se sentit "
-"libÈrÈe. Par consÈquent, je supposai que les hommes qui la pourchassaient... "
-"l'avaient capturÈ, and d'une quelconque faÁon avaient corrompu son esprit. Heureusement, nous f˚mes l‡ pour la libÈrer de "
+"Ainsi qu'elle le mentionna lorsque nous la lib√©r√¢mes de sa vile forme physique, elle... se sentit "
+"lib√©r√©e. Par cons√©quent, je supposai que les hommes qui la pourchassaient... "
+"l'avaient captur√©, and d'une quelconque fa√ßon avaient corrompu son esprit. Heureusement, nous f√ªmes l√† pour la lib√©rer de "
 "sa prison maudite."
 
 #. [part]
@@ -5356,13 +5381,13 @@ msgid ""
 "Nonetheless, we've safely made it to Dramalida. Upon entering it, I deeply "
 "gazed into the view, it was beautiful. It is a wonderful, yet icy paradise."
 msgstr ""
-"Et pourtant, nous arriv‚mes sains et saufs a Dramalida. DËs mon entrÈe, je  "
-"contemplait profondÈment la citÈ, c'Ètait magnifique. C'Ètait un paradis merveilleux, en dÈpit de la glace."
+"Et pourtant, nous arriv√¢mes sains et saufs a Dramalida. D√®s mon entr√©e, je  "
+"contemplait profond√©ment la cit√©, c'√©tait magnifique. C'√©tait un paradis merveilleux, en d√©pit de la glace."
 
 #. [part]
 #: The_Silver_Lands/utils/storytxt.cfg:98
 msgid "Hopefully, we will be able to make it to the Ice Palace."
-msgstr "Avec un peu de chance, nous parviendrons jusqu'au Palais de Glace."
+msgstr "Avec un peu de chance, nous parviendrons jusqu'au Palais de Glace"
 
 #. [trait]: id=ruby
 #: The_Silver_Lands/utils/traits.cfg:7
@@ -5387,18 +5412,18 @@ msgstr "saphir"
 #. [trait]: id=emerald
 #: The_Silver_Lands/utils/traits.cfg:61
 msgid "emerald"
-msgstr "Èmeraude"
+msgstr "√©meraude"
 
 #. [trait]: id=elemental
 #: The_Silver_Lands/utils/traits.cfg:79
 msgid "elemental"
-msgstr "ÈlÈmentaire"
+msgstr "√©l√©mentaire"
 
 #. [trait]: id=elemental
 #. [trait]: id=biomechanical
 #: The_Silver_Lands/utils/traits.cfg:80 The_Silver_Lands/utils/traits.cfg:156
 msgid "Immune to drain, poison and plague"
-msgstr "ImmunisÈ au drain, poison et peste"
+msgstr "Immunis√© au drain, poison et peste"
 
 #. [trait]: id=vampire
 #: The_Silver_Lands/utils/traits.cfg:93
@@ -5408,52 +5433,52 @@ msgstr "vampire"
 #. [trait]: id=vampire
 #: The_Silver_Lands/utils/traits.cfg:94
 msgid "female^vampiress"
-msgstr "female^vampire"
+msgstr "vampire"
 
 #. [trait]: id=vampire
 #: The_Silver_Lands/utils/traits.cfg:95
 msgid "Vampires cannot be victims of drain, plague or poison."
-msgstr "Les vampires ne peuvent pas Ítre victimes du drain, de la peste ou du poison."
+msgstr "Les vampires ne peuvent pas √™tre victimes du drain, de la peste ou du poison."
 
 #. [trait]: id=obedient
 #: The_Silver_Lands/utils/traits.cfg:106
 msgid "obedient"
-msgstr "obÈissant"
+msgstr "ob√©issant"
 
 #. [trait]: id=obedient
 #: The_Silver_Lands/utils/traits.cfg:107
 msgid "female^obedient"
-msgstr "female^obÈissante"
+msgstr "ob√©issante"
 
 #. [trait]: id=obedient
 #: The_Silver_Lands/utils/traits.cfg:108
 msgid "Zero upkeep"
-msgstr "Pas de co˚t d'entretien"
+msgstr "Pas de co√ªt d'entretien"
 
 #. [trait]: id=armored
 #: The_Silver_Lands/utils/traits.cfg:127
 msgid "armored"
-msgstr "blindÈ"
+msgstr "blind√©"
 
 #. [trait]: id=armored
 #: The_Silver_Lands/utils/traits.cfg:128
 msgid "female^armored"
-msgstr "female^blindÈe"
+msgstr "blind√©e"
 
 #. [trait]: id=armored
 #: The_Silver_Lands/utils/traits.cfg:129
 msgid "+15% bonus for all resistances (except arcane), -1 movement points"
-msgstr "+15% de bonus pour toutes les resistances (exceptÈ arcane), -1 point de mouvement"
+msgstr "+15% de bonus pour toutes les resistances (except√© arcane), -1 point de mouvement"
 
 #. [trait]: id=biomechanical
 #: The_Silver_Lands/utils/traits.cfg:153
 msgid "biomechanical"
-msgstr "biomÈcanique"
+msgstr "biom√©canique"
 
 #. [trait]: id=biomechanical
 #: The_Silver_Lands/utils/traits.cfg:154
 msgid "female^biomechanical"
-msgstr "female^biomÈcanique"
+msgstr "biom√©canique"
 
 #. [damage]: id=dread
 #: The_Silver_Lands/utils/weapon-specials.cfg:7
@@ -5469,8 +5494,8 @@ msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
-"Effroi:\n"
-"Lorsque cette arme est utilisÈe en attaque, cette unitÈ reÁoit un tiers de dÈgats en moins "
+"Effroi :\n"
+"Lorsque cette arme est utilis√©e en attaque, cette unit√© re√ßoit un tiers de d√©gats en moins "
 "en retour."
 
 #. [chance_to_hit]: id=counter
@@ -5486,8 +5511,8 @@ msgid ""
 "Counter:\n"
 "When used defensively, this attack always has at least a 60% chance to hit."
 msgstr ""
-"Contre:\n"
-"UtilisÈe dÈfensivement, cette attaque a toujours au moins 60% de chance toucher sa cible."
+"Contre :\n"
+"Utilis√©e d√©fensivement, cette attaque a toujours au moins 60% de chance toucher sa cible."
 
 #. [damage]: id=attack_only
 #: The_Silver_Lands/utils/weapon-specials.cfg:42
@@ -5503,12 +5528,12 @@ msgid ""
 "This weapon will never be used on defense."
 msgstr ""
 "Attaque uniquement :\n"
-"Cette arme ne sera jamais utilisÈe en dÈfense."
+"Cette arme ne sera jamais utilis√©e en d√©fense."
 
 #: The_Silver_Lands/utils/weapon-specials.cfg:61
 #: The_Silver_Lands/utils/weapon-specials.cfg:62
 msgid "defend only"
-msgstr "dÈfense uniquement"
+msgstr "d√©fense uniquement"
 
 #: The_Silver_Lands/utils/weapon-specials.cfg:64
 #: The_Silver_Lands/utils/weapon-specials.cfg:66
@@ -5516,6 +5541,5 @@ msgid ""
 "Defend only:\n"
 "This weapon will only be available for defense."
 msgstr ""
-"DÈfense uniquement :\n"
-"Cette arme sera utilisÈe seulement en dÈfense."
-
+"D√©fense uniquement :\n"
+"Cette arme sera utilis√©e seulement en d√©fense."
