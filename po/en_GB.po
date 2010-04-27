@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-11-14 13:52+0100\n"
-"PO-Revision-Date: 2010-04-27 17:49-0500\n"
+"PO-Revision-Date: 2010-04-27 18:28-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -5100,31 +5100,17 @@ msgstr "dementia gaze"
 #. [unit_type]: id=Vampire Duelist, race=vampire
 #: The_Silver_Lands/units/vampires/Duelist.cfg:5
 msgid "Duelist"
-msgstr "Duelist"
+msgstr "Duellist"
 
 #. [unit_type]: id=Vampire Duelist, race=vampire
 #: The_Silver_Lands/units/vampires/Duelist.cfg:20
-msgid ""
-"Vampires have always had a somewhat upper-class manner. This transfers over "
-"to their style of fighting too. The vampires without the family or "
-"leadership to become lords make themselves useful to a lord that can ensure "
-"they always have a fresh supply of blood. Those who do this are known as "
-"duelists. Their masters use them as guards and assassins. The wear not "
-"armor, but focus on rapid pinpoint fencing which they carry out with inhuman "
-"accuracy."
-msgstr ""
-"Vampires have always had a somewhat upper-class manner. This transfers over "
-"to their style of fighting too. The vampires without the family or "
-"leadership to become lords make themselves useful to a lord that can ensure "
-"they always have a fresh supply of blood. Those who do this are known as "
-"duelists. Their masters use them as guards and assassins. The wear not "
-"armour, but focus on rapid pinpoint fencing which they carry out with "
-"inhuman accuracy."
+msgid "Vampires have always had a somewhat upper-class manner. This transfers over to their style of fighting too. The vampires without the family or leadership to become lords make themselves useful to a lord that can ensure they always have a fresh supply of blood. Those who do this are known as duelists. Their masters use them as guards and assassins. The wear not armor, but focus on rapid pinpoint fencing which they carry out with inhuman accuracy."
+msgstr "Vampires have always had a somewhat upper-class manner. This transfers over to their style of fighting too. The vampires without the family or leadership to become lords make themselves useful to a lord that can ensure they always have a fresh supply of blood. Those who do this are known as duellists. Their masters use them as guards and assassins. The wear not armour, but focus on rapid pinpoint fencing which they carry out with inhuman accuracy."
 
 #. [female]
 #: The_Silver_Lands/units/vampires/Duelist.cfg:142
 msgid "female^Duelist"
-msgstr "Duelist"
+msgstr "Duellist"
 
 #. [unit_type]: id=Fledgeling, race=vampire
 #: The_Silver_Lands/units/vampires/Fledgeling.cfg:5
@@ -5319,16 +5305,8 @@ msgstr "Sword Dancer"
 
 #. [unit_type]: id=Sword Dancer, race=vampire
 #: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:20
-msgid ""
-"Vampires live a long time, and have time to develop many social graces, "
-"including dance. Duelists who have spent extended amounts of time fighting, "
-"and dancing see similarities between the two, and combine them into a "
-"devastating and accurate form of fighting that cuts through defenses."
-msgstr ""
-"Vampires live a long time, and have time to develop many social graces, "
-"including dance. Duelists who have spent extended amounts of time fighting, "
-"and dancing see similarities between the two, and combine them into a "
-"devastating and accurate form of fighting that cuts through defences."
+msgid "Vampires live a long time, and have time to develop many social graces, including dance. Duelists who have spent extended amounts of time fighting, and dancing see similarities between the two, and combine them into a devastating and accurate form of fighting that cuts through defenses."
+msgstr "Vampires live a long time, and have time to develop many social graces, including dance. Duellists who have spent extended amounts of time fighting, and dancing see similarities between the two, and combine them into a devastating and accurate form of fighting that cuts through defences."
 
 #. [female]
 #: The_Silver_Lands/units/vampires/Sword_Dancer.cfg:142
