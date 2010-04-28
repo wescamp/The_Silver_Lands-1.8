@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-11-14 13:52+0100\n"
+"POT-Creation-Date: 2010-04-27 23:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1052,13 +1052,13 @@ msgstr ""
 msgid "Brazier"
 msgstr ""
 
-#. [terrain_type]: id=overlay-pit
 #. [time]: id=indoors_hive
 #. [illuminated_time]: id=indoors_hive_illum
 #. [terrain_type]: id=dark-hive-floor
 #. [terrain_type]: id=dark-hive-surface
 #. [terrain_type]: id=lair-floor
-#: ./The_Silver_Lands/terrain-virtual.cfg:89 ./The_Silver_Lands/utils/schedules.cfg:74 ./The_Silver_Lands/utils/schedules.cfg:84 ./The_Silver_Lands/terrain.cfg:27 ./The_Silver_Lands/terrain.cfg:35 ./The_Silver_Lands/terrain.cfg:43
+#. [terrain_type]: id=overlay-pit
+#: ./The_Silver_Lands/utils/schedules.cfg:74 ./The_Silver_Lands/utils/schedules.cfg:84 ./The_Silver_Lands/terrain.cfg:27 ./The_Silver_Lands/terrain.cfg:35 ./The_Silver_Lands/terrain.cfg:43 ./The_Silver_Lands/terrain-virtual.cfg:89
 msgid "Dark Hive"
 msgstr ""
 
@@ -1150,7 +1150,7 @@ msgid "The best of demons are noted by their greater strength and resilience, al
 msgstr ""
 
 #. [attack]: type=cold
-#: ./The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:48 ./The_Silver_Lands/units/demons/Warrior.cfg:41 ./The_Silver_Lands/units/demons/Grunt.cfg:39 ./The_Silver_Lands/units/demons/Shadow_Courier.cfg:42
+#: ./The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:48 ./The_Silver_Lands/units/demons/Grunt.cfg:39 ./The_Silver_Lands/units/demons/Warrior.cfg:41 ./The_Silver_Lands/units/demons/Shadow_Courier.cfg:42
 msgid "infernal chill"
 msgstr ""
 
@@ -1368,7 +1368,7 @@ msgid "Brazier Creations are fearsome golems made out of hardened lava. Due to b
 msgstr ""
 
 #. [attack]: type=fire
-#: ./The_Silver_Lands/units/elementals/Lava_Beast.cfg:27 ./The_Silver_Lands/units/elementals/Brazier_Whelpling.cfg:28 ./The_Silver_Lands/units/elementals/Brazier_Creation.cfg:28 ./The_Silver_Lands/units/elementals/Living_Furnace.cfg:27 ./The_Silver_Lands/units/elementals/Living_Volcano.cfg:28 ./The_Silver_Lands/units/elementals/Fire_Ghost.cfg:29
+#: ./The_Silver_Lands/units/elementals/Brazier_Whelpling.cfg:28 ./The_Silver_Lands/units/elementals/Lava_Beast.cfg:27 ./The_Silver_Lands/units/elementals/Living_Furnace.cfg:27 ./The_Silver_Lands/units/elementals/Living_Volcano.cfg:28 ./The_Silver_Lands/units/elementals/Brazier_Creation.cfg:28 ./The_Silver_Lands/units/elementals/Fire_Ghost.cfg:29
 msgid "fire claws"
 msgstr ""
 
@@ -1393,12 +1393,12 @@ msgid "Djinns are truly mighty windspirits who can decimate armies with their po
 msgstr ""
 
 #. [attack]: type=cold
-#: ./The_Silver_Lands/units/elementals/Wind_Herder.cfg:34 ./The_Silver_Lands/units/elementals/Zephyr.cfg:32 ./The_Silver_Lands/units/elementals/Djinn.cfg:35
+#: ./The_Silver_Lands/units/elementals/Djinn.cfg:35 ./The_Silver_Lands/units/elementals/Wind_Herder.cfg:34 ./The_Silver_Lands/units/elementals/Zephyr.cfg:32
 msgid "northern wind"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./The_Silver_Lands/units/elementals/Zephyr.cfg:44 ./The_Silver_Lands/units/elementals/Djinn.cfg:47
+#: ./The_Silver_Lands/units/elementals/Djinn.cfg:47 ./The_Silver_Lands/units/elementals/Zephyr.cfg:44
 msgid "tornado"
 msgstr ""
 
@@ -1408,7 +1408,7 @@ msgid "Ethereal Dragon"
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:64 ./The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:65
+#: ./The_Silver_Lands/units/elementals/Ethereal_Dragon.cfg:65 ./The_Silver_Lands/units/elementals/Ethereal_Serpent.cfg:64
 msgid "ethereal breath"
 msgstr ""
 
@@ -1436,11 +1436,11 @@ msgstr ""
 #. [unit_type]: id=Wind Herder, race=elemental
 #. [unit_type]: id=Razorbird, race=elemental
 #. [unit_type]: id=Zephyr, race=elemental
-#. [unit_type]: id=Stone Titan, race=elemental
 #. [unit_type]: id=Fire Ghost, race=elemental
-#. [unit_type]: id=Sangel, race=vampire
+#. [unit_type]: id=Stone Titan, race=elemental
 #. [unit_type]: id=Blood Manipulator, race=vampire
-#: ./The_Silver_Lands/units/elementals/Lava_Beast.cfg:19 ./The_Silver_Lands/units/elementals/Wind_Herder.cfg:20 ./The_Silver_Lands/units/elementals/Razorbird.cfg:23 ./The_Silver_Lands/units/elementals/Zephyr.cfg:19 ./The_Silver_Lands/units/elementals/Stone_Titan.cfg:32 ./The_Silver_Lands/units/elementals/Fire_Ghost.cfg:22 ./The_Silver_Lands/units/vampires/Sangel.cfg:20 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:19
+#. [unit_type]: id=Sangel, race=vampire
+#: ./The_Silver_Lands/units/elementals/Lava_Beast.cfg:19 ./The_Silver_Lands/units/elementals/Wind_Herder.cfg:20 ./The_Silver_Lands/units/elementals/Razorbird.cfg:23 ./The_Silver_Lands/units/elementals/Zephyr.cfg:19 ./The_Silver_Lands/units/elementals/Fire_Ghost.cfg:22 ./The_Silver_Lands/units/elementals/Stone_Titan.cfg:32 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:19 ./The_Silver_Lands/units/vampires/Sangel.cfg:20
 msgid "TODO..."
 msgstr ""
 
@@ -1530,23 +1530,23 @@ msgid "These mysterious beings are composed of pure, yet unstable arcane magic. 
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/elementals/Magic_Servant.cfg:53 ./The_Silver_Lands/units/vampires/Sangel.cfg:49 ./The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:49 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:48
+#: ./The_Silver_Lands/units/elementals/Magic_Servant.cfg:53 ./The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:49 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:48 ./The_Silver_Lands/units/vampires/Sangel.cfg:49
 msgid "aura wave"
 msgstr ""
 
-#. [unit_type]: id=Razorbird, race=elemental
 #. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
-#: ./The_Silver_Lands/units/elementals/Razorbird.cfg:5 ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:5
+#. [unit_type]: id=Razorbird, race=elemental
+#: ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:5 ./The_Silver_Lands/units/elementals/Razorbird.cfg:5
 msgid "Razorbird"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./The_Silver_Lands/units/elementals/Thunderbird.cfg:28 ./The_Silver_Lands/units/elementals/Razorbird.cfg:28 ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:31 ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:31
+#: ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:31 ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:31 ./The_Silver_Lands/units/elementals/Thunderbird.cfg:28 ./The_Silver_Lands/units/elementals/Razorbird.cfg:28
 msgid "beak"
 msgstr ""
 
 #. [attack]: type=blade
-#: ./The_Silver_Lands/units/elementals/Thunderbird.cfg:39 ./The_Silver_Lands/units/elementals/Razorbird.cfg:36 ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:43 ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:40
+#: ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:43 ./The_Silver_Lands/units/shaxthal/Razorbird.cfg:40 ./The_Silver_Lands/units/elementals/Thunderbird.cfg:39 ./The_Silver_Lands/units/elementals/Razorbird.cfg:36
 msgid "blade shower"
 msgstr ""
 
@@ -1586,13 +1586,13 @@ msgid "Tempest Spirits are manifestations of water that is influenced by the lik
 msgstr ""
 
 #. [attack]: type=cold
-#: ./The_Silver_Lands/units/elementals/Undine.cfg:28 ./The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:28 ./The_Silver_Lands/units/elementals/Tidal.cfg:28
+#: ./The_Silver_Lands/units/elementals/Undine.cfg:28 ./The_Silver_Lands/units/elementals/Tidal.cfg:28 ./The_Silver_Lands/units/elementals/Tempest_Spirit.cfg:28
 msgid "water punch"
 msgstr ""
 
-#. [unit_type]: id=Thunderbird, race=elemental
 #. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
-#: ./The_Silver_Lands/units/elementals/Thunderbird.cfg:5 ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:5
+#. [unit_type]: id=Thunderbird, race=elemental
+#: ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:5 ./The_Silver_Lands/units/elementals/Thunderbird.cfg:5
 msgid "Thunderbird"
 msgstr ""
 
@@ -1602,7 +1602,7 @@ msgid "Using its metal feathers the Thunderbird is able to create powerfull spar
 msgstr ""
 
 #. [attack]: type=fire
-#: ./The_Silver_Lands/units/elementals/Thunderbird.cfg:48 ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:52
+#: ./The_Silver_Lands/units/shaxthal/Thunderbird.cfg:52 ./The_Silver_Lands/units/elementals/Thunderbird.cfg:48
 msgid "thunderbolt"
 msgstr ""
 
@@ -1687,7 +1687,7 @@ msgid "Vampires like to cast strange magic on stone statues, this results in a G
 msgstr ""
 
 #. [attack]: type=impact
-#: ./The_Silver_Lands/units/gargoyles/Gargoyle.cfg:52 ./The_Silver_Lands/units/gargoyles/Gargoyle_Marlgoyle.cfg:53
+#: ./The_Silver_Lands/units/gargoyles/Gargoyle_Marlgoyle.cfg:53 ./The_Silver_Lands/units/gargoyles/Gargoyle.cfg:52
 msgid "slam"
 msgstr ""
 
@@ -1712,7 +1712,7 @@ msgid "Some goblins have discovered that the skills gained on the hunt can be pu
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./The_Silver_Lands/units/goblins-steppe/Striker.cfg:39 ./The_Silver_Lands/units/goblins-steppe/Hunter.cfg:33 ./The_Silver_Lands/units/goblins-steppe/Flanker.cfg:33
+#: ./The_Silver_Lands/units/goblins-steppe/Flanker.cfg:33 ./The_Silver_Lands/units/goblins-steppe/Hunter.cfg:33 ./The_Silver_Lands/units/goblins-steppe/Striker.cfg:39
 msgid "harpoon"
 msgstr ""
 
@@ -1821,7 +1821,7 @@ msgid "Chaos Gunner"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./The_Silver_Lands/units/humans/Chaos_Marksman.cfg:34 ./The_Silver_Lands/units/humans/Chaos_Sharpshooter.cfg:34 ./The_Silver_Lands/units/humans/Chaos_Gunner.cfg:34
+#: ./The_Silver_Lands/units/humans/Chaos_Sharpshooter.cfg:34 ./The_Silver_Lands/units/humans/Chaos_Gunner.cfg:34 ./The_Silver_Lands/units/humans/Chaos_Marksman.cfg:34
 msgid "gun"
 msgstr ""
 
@@ -1876,7 +1876,7 @@ msgid "These dark cultists whose mastery of chaos magic is impressive, are calle
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/humans/Chaos_Invoker.cfg:47 ./The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:47 ./The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:60
+#: ./The_Silver_Lands/units/humans/Chaos_Invoker_Magus.cfg:47 ./The_Silver_Lands/units/humans/Chaos_Invoker_Lore.cfg:60 ./The_Silver_Lands/units/humans/Chaos_Invoker.cfg:47
 msgid "ethereal blast"
 msgstr ""
 
@@ -2196,7 +2196,7 @@ msgstr ""
 
 #. [attack]: type=cold
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/monsters/Cockatrice.cfg:37 ./The_Silver_Lands/units/monsters/Eyestalk.cfg:62 ./The_Silver_Lands/units/monsters/Chimera.cfg:46
+#: ./The_Silver_Lands/units/monsters/Chimera.cfg:46 ./The_Silver_Lands/units/monsters/Cockatrice.cfg:37 ./The_Silver_Lands/units/monsters/Eyestalk.cfg:62
 msgid "gaze"
 msgstr ""
 
@@ -2282,12 +2282,12 @@ msgid "As Tuskers age, their already formidable teeth grow longer and more numer
 msgstr ""
 
 #. [attack]: type=blade
-#: ./The_Silver_Lands/units/monsters/Tusker.cfg:49 ./The_Silver_Lands/units/monsters/Gorer.cfg:49 ./The_Silver_Lands/units/monsters/Tusklet.cfg:49
+#: ./The_Silver_Lands/units/monsters/Gorer.cfg:49 ./The_Silver_Lands/units/monsters/Tusker.cfg:49 ./The_Silver_Lands/units/monsters/Tusklet.cfg:49
 msgid "tusks"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./The_Silver_Lands/units/monsters/Tusker.cfg:101 ./The_Silver_Lands/units/monsters/Gorer.cfg:101
+#: ./The_Silver_Lands/units/monsters/Gorer.cfg:101 ./The_Silver_Lands/units/monsters/Tusker.cfg:101
 msgid "tusk Charge"
 msgstr ""
 
@@ -2375,7 +2375,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: ./The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:40 ./The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:46 ./The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:41
+#: ./The_Silver_Lands/units/orcs-steppe/Icewind_Drover.cfg:41 ./The_Silver_Lands/units/orcs-steppe/Icewind_Master.cfg:40 ./The_Silver_Lands/units/orcs-steppe/Icewind_Herder.cfg:46
 msgid "frostbite"
 msgstr ""
 
@@ -2417,7 +2417,7 @@ msgid "Some of the Steppe Orcs aspiring to power realise that they actually have
 msgstr ""
 
 #. [attack]: type=impact
-#: ./The_Silver_Lands/units/orcs-steppe/Spearhead.cfg:24 ./The_Silver_Lands/units/orcs-steppe/Juggernaut.cfg:24 ./The_Silver_Lands/units/orcs-steppe/Khan.cfg:29 ./The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:26
+#: ./The_Silver_Lands/units/orcs-steppe/Vanguard.cfg:26 ./The_Silver_Lands/units/orcs-steppe/Khan.cfg:29 ./The_Silver_Lands/units/orcs-steppe/Juggernaut.cfg:24 ./The_Silver_Lands/units/orcs-steppe/Spearhead.cfg:24
 msgid "flail"
 msgstr ""
 
@@ -2635,7 +2635,7 @@ msgid "These shaxthal drones have not completely grown up, so they are considera
 msgstr ""
 
 #. [attack]: type=impact
-#: ./The_Silver_Lands/units/shaxthal/Drone_Runner.cfg:47 ./The_Silver_Lands/units/shaxthal/Drone.cfg:56 ./The_Silver_Lands/units/shaxthal/Drone_Protector.cfg:45 ./The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:56 ./The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:49
+#: ./The_Silver_Lands/units/shaxthal/Drone_Protector.cfg:45 ./The_Silver_Lands/units/shaxthal/Drone_Sentry.cfg:56 ./The_Silver_Lands/units/shaxthal/Drone_Runner.cfg:47 ./The_Silver_Lands/units/shaxthal/Drone_Assault.cfg:49 ./The_Silver_Lands/units/shaxthal/Drone.cfg:56
 msgid "energy shock"
 msgstr ""
 
@@ -2772,12 +2772,12 @@ msgid "Revered warriors of old roam through the elven forests, visible only due 
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/undead/Elvish_Spirit_Warrior.cfg:34 ./The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:33 ./The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:34
+#: ./The_Silver_Lands/units/undead/Elvish_Spirit_Warrior.cfg:34 ./The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:34 ./The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:33
 msgid "ancient blade"
 msgstr ""
 
 #. [attack]: type=cold
-#: ./The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:45 ./The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:46
+#: ./The_Silver_Lands/units/undead/Elvish_Spirit_Forefather.cfg:46 ./The_Silver_Lands/units/undead/Elvish_Spirit_Ancestor.cfg:45
 msgid "requiem"
 msgstr ""
 
@@ -2900,7 +2900,7 @@ msgid "Vampires always had a strong obsession with blood and control. As such, t
 msgstr ""
 
 #. [attack]: type=fire
-#: ./The_Silver_Lands/units/vampires/Sangel.cfg:37 ./The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:37 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:36 ./The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:45
+#: ./The_Silver_Lands/units/vampires/Blood_Apprentice.cfg:37 ./The_Silver_Lands/units/vampires/Blood_Manipulator.cfg:36 ./The_Silver_Lands/units/vampires/Sangel.cfg:37 ./The_Silver_Lands/units/vampires/Flesh_Artisan.cfg:45
 msgid "blood boil"
 msgstr ""
 
@@ -2960,7 +2960,7 @@ msgid "A Duchess is a powerful, yet elegant vampiress who is often the wife of a
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./The_Silver_Lands/units/vampires/Sire.cfg:50 ./The_Silver_Lands/units/vampires/Duchess.cfg:51 ./The_Silver_Lands/units/vampires/Methusalem.cfg:51 ./The_Silver_Lands/units/vampires/Mistress.cfg:50
+#: ./The_Silver_Lands/units/vampires/Methusalem.cfg:51 ./The_Silver_Lands/units/vampires/Duchess.cfg:51 ./The_Silver_Lands/units/vampires/Sire.cfg:50 ./The_Silver_Lands/units/vampires/Mistress.cfg:50
 msgid "dementia gaze"
 msgstr ""
 
