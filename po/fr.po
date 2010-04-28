@@ -25,7 +25,7 @@ msgstr "Version :"
 
 #: The_Silver_Lands/_main.cfg:73
 msgid "(requires Battle for Wesnoth 1.7.6 or later)"
-msgstr "(nécessite Battle for Wesnoth 1.7.6 ou supérieur"
+msgstr "(nécessite Battle for Wesnoth 1.7.6 ou supérieur)"
 
 #. [campaign]
 #: The_Silver_Lands/_main.cfg:79
