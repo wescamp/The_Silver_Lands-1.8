@@ -48,7 +48,7 @@ MSGCONV = msgconv
 MSGFILTER = msgfilter
 
 POFILES = en_GB.po fr.po
-GMOFILES = en_GB.gmo fr.po
+GMOFILES = en_GB.gmo fr.gmo
 UPDATEPOFILES = en_GB.po-update fr.po-update
 DUMMYPOFILES = en_GB.nop fr.nop
 DISTFILES.common = Makefile.in.in remove-potcdate.sin \
