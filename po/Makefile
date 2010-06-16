@@ -79,7 +79,7 @@ top_builddir = ..
 # or entity, or to disclaim their copyright.  The empty string stands for
 # the public domain; in this case the translators are expected to disclaim
 # their copyright.
-COPYRIGHT_HOLDER = Wesnoth development team
+COPYRIGHT_HOLDER = Steven Panek
 
 # This is the email address or URL to which the translators shall report
 # bugs in the untranslated strings:
